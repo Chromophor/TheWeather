@@ -7,5 +7,5 @@
 <li><a href="#INBE">2. Inbetriebnahme des Arduino</a></li>
 <li><a href="#Prot">3. Protokoll</a></li>
 <br>
-<p>Montag 03.08.2021<br>
+<p>Dienstag 03.08.2021<br>
 Wir haben einen GitHub Account erstellt und eine Projekt-idee entwickelt. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt.</p>
