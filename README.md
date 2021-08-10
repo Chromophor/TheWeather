@@ -8,8 +8,8 @@
 <li><a href="#Prot">3. Protokoll</a></li>
 <br>
   <p><b>Dienstag 03.08.2021</b><br>
-Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt.<br>
-<b>Mittwoch 04.08.2021</b><br>In der heutigen Stunde haben wir gemeinsam mit dem Arduino Fortschritte mit der Bedienung der LEDs gemacht. Am Nachmittag haben wir getrennt Experimente z.B. mit Bewegungssensoren durchgeführt.<br></br>
+Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt.<br><br>
+<b>Mittwoch 04.08.2021</b><br>In der heutigen Stunde haben wir gemeinsam mit dem Arduino Fortschritte mit der Bedienung der LEDs gemacht. Am Nachmittag haben wir getrennt Experimente z.B. mit Bewegungssensoren durchgeführt.<br><br>
 <b>Dienstag 10.08.2021</b><br>Heute haben wir eine Liste unserer benötigten Sensoren und deren Funktion in unserer Wetterstation zusammengestellt. Diese sind unten mit der jeweiligen Funktion und zugehöriger Produktbeschreibung zu finden. Anschließend haben wir uns das Design der Wetterstation eingehender überlegt. Eine Konstruktion, die aus einem Gehäuse in Form eines Hauses bestehen soll, wie die unsen stehende Skizze verdeutlichen soll. Hier sind die Abmessungen unserer Konstruktion ebenfalls abzulesen.</p>
   
-<p><br></br>Welche Sensoren sollen eingebunden weden?<br></br>Temperatur BME280<br></br>Luftfeuchtigkeit BME280<br></br>Luftdruck BME280<br></br>Höhe BME280<br></br>Fotowiederstand BH 1750 12C https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750 <br></br>
+<p></br><b>Welche Sensoren sollen eingebunden weden?</b><br></br>Temperatur -> Thermometer -> Produkt: BME280<br>Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280<br>Luftdruck -> Barometer -> Produkt: BME280<br>Höhe -> Alitmeter -> Produkt: BME280<br>Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750) <br></br>
