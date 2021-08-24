@@ -4,12 +4,12 @@
 <h3> Inhalt </h3>
 <ul style="list-stlye-type:none">
 <li><a href="#kapitel2">1. Einleitung</a></h2></li>
-<li><a href="#INBE">2. Inbetriebnahme des Arduino</a></li>
-<li><a href="#kapitel2">3. Stundenprotokoll</a></h2></li>
+<li><a href="#kapitel4">2. Stundenprotokoll</a></h2></li>
 <br>
 <h2 id="kapitel2">1. Einleitung</h2>
-
-<h2 id="kapitel4">3. Stundenprotokoll</a></h2></li>
+<p>Für viele Menschen gehört es zu der Morgenroutine nach dem Aufstehen aus dem Fenster zu gucken und die Temperatur zu schätzen, damit man sich passend anziehen kann. Oftmals verschätzt man sich und es kommt zu ungewollten und unnötigen Stress am frühen Morgen, da es überraschend doch wärmer oder kälter ist.<br>
+  Für genau dieses Problem lässt sich einfach Abhilfe schaffen. Eine Wetterstation, die Temperatur übermittelt, wäre hierfür ideal. Ein kurzer Blick auf das neben dem Bett stehende Display würde genügen, um Gewissheit über die Temperatur zu haben. 
+<h2 id="kapitel4">2. Stundenprotokoll</a></h2></li>
   <p><b>Dienstag 03.08.2021</b><br>
 Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt.<br><br>
 <b>Mittwoch 04.08.2021</b><br>In der heutigen Stunde haben wir gemeinsam mit dem Arduino Fortschritte mit der Bedienung der LEDs gemacht. Am Nachmittag haben wir getrennt Experimente z.B. mit Bewegungssensoren durchgeführt.<br><br>
