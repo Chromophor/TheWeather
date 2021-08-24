@@ -1,4 +1,4 @@
-# TheWeater
+# TheWeather
 <h1>Wetterstation auf Basis des Arduino</h1>
 
 <h3> Inhalt </h3>
