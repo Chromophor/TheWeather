@@ -16,4 +16,4 @@ Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Am Nac
 <p></br><b>Welche Sensoren sollen eingebunden weden?</b><br></br>Temperatur -> Thermometer -> Produkt: BME280<br>Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280<br>Luftdruck -> Barometer -> Produkt: BME280<br>Höhe -> Alitmeter -> Produkt: BME280<br>Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750)
 <p><b>Dienstag 24.08.2021</b><br> An diesem Tag haben wir weiter an unserem Design gefeilt und uns Ideen zur Materialauswahl, Größe und Aufstellungsart gemacht. Zudem haben wir uns für die technischen Komponenten im Inneren die Anordnung überlegt, um eine einfache sowie intuitive Bedienung mit freundlichen Wartungsbedingungen zu ermöglichen.
 <br>
-<h2 id="kapitel2">Kapitel 2: Einleitung</h2>
+<h2 id="kapitel2">1. Einleitung</h2>
