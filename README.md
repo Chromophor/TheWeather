@@ -4,10 +4,11 @@
 <h3> Inhalt </h3>
 <ul style="list-stlye-type:none">
 <li><a href="#EINl">1. Einleitung</a></li>
+<li><a href="#kapitel2">1. Einleitung</a></h2></li>
 <li><a href="#INBE">2. Inbetriebnahme des Arduino</a></li>
 <li><a href="#Prot">3. Protokoll</a></li>
 <br>
-  <a href="#kapitel2">Einleitung</a></h2>
+  <a href="#kapitel2">1. Einleitung</a></h2>
   
   <p><b>Dienstag 03.08.2021</b><br>
 Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt.<br><br>
