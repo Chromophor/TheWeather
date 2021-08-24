@@ -5,9 +5,11 @@
 <ul style="list-stlye-type:none">
 <li><a href="#kapitel2">1. Einleitung</a></h2></li>
 <li><a href="#INBE">2. Inbetriebnahme des Arduino</a></li>
-<li><a href="#Prot">3. Protokoll</a></li>
+<li><a href="#kapitel2">3. Stundenprotokoll</a></h2></li>
 <br>
 <h2 id="kapitel2">1. Einleitung</h2>
+
+<h2 id="kapitel4">3. Stundenprotokoll</a></h2></li>
   <p><b>Dienstag 03.08.2021</b><br>
 Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt.<br><br>
 <b>Mittwoch 04.08.2021</b><br>In der heutigen Stunde haben wir gemeinsam mit dem Arduino Fortschritte mit der Bedienung der LEDs gemacht. Am Nachmittag haben wir getrennt Experimente z.B. mit Bewegungssensoren durchgeführt.<br><br>
