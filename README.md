@@ -23,3 +23,5 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 
 ![Screenshot![Screenshot (79)](https://user-images.githubusercontent.com/88386049/130642215-62fce554-d338-4207-9fac-c558b88ba407.png)
 ](Bilder/Screenshot (79).png "Beispiel")
+
+<p><b>Mittwoch 25.08.2021</b><br> Diese Stunde haben wir dazu genutzt, unser Design weiterzuentwickeln. Dabei haben wir unser Design hinsichtlich der Funktion der Sensoren angepasst, dass man möglichst genaue Messwerte erhält, ohne die Sensoren zu beschädigen.  und bereits erste Sensoren auszuprobieren. Dazu gehören ein Temperatur- und ein Lichtsensor. Diese haben wir über ein Programm angesteuert und die Messwerte ausgewertet. 
