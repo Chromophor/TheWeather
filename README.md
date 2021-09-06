@@ -60,7 +60,7 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 
 
 <h2 id="kapitel3">3. Materialien</a></h2></li>
-- [x] *Eine **ToDo-Liste** in unser Repository einfügen*
-- [x] *Mehr Struktur in unser Protokoll bringen*
-- [ ] *Umsetzbarkeit unserer App prüfen*
-- [ ] *Ersten Prototyp unseres Projekts anfertigen*
+[x] *Eine **ToDo-Liste** in unser Repository einfügen*
+[x] *Mehr Struktur in unser Protokoll bringen*
+[ ] *Umsetzbarkeit unserer App prüfen*
+[ ] *Ersten Prototyp unseres Projekts anfertigen*
