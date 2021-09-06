@@ -5,6 +5,7 @@
 <ul style="list-stlye-type:none">
 <li><a href="#kapitell">1. Einleitung</a></h2></li>
 <li><a href="#kapitel2">2. Stundenprotokoll</a></h2></li>
+<li><a href="#kapitel3">3. Materialien</a></h2></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
 <p>Für viele Menschen gehört es zu der Morgenroutine nach dem Aufstehen aus dem Fenster zu gucken und die Temperatur zu schätzen, damit man sich passend anziehen kann. Oftmals verschätzt man sich und es kommt zu ungewolltem und unnötigen Stress am frühen Morgen, da es überraschend doch wärmer oder kälter ist.<br>
@@ -55,3 +56,11 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 
 ![Screenshot (81)](https://user-images.githubusercontent.com/88386049/132136200-133b7af6-c8e3-4adb-9e8c-fc44daefaab2.png)
 <p>Ausgabe der gemessenen Daten auf dem Seriellen Motitor.</p>
+
+
+
+<h2 id="kapitel3">3. Materialien</a></h2></li>
+- [x] *Eine **ToDo-Liste** in unser Repository einfügen*
+- [x] *Mehr Struktur in unser Protokoll bringen*
+- [ ] *Umsetzbarkeit unserer App prüfen*
+- [ ] *Ersten Prototyp unseres Projekts anfertigen*
