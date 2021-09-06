@@ -60,7 +60,12 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 
 
 <h2 id="kapitel3">3. Materialien</a></h2></li>
-[x] *Eine **ToDo-Liste** in unser Repository einfügen*
-[x] *Mehr Struktur in unser Protokoll bringen*
-[ ] *Umsetzbarkeit unserer App prüfen*
-[ ] *Ersten Prototyp unseres Projekts anfertigen*
+
+/*Liste mit allen Materialien für unsere Wetterstation
+- [x] Arduino UNO R3
+- [x] Breadboard
+- [x] Temperatur -> Thermometer -> Produkt: BME280
+- [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
+- [x] Luftdruck -> Barometer -> Produkt: BME280
+- [x] Höhe -> Alitmeter -> Produkt: BME280
+- [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C
