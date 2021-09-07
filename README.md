@@ -40,7 +40,7 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 <p>Ausgabe im Seriellen-Monitor</p>
 
 ![Screenshot (81)](https://user-images.githubusercontent.com/88386049/132124410-a5e63ba7-c7ea-46d3-a904-8019e77caf88.png)
-<p>Auswertung der Daten in Exel mit Bildung eines Mittelwertes aus den fiktiven Werten.</p>
+<p>Auswertung der Daten in Excel mit Bildung eines Mittelwertes aus den fiktiven Werten.</p>
 
 <p><b>Mittwoch 25.08.2021</b><br>
   Diese Stunde haben wir dazu genutzt, unser Design weiterzuentwickeln. Dabei haben wir unser Design hinsichtlich der Funktion der Sensoren angepasst, dass man möglichst genaue Messwerte erhält, ohne die Sensoren zu beschädigen. Letztendlich haben wir ein Design ausgewählt, das funktional sehr gut zu unserem Projekt passt und zusätlich mobil und in jedem Garten ausstellbar ist. Außerdem haben wir bereits erste Sensoren ausprobiert. Bezüglich der Auswertung hatten wir besonders beim Temperatursensor Erfolg und konnten am Ende der Stunde die Temperatur am Bildschirm ablesen.</p>
