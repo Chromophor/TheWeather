@@ -61,7 +61,7 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 
 <h2 id="kapitel3">3. Materialien</a></h2></li>
 
-/*Liste mit allen Materialien für unsere Wetterstation
+/*Liste mit allen Materialien für unsere Wetterstation*/
 - [x] Arduino UNO R3
 - [x] Breadboard
 - [x] Temperatur -> Thermometer -> Produkt: BME280
