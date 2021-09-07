@@ -58,7 +58,14 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 ![Screenshot (81)](https://user-images.githubusercontent.com/88386049/132136200-133b7af6-c8e3-4adb-9e8c-fc44daefaab2.png)
 <p>Ausgabe der gemessenen Daten auf dem Seriellen Motitor.</p>
 
+<p><b>Dienstag 07.09.2021</b><br>
+  In der heutigen Doppelstunde haben wir zuerst an verschiedenen Projekten gearbeitet. Henrik hat an einer Lösung gearbeitet, eine Excel-Datei auf einer Website mit einzubinden, damit wir unsere meteorologischen Messwerte visualisieren können. Währenddessen hat Thorben versucht, auf den Arduino ein Datalogging-Shield zu setzen und Gernot hat an einem LCD-Display gearbeitet, worauf im Finalen Aufbau die Ergebnisse der Sensorenauswertung gezeigt werden sollen. Doch nachdem wir Ihnen unser Problem mit den falschen Messerten beim BME280 Sensor geschildert hatten, haben wir uns dazu entschlossen, in der restlichen Stunde das Löten von elektronischen Bausteinen zu erlernen. Das Löten ist ein thermisches Verfahren, bei dem elektrisch leitende Verbindungen zwischen Feststoffen stoffschlüssig erschaffen werden. In unserem Fall haben wir eine 6 Pin (männlich auf männlich) Stiftleiste mit den 6 Pins am BME280 Sesor verlötet. Im Vorhinein konnten wir an einem T-Cobbler für den RaspberryPi das Löten ausprobieren. Unsere Verlötung an dem BME280 gelasng uns gut und zeigte nach der Überprüfung am PC eine direkte Wirkung: wir konnten gleich richtige Sensordaten trotz einer minimalen Bewegung erheben. Dies ist ein großer Vortschritt im Gegensatz zu der vorherigen misslichen Lage und hat uns sehr gut weitergeholfen.</p>
 
+![20210907_160715](https://user-images.githubusercontent.com/88386049/132398754-e1a37693-f48c-49d6-839b-0f03852d0f2f.jpg)
+![20210907_161527](https://user-images.githubusercontent.com/88386049/132398769-7e5ded13-085c-4e5d-8fdd-622e15cd4064.jpg)
+
+
+<p><b>Mittwoch 08.09.2021</b><br>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
