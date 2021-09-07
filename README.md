@@ -73,3 +73,4 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 
 
 <h2 id="kapitel4">4. Quellen</a></h2>
+<li>file:///G:/Klasse%2012bc/Informatik/DE_SolderComic_L%C3%B6ten_loeten.pdf</li>
