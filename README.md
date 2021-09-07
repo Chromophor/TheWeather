@@ -6,6 +6,7 @@
 <li><a href="#kapitell">1. Einleitung</a></h2></li>
 <li><a href="#kapitel2">2. Stundenprotokoll</a></h2></li>
 <li><a href="#kapitel3">3. Materialien</a></h2></li>
+<li><a href="#kapitel4">4.Quellen</a></h2></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
 <p>Für viele Menschen gehört es zu der Morgenroutine nach dem Aufstehen aus dem Fenster zu gucken und die Temperatur zu schätzen, damit man sich passend anziehen kann. Oftmals verschätzt man sich und es kommt zu ungewolltem und unnötigen Stress am frühen Morgen, da es überraschend doch wärmer oder kälter ist.<br>
@@ -59,7 +60,7 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 
 
 
-<h2 id="kapitel3">3. Materialien</a></h2></li>
+<h2 id="kapitel3">3. Materialien</a></h2>
 
 /*Liste mit allen Materialien für unsere Wetterstation
 - [x] Arduino UNO R3
@@ -69,3 +70,6 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 - [x] Luftdruck -> Barometer -> Produkt: BME280
 - [x] Höhe -> Alitmeter -> Produkt: BME280
 - [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C
+
+
+<h2 id="kapitel4">4. Quellen</a></h2>
