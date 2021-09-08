@@ -73,11 +73,12 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
-/*Liste mit allen Materialien für unsere Wetterstation
-
+Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen:
+<b>Produktbeschreibung jeweils hinzufügen!!!</b>
 
 - [x] Arduino UNO R3
 - [x] Breadboard
+- [x] LCD Display 
 - [x] Temperatur -> Thermometer -> Produkt: BME280
 - [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
 - [x] Luftdruck -> Barometer -> Produkt: BME280
