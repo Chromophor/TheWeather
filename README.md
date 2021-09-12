@@ -78,7 +78,8 @@ Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation bra
 
 - [x] Arduino UNO R3
 - [x] Breadboard
-- [x] LCD Display 
+- [x] LCD Display
+- [x] Datalogging-Shield 
 - [x] Temperatur -> Thermometer -> Produkt: BME280
 - [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
 - [x] Luftdruck -> Barometer -> Produkt: BME280
