@@ -74,18 +74,23 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
-Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen:
-<b>Produktbeschreibung jeweils hinzufügen!!!</b>
+<p>Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen:
+<b>Produktbeschreibung jeweils hinzufügen!!!</b></p>
 
-- [x] Arduino UNO R3
-- [x] Breadboard
-- [x] LCD Display
-- [x] Datalogging-Shield 
+<p><b>Sensoren:</b></p>
 - [x] Temperatur -> Thermometer -> Produkt: BME280
 - [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
 - [x] Luftdruck -> Barometer -> Produkt: BME280
 - [x] Höhe -> Alitmeter -> Produkt: BME280
 - [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C
+
+<p><b>Weitere technische Bauteile:</b></p>
+- [x] Arduino UNO R3
+- [x] Breadboard
+- [x] LCD Display
+- [x] Datalogging-Shield 
+
+<p><b>Bauteile für das Gehäuse der Wetterstation:</b></p>
 
 
 <h2 id="kapitel4">4. Quellen</a></h2>
