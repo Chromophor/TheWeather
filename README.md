@@ -78,6 +78,7 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 <b>Produktbeschreibung jeweils hinzufügen!!!</b></p>
 
 <p><b>Sensoren:</b></p>
+
 - [x] Temperatur -> Thermometer -> Produkt: BME280
 - [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
 - [x] Luftdruck -> Barometer -> Produkt: BME280
@@ -85,6 +86,7 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 - [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C
 
 <p><br><b>Weitere technische Bauteile:</b></p>
+
 - [x] Arduino UNO R3
 - [x] Breadboard
 - [x] LCD Display
