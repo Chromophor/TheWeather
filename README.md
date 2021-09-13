@@ -84,13 +84,13 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 - [x] Höhe -> Alitmeter -> Produkt: BME280
 - [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C
 
-<p><b>Weitere technische Bauteile:</b></p>
+<p><br><b>Weitere technische Bauteile:</b></p>
 - [x] Arduino UNO R3
 - [x] Breadboard
 - [x] LCD Display
 - [x] Datalogging-Shield 
 
-<p><b>Bauteile für das Gehäuse der Wetterstation:</b></p>
+<p><br><b>Bauteile für das Gehäuse der Wetterstation:</b></p>
 
 
 <h2 id="kapitel4">4. Quellen</a></h2>
