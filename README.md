@@ -74,7 +74,7 @@ Unsere Wetterstation (Name fehlt) ist eine hervorragende Art das Aufstehen zu er
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
-<p>Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen:
+<p>Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen. Alle eingesetzten Materialien sind mit einem Haken gekennzeichnet:
 <b>Produktbeschreibung jeweils hinzufügen!!!</b></p>
 
 <p><b>Sensoren:</b></p>
