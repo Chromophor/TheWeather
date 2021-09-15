@@ -94,6 +94,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 <p><br><b>Bauteile für das Gehäuse der Wetterstation:</b></p>
 
+- [x] Hier kannst du deine Materialliste eintragen Gernot...
 
 <h2 id="kapitel4">4. Quellen</a></h2>
 <li>file:///G:/Klasse%2012bc/Informatik/DE_SolderComic_L%C3%B6ten_loeten.pdf</li>
