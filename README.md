@@ -72,7 +72,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 <p><b>Dienstag 14.09.2021</b><br> 
   Heute ist der Informatikunterricht leider ausgefallen. Wir haben aber die Zeit genutzt und unser Repusitory überarbeitet.
-  <detail>Hallo</detail>
+  <details>Hallo</detail>
 
   
 <h2 id="kapitel3">3. Materialien</a></h2>
