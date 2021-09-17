@@ -98,7 +98,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <p><b>Mittwoch 15.09.2021</b><br> 
   Heute ist der Informatikunterricht auch ausgefallen. Wir haben aber die Zeit genutzt und unser Repository überarbeitet. Die Struktur gefällt uns so jetzt gut. Wir haben Dropdowns für unsere Screenshots eingefügt, damit unser Stundenprotokoll übersichtlicher ist. <b>Code als Beispiel einfügen!!</b></p>
 
-<addr>
+<addr>Code</addr>
   
 <h2 id="kapitel3">3. Materialien</a></h2>
 
