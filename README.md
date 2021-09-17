@@ -69,7 +69,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <p><b>Dienstag 07.09.2021</b><br>
   In der heutigen Doppelstunde haben wir zuerst an verschiedenen Projekten gearbeitet. Henrik hat an einer Lösung gearbeitet, eine Excel-Datei auf einer Website mit einzubinden, damit wir unsere meteorologischen Messwerte visualisieren können. Währenddessen hat Thorben versucht, auf den Arduino ein Datalogging-Shield zu setzen und Gernot hat an einem LCD-Display gearbeitet, worauf im Finalen Aufbau die Ergebnisse der Sensorenauswertung gezeigt werden sollen. Doch nachdem wir Ihnen unser Problem mit den falschen Messwerten beim BME280 Sensor geschildert hatten, haben wir uns dazu entschlossen, in der restlichen Stunde das Löten von elektronischen Bausteinen zu erlernen. Das Löten ist ein thermisches Verfahren, bei dem elektrisch leitende Verbindungen zwischen Feststoffen stoffschlüssig erschaffen werden. In unserem Fall haben wir eine 6 Pin (männlich auf männlich) Stiftleiste mit den 6 Pins am BME280 Sesor verlötet. Im Vorhinein konnten wir an einem T-Cobbler für den RaspberryPi das Löten ausprobieren. Unsere Verlötung an dem BME280 gelasng uns gut und zeigte nach der Überprüfung am PC eine direkte Wirkung: wir konnten gleich richtige Sensordaten trotz einer minimalen Bewegung erheben. Dies ist ein großer Vortschritt im Gegensatz zu der vorherigen misslichen Lage und hat uns sehr gut weitergeholfen.</p>
 
-<details><summary>Screenshots zum Lötversuch</summary>
+<details><summary>Bilder zum Lötversuch</summary>
   
 ![20210907_160715](https://user-images.githubusercontent.com/88386049/132398754-e1a37693-f48c-49d6-839b-0f03852d0f2f.jpg)
 <p>Lötveruche am T-Cobbler</p>
@@ -87,7 +87,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 <details><summary>Screenshots Dienstag 14.09.2021</summary>
 
-![Screenshot (87)](https://user-images.githubusercontent.com/88386049/133743547-28b84256-4926-47ba-acfb-96774b9f43e2.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/88386049/133761889-dd3925f9-6e66-4b34-8bda-93b4fa741d21.png)
   
 ![Screenshot (89)](https://user-images.githubusercontent.com/88386049/133743885-ba1a569d-7145-471e-a050-2dd52c48c357.png)
 
@@ -124,3 +124,5 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 <h2 id="kapitel4">4. Quellen</a></h2>
 <li>file:///G:/Klasse%2012bc/Informatik/DE_SolderComic_L%C3%B6ten_loeten.pdf</li>
+<li>Arduino Kompendium, Danny Schreiter, {BMU VERLAG}</li>
+
