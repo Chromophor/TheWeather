@@ -61,12 +61,14 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <p><b>Dienstag 07.09.2021</b><br>
   In der heutigen Doppelstunde haben wir zuerst an verschiedenen Projekten gearbeitet. Henrik hat an einer Lösung gearbeitet, eine Excel-Datei auf einer Website mit einzubinden, damit wir unsere meteorologischen Messwerte visualisieren können. Währenddessen hat Thorben versucht, auf den Arduino ein Datalogging-Shield zu setzen und Gernot hat an einem LCD-Display gearbeitet, worauf im Finalen Aufbau die Ergebnisse der Sensorenauswertung gezeigt werden sollen. Doch nachdem wir Ihnen unser Problem mit den falschen Messwerten beim BME280 Sensor geschildert hatten, haben wir uns dazu entschlossen, in der restlichen Stunde das Löten von elektronischen Bausteinen zu erlernen. Das Löten ist ein thermisches Verfahren, bei dem elektrisch leitende Verbindungen zwischen Feststoffen stoffschlüssig erschaffen werden. In unserem Fall haben wir eine 6 Pin (männlich auf männlich) Stiftleiste mit den 6 Pins am BME280 Sesor verlötet. Im Vorhinein konnten wir an einem T-Cobbler für den RaspberryPi das Löten ausprobieren. Unsere Verlötung an dem BME280 gelasng uns gut und zeigte nach der Überprüfung am PC eine direkte Wirkung: wir konnten gleich richtige Sensordaten trotz einer minimalen Bewegung erheben. Dies ist ein großer Vortschritt im Gegensatz zu der vorherigen misslichen Lage und hat uns sehr gut weitergeholfen.</p>
 
-<details>Screenshot</details>
+<details><Screenshots>
 ![20210907_160715](https://user-images.githubusercontent.com/88386049/132398754-e1a37693-f48c-49d6-839b-0f03852d0f2f.jpg)
 <p>Lötveruche am T-Cobbler</p>
 
 ![20210907_161527](https://user-images.githubusercontent.com/88386049/132398769-7e5ded13-085c-4e5d-8fdd-622e15cd4064.jpg)
 <p>Lötprozess am BME280 Sensor</p>
+
+</details>
 
 <p><b>Mittwoch 08.09.2021</b><br>
   Wie abhängig man von der digitalen Ausstattung ist, erkennt man, wenn man in der Informatik-Stunde sitzt und das Internet, sowie die Computer nicht funktionieren. Genau dies war heute der Fall. Die Server von IServ waren nicht betriebsbereit, weshalb wir die Informatik-Stunde unplugged gestalten mussten. Wie arbeitet man im Informatikunterricht ohne Computer produktiv? Wir haben die Zeit genutzt und uns erneut dem Design unserer Wetterstation gewidmet und eine Einkaufsliste für die Materialien erstellt, die Gernot am Donnerstag im Baumarkt erwerben wird. Als dann plötzlich das Internet wieder funktionierte haben wir uns die restlichen Minuten mit den jeweils aufgeteilten Projekten beschäftigt. Leider war das Internet währenddessen sehr langsam und erschwerte das Arbeiten. Zum Abschluss der Stunde konnten wir das vorgenommene Arbeitspensum wegen der technischen schwierigkeiten am Anfang nicht erreichen. In der nächsten Doppelstunde arbeiten wir deshalb an dem letzten Arbeitsstand weiter und versuchen Zuhause, soweit möglich, weiter zu arbeiten.</p>
