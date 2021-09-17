@@ -56,7 +56,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <p><b>Mittwoch 01.09.2021</b><br>
   Nachdem wir in der letzten Doppelstunde bei der Genauigkeit des BME280 Sensors Probleme hatten und leider falsche Werte gemessen haben, mussten wir uns in der heutigen Stunde mit dem Debuggen des Sensors beschäftigen. Zum Ende der Stunde sind wir zu der Erkenntnis gelangt, dass eines der Jumper-Kabel einen Wackelkontakt haben muss oder die Kontaktverbindung des, weshalb teilweise falsche Werte übermittelt wurden. Dieses Problem haben wir behoben, indem wir den BME280 erstmal provisorisch mit Tesa-Film an die Jumperkabel geklebt haben. In der finalen Installation des BME280 an der Wetterstation müssen wir uns überlegen, ob wir den Senosor ebenfalls verkleben oder an die Jumpüer-Kabel löten. Dieses könnte im Zeifelsfall nötig sein, weil wir sonst im Betrieb falsche Werte mit der Wetterstation erfasen. Wie aber in den unten folgenden Screenshots zu sehen ist, funktionieren die Messungen des BME280 nun bis auf die Höhenangabe genau. Diese scheint noch immer fehlerhaft zu sein. Die Raumtemperatur von ca. 25°C und einer Luftfeuchtigkeit von ca. 50% konnten wir aber mit unser eigenen Wetterstation beweisen. Auch der Luftdruck von 1018hPa entspricht den aktuellen meteorologischen Daten. Nebenbei haben wir uns in der Stunde mit der Implementierung eines Fotowiederstandes beschäftigt und das Projekt mit dem Erschütterungssensor weiter verfolgt.</p><br>
 
-<detials><summary>Screenshots Mittwoch 01.09.2021</summary>
+<details><summary>Screenshots Mittwoch 01.09.2021</summary>
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/88386049/132136199-e0431856-ff5b-4b89-ae7c-6d0cf2e9d7ed.png)
 <p>Code für den Sensor BME280</p>
