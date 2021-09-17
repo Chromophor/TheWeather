@@ -80,13 +80,21 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 </details>
 
 <p><b>Mittwoch 08.09.2021</b><br>
-  Wie abhängig man von der digitalen Ausstattung ist, erkennt man, wenn man in der Informatik-Stunde sitzt und das Internet, sowie die Computer nicht funktionieren. Genau dies war heute der Fall. Die Server von IServ waren nicht betriebsbereit, weshalb wir die Informatik-Stunde unplugged gestalten mussten. Wie arbeitet man im Informatikunterricht ohne Computer produktiv? Wir haben die Zeit genutzt und uns erneut dem Design unserer Wetterstation gewidmet und eine Einkaufsliste für die Materialien erstellt, die Gernot am Donnerstag im Baumarkt erwerben wird. Als dann plötzlich das Internet wieder funktionierte haben wir uns die restlichen Minuten mit den jeweils aufgeteilten Projekten beschäftigt. Leider war das Internet währenddessen sehr langsam und erschwerte das Arbeiten. Zum Abschluss der Stunde konnten wir das vorgenommene Arbeitspensum wegen der technischen schwierigkeiten am Anfang nicht erreichen. In der nächsten Doppelstunde arbeiten wir deshalb an dem letzten Arbeitsstand weiter und versuchen Zuhause, soweit möglich, weiter zu arbeiten.</p>
+  Wie abhängig man von der digitalen Ausstattung ist, erkennt man, wenn man in der Informatik-Stunde sitzt und das Internet, sowie die Computer nicht funktionieren. Genau dies war heute der Fall. Die Server von IServ waren nicht betriebsbereit, weshalb wir die Informatik-Stunde unplugged gestalten mussten. Wie arbeitet man im Informatikunterricht ohne Computer produktiv? Wir haben die Zeit genutzt und uns erneut dem Design unserer Wetterstation gewidmet und eine Einkaufsliste für die Materialien erstellt, die Gernot am Donnerstag im Baumarkt erwerben wird. Als dann plötzlich das Internet wieder funktionierte haben wir uns die restlichen Minuten mit den jeweils aufgeteilten Projekten beschäftigt. Leider war das Internet währenddessen sehr langsam und erschwerte das Arbeiten. Zum Abschluss der Stunde konnten wir das vorgenommene Arbeitspensum wegen der technischen Schwierigkeiten am Anfang nicht erreichen. In der nächsten Doppelstunde arbeiten wir deshalb an dem letzten Arbeitsstand weiter und versuchen Zuhause, soweit möglich, weiter zu arbeiten.</p>
   
 <p><b>Dienstag 14.09.2021</b><br> 
   Heute ist der Informatikunterricht leider ausgefallen. Zuhause haben wir uns weiter mit dem Projekt beschäftigt. So hat Thorben weiter an dem Datalogging-Shield gearbeitet und ein Skript geschrieben, das es uns ermöglichen soll, Daten auf einer SD-Karte zu speichern. Das Skript funktioniert auch, jedoch gab es immer wieder die Fehlermeldung, dass die SD-Karte nicht gelesen werden kann (siehe Screenshot). Das kann mehrere Ursachen haben. Zum einen kann die Felhlermeldung an die Größe der SD-Karte gekoppelt sein. Ich habe eine 64GB SD-Karte verwendet und es kann sein, dass das Datalogging-Shield nicht mit derartig großen SD-Karten arbeitet kann. Diese Theorie halte ich aber nicht für sehr wahrscheinlich. Viel mehr denke ich, dass die SD-Karte falsch formatiert ist und deshalb nicht von dem Datalogging-Shield gelesen werden kann. Das Problem dabei war, dass man die 64GB SD-Karte nicht in das benötigte FAT Format umformatieren konnte. Daher haben wir zu Hause nach anderen kleineren und anders formatierten SD-Karten gesucht.</p>
   
+<details><summary>Screenshots Dienstag 14.09.2021</summary>
+
+![Screenshot (87)](https://user-images.githubusercontent.com/88386049/133743547-28b84256-4926-47ba-acfb-96774b9f43e2.png)
+  
+![Screenshot (89)](https://user-images.githubusercontent.com/88386049/133743885-ba1a569d-7145-471e-a050-2dd52c48c357.png)
+
+</details>
+  
 <p><b>Mittwoch 15.09.2021</b><br> 
-  Heute ist der Informatikunterricht auch ausgefallen. Wir haben aber die Zeit genutzt und unser Repository überarbeitet. Die Struktur gefällt uns so jetzt gut.
+  Heute ist der Informatikunterricht auch ausgefallen. Wir haben aber die Zeit genutzt und unser Repository überarbeitet. Die Struktur gefällt uns so jetzt gut. Wir haben Dropdowns für unsere Screenshots eingefügt, damit unser Stundenprotokoll übersichtlicher ist.</p>
 
   
 <h2 id="kapitel3">3. Materialien</a></h2>
