@@ -96,7 +96,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 </details>
   
 <p><b>Mittwoch 15.09.2021</b><br> 
-  Heute ist der Informatikunterricht auch ausgefallen. Wir haben aber die Zeit genutzt und unser Repository überarbeitet. Die Struktur gefällt uns so jetzt gut. Wir haben Dropdowns für unsere Screenshots eingefügt, damit unser Stundenprotokoll übersichtlicher ist.</p>
+  Heute ist der Informatikunterricht auch ausgefallen. Wir haben aber die Zeit genutzt und unser Repository überarbeitet. Die Struktur gefällt uns so jetzt gut. Wir haben Dropdowns für unsere Screenshots eingefügt, damit unser Stundenprotokoll übersichtlicher ist und uns mit dem Markdown Githubs intensiver beschäftigt. So haben wir auch eine Möglichkeit gefunden, Code als Beispiel mit einzubinden (siehe unten).</p>
 
 ```
 <detials><summary>Beschreibung</summary>
