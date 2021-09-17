@@ -92,6 +92,11 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 ![Screenshot (89)](https://user-images.githubusercontent.com/88386049/133743885-ba1a569d-7145-471e-a050-2dd52c48c357.png)
 <p>Fehlermeldung bei falsch formatierter oder nicht angeschlossener SD-Karte</p>
+  
+![20210917_143554](https://user-images.githubusercontent.com/88386049/133784631-34149d52-f97a-4632-b41a-eb26e12e3b4a.jpg)
+
+![20210917_143728](https://user-images.githubusercontent.com/88386049/133784824-75480956-7b8b-4147-b06b-2501727c1bd4.jpg)
+<p>Aufbau des Arduinos mit Data Logging Shield und angeschlossenem BME280</p>
 
 </details>
   
@@ -128,6 +133,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 - [x] LCD Display
 - [x] Data Logging-Shield -> XD-204 Data Logging Shield 
 - [x] 4GB SD-Karte
+
 
 <p><br><b>Bauteile für das Gehäuse der Wetterstation:</b></p>
 
