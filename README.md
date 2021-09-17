@@ -106,11 +106,8 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 <details>
 ```
+`<detials><summary>Beschreibung</summary>`
 
-`<addr
-sd
-sd
->` Hier ist ein Test `<addr>`
   
 <h2 id="kapitel3">3. Materialien</a></h2>
 
