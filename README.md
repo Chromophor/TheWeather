@@ -115,7 +115,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <details>
 ```
 <p><b>Samstag 19.09.2021</b><br>
-  Wir haben am heutigen Tag mehrere experimentelle Messreihen mit dem Data Logging Shield durchgeführt. Alle Messungen verliefen dabei ohne Probleme, was uns sehr erleichertert hat. Eine Messreihe von 08:00 bis 11:00 Uhr morgens fanden wir sehr interessant. Bei den aufgezeichneten Daten sieht man den normalen Temperaturanstieg am Morgen sehr schön veranschaulicht.</p>
+  Wir haben am heutigen Tag mehrere experimentelle Messreihen mit dem Data Logging Shield durchgeführt. Alle Messungen verliefen dabei ohne Probleme, was uns sehr erleichertert hat. Eine Messreihe von 08:00 bis 11:00 Uhr morgens fanden wir sehr interessant. Bei den aufgezeichneten Daten sieht man den normalen Temperaturanstieg am Morgen sehr gut, doch fällt einem dann auf, dass die Temperaturen wieder sinken. Die Ursache dafür ist, dass ein Schauer heranzog und dadurch die Temperatur gesunken ist. Leider konnten wir nicht im Schauer weiter messen, da unser Arduino noch kein wasserdichtes Gehäuse hat und daher bei schlechtem also feuchtem Wetter noch ins Trockene geholt werden muss. Trotzdem zeigt unsere Messreihe, dass wir einen großen Fortschritt gemacht haben.</p>
   
 <details><summary>Auswertung der gemessenen Daten in Diagrammen</summary>
   
