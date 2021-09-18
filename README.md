@@ -117,7 +117,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <p><b>Samstag 19.09.2021</b><br>
   Wir haben am heutigen Tag mehrere experimentelle Messreihen mit dem Data Logging Shield durchgeführt. Alle Messungen verliefen dabei ohne Probleme, was uns sehr erleichertert hat. Eine Messreihe von 08:00 bis 11:00 Uhr morgens fanden wir sehr interessant. Bei den aufgezeichneten Daten sieht man den normalen Temperaturanstieg am Morgen sehr schön veranschaulicht.</p>
   
-<detials><summary>Auswertung der gemessenen Daten in Diagrammen</summary>
+<details><summary>Auswertung der gemessenen Daten in Diagrammen</summary>
   
 ![Screenshot (9)](https://user-images.githubusercontent.com/88386049/133883662-c5c0b25a-518b-47e8-9439-6b414cb6cd92.png)
 ![Screenshot (10)](https://user-images.githubusercontent.com/88386049/133883663-dc4d5932-2b08-43bb-90a2-dae74cb3d51b.png)
