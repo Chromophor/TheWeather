@@ -128,6 +128,16 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <p><b>Dienstag 21.09.2021</b><br>
   Heute haben wir unterschiedlich gearbeitet. Henrik und Thorben haben in der Schule weitergeartbeitet und Gernot ist aus gesundheitlichen Gründen zu Hause geblieben. In dieser Zeit haben wir weiter an unserem Projekt gearbeitet und den Rohbau des Häuschens verfeinert. Im nächsten Schritt müssen die einzelnen Sensoren und Platinen eingepasst werden, sodass nach weiterer Anpassung des Gehäuses eine erste Lackierung vorgenommen werden kann. Währenddessen hat Henrik an der Website weiter programmiert und noch verschiedene Sachen geändert. So hat die Website nun ein Hintergrundbild und die Anzeigekästchen haben abgerundete Ecken. Des weiteren sind die Farben einheitlich. Abschließend müssen wir uns nur noch auf eine Art einigen, wie wir die Messwerte genau darstellen wollen. Thorben hat mit dem Data Logging Shield an einer Lösung für eine zeitliche Erfassung der Messwerte gearbeitet. Dabei haben wir die im Data Logging Shield integrierte RTC (Real-Time-Clock) verwendet um die Urzeit anzuzeigen.</p>
   
+<details><summary>Screenshots Dienstag 21.09.2021</summary>
+  
+![Screenshot (96)](https://user-images.githubusercontent.com/88386049/134226899-d8e6c713-f8c3-4707-b800-20a9c78a408b.png)
+<p>Code für die RTC (Real-Time-Clock)</p>
+  
+![Screenshot (97)](https://user-images.githubusercontent.com/88386049/134226930-8a8a8a3f-27ae-4d32-aef8-c1c503eee333.png)
+<p>Auf dem Seriellenmonitor wird die Uhrzeit in Stunde, Minute, Sekunde, sowie der Tag, Monat und das Jahr angegeben</p>
+
+</details>
+  
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
