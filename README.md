@@ -114,7 +114,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 <details>
 ```
-<p><b>Samstag 19.09.2021</b><br>
+<p><b>Samstag 18.09.2021</b><br>
   Wir haben am heutigen Tag mehrere experimentelle Messreihen mit dem Data Logging Shield durchgeführt. Alle Messungen verliefen dabei ohne Probleme, was uns sehr erleichertert hat. Eine Messreihe von 08:00 bis 11:00 Uhr morgens fanden wir sehr interessant. Bei den aufgezeichneten Daten sieht man den normalen Temperaturanstieg am Morgen sehr gut, doch fällt einem dann auf, dass die Temperaturen wieder leicht sinken. Die Ursache dafür ist, dass ein Schauer heranzog und dadurch die Temperatur gesunken ist, was man auch an der steigenden Luftfeuchtigkeit sehen kann. Leider konnten wir nicht im Schauer weiter messen, da unser Arduino noch kein wasserdichtes Gehäuse hat und daher bei schlechtem also feuchtem Wetter noch ins Trockene geholt werden muss. Trotzdem zeigt unsere Messreihe, dass wir einen großen Fortschritt gemacht haben.</p>
   
 <details><summary>Auswertung der gemessenen Daten in Diagrammen</summary>
@@ -124,6 +124,9 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 ![Screenshot (11)](https://user-images.githubusercontent.com/88386049/133883665-340b7f9e-6e00-4902-a096-a16b7952265b.png)
   
 </details>
+
+<p><b>Dienstag 21.09.2021</b><br>
+  Heute haben wir unterschiedlich gearbeitet. Henrik und Thorben haben in der Schule weitergeartbeitet und Gernot ist zu Hause geblieben aus gesundheitlichen Gründen. In dieser Zeit haben wir weiter an unserem Projekt gearbeitet und den Rohbau des Häuschens verfeinert. Im nächsten Schritt müssen die einzelnen Sensoren und Platinen eingepasst werden, sodass nach weiterer Anpassung des Gehäuses eine erste Lackierung vorgenommen werden kann. 
   
 <h2 id="kapitel3">3. Materialien</a></h2>
 
