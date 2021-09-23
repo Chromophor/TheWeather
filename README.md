@@ -137,7 +137,12 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <p>Auf dem Seriellenmonitor wird die Uhrzeit in Stunde, Minute, Sekunde, sowie der Tag, Monat und das Jahr angegeben</p>
 
 </details>
-  
+
+<p><b>Mittwoch 22.09.2021</b><br>
+  Gernot konnte heute erfreulicherweise wieder mit uns gemeinsam in der Schule an unserem Projekt arbeiten. Er hat sich in dieser Stunde erneut dem Aufbau der Wetterstation gewidmet. <b>DEINE ERKLÄRUNG GERNOT</b> Thorben hat diese Stunde genutzt, um Fehler der RTC aus dem Code von gestern zu beheben. Das Problem der gestrien Stunde war, dass die im Data Logging Shield eingebaute RTC (Real-Time-Clock) auf eine falsche Uhrzeit eingestellt war. Mit ```Code```
+
+
+
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
