@@ -139,7 +139,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 </details>
 
 <p><b>Mittwoch 22.09.2021</b><br>
-  Gernot konnte heute erfreulicherweise wieder mit uns gemeinsam in der Schule an unserem Projekt arbeiten. Er hat sich in dieser Stunde erneut dem Aufbau der Wetterstation gewidmet. <b>DEINE ERKLÄRUNG GERNOT</b> Thorben hat diese Stunde genutzt, um Fehler der RTC aus dem Code von gestern zu beheben. Das Problem der gestrien Stunde war, dass die im Data Logging Shield eingebaute RTC (Real-Time-Clock) auf eine falsche Uhrzeit eingestellt war. Mit </p>
+  Gernot konnte heute erfreulicherweise wieder mit uns gemeinsam in der Schule an unserem Projekt arbeiten. Er hat sich in dieser Stunde erneut dem Aufbau der Wetterstation gewidmet. <b>DEINE ERKLÄRUNG GERNOT</b> Thorben hat diese Stunde genutzt, um Fehler der RTC aus dem Code von gestern zu beheben. Das Problem der gestrien Stunde war, dass die im Data Logging Shield eingebaute RTC (Real-Time-Clock) auf eine falsche Uhrzeit eingestellt war.</p>
 
 ```
 Serial.print(hour() + 15);
@@ -152,7 +152,7 @@ Serial.print(month() + 6);
 Serial.print("  ");
 Serial.print(year() + 6);
 ```
-<p></p>
+<p>Mit diesem Code haben wir für die gestrige Stunde versucht, das Problem der verstellten Uhr kurzfristig und schnell zu beheben. Dass dies keine langfristige Lösung ist, war uns gestern bereits bewusst. Was entstand durch diese Korrektur mit addierten Werten? In der heutigen Stunde gab der Arduino über den Seriellen monitor die Uhrzeit 36 Uhr, 22 Minuten und 73 Sekunden. als Lösung stand hier nur das Reseten der RTc im Raum. Da die Zeit gestern aber fehlte, die RTC des Data Logging Shields zu reseten, haben wir die heutige Stunde dafür genutzt. Die im Code eingesetzten Bibliotheken ermöglichten aber keine Lösung, weshalb wir ein Skript aus dem Internet verwendet haben, um die RTC zu reseten und auf die aktuelle Uhrzeit einzustellen. Dies erwies sich auch als sehr erfolgreich, weil wir die RTC auf die Milisekunde genau auf die richtige Uhrzeit einstellen konnten. Am Wochenende hat Thorben das Prinzip der RTC in das Skript des Data Logging Shields übertragen, damit bei jedem geloggetem Wert die Uhrzeit und das Datum mit abgespiechert werden. Die Arbeitsschritte sind auch in den unten eingefügten Screenshots zu sehen. Dies hat sehr erfolgreich funktioniert.<b>BITTE AUCH DEINE BERICHT HIER</b></p>
 
 
 
