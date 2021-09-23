@@ -139,7 +139,19 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 </details>
 
 <p><b>Mittwoch 22.09.2021</b><br>
-  Gernot konnte heute erfreulicherweise wieder mit uns gemeinsam in der Schule an unserem Projekt arbeiten. Er hat sich in dieser Stunde erneut dem Aufbau der Wetterstation gewidmet. <b>DEINE ERKLÄRUNG GERNOT</b> Thorben hat diese Stunde genutzt, um Fehler der RTC aus dem Code von gestern zu beheben. Das Problem der gestrien Stunde war, dass die im Data Logging Shield eingebaute RTC (Real-Time-Clock) auf eine falsche Uhrzeit eingestellt war. Mit </p>```Code```<p>
+  Gernot konnte heute erfreulicherweise wieder mit uns gemeinsam in der Schule an unserem Projekt arbeiten. Er hat sich in dieser Stunde erneut dem Aufbau der Wetterstation gewidmet. <b>DEINE ERKLÄRUNG GERNOT</b> Thorben hat diese Stunde genutzt, um Fehler der RTC aus dem Code von gestern zu beheben. Das Problem der gestrien Stunde war, dass die im Data Logging Shield eingebaute RTC (Real-Time-Clock) auf eine falsche Uhrzeit eingestellt war. Mit </p>
+```
+Serial.print(hour() + 15);
+digitaleZahl(minute() - 7);
+digitaleZahl(second() + 12);
+Serial.print("  ");
+Serial.print(day() - 7);
+Serial.print("  ");
+Serial.print(month() + 6);
+Serial.print("  ");
+Serial.print(year() + 6);
+```
+<p>
 
 
 
