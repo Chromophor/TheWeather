@@ -139,7 +139,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 </details>
 
 <p><b>Mittwoch 22.09.2021</b><br>
-  Gernot konnte heute erfreulicherweise wieder mit uns gemeinsam in der Schule an unserem Projekt arbeiten. Er hat sich in dieser Stunde erneut dem Aufbau der Wetterstation gewidmet. <b>DEINE ERKLÄRUNG GERNOT</b> Thorben hat diese Stunde genutzt, um Fehler der RTC aus dem Code von gestern zu beheben. Das Problem der gestrien Stunde war, dass die im Data Logging Shield eingebaute RTC (Real-Time-Clock) auf eine falsche Uhrzeit eingestellt war.</p>
+  Gernot konnte heute erfreulicherweise wieder mit uns gemeinsam in der Schule an unserem Projekt arbeiten. Er hat sich in dieser Stunde erneut dem Aufbau der Wetterstation gewidmet. Hier galt es nun eine für den schon fertigen Rohbau des Häuschen für die Wetterstation eine passende Konzeption für den Innnenaufbau zu finden. Der Wunsch wurde laut, dass noch ein Display in die Außenwand integriert werden soll, was natürlich geplant sein muss. Somit wurde dann nach einem geeigeneten Ort für den Arduino, das Display und die die Sensoren gesucht, die teilweise auch Licht brauchen oder zumindest großzügig von Luft umschlossen sein müssen, damit brauchbare Messergebnisse später genommen werden können.  Thorben hat diese Stunde genutzt, um Fehler der RTC aus dem Code von gestern zu beheben. Das Problem der gestrien Stunde war, dass die im Data Logging Shield eingebaute RTC (Real-Time-Clock) auf eine falsche Uhrzeit eingestellt war.</p>
 
 ```
 Serial.print(hour() + 15);
