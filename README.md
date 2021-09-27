@@ -183,9 +183,10 @@ Serial.print(year() + 6);
 - [x] Arduino UNO R3
 - [x] Breadboard
 - [x] LCD Display
-- [x] Data Logging-Shield -> XD-204 Data Logging Shield 
+- [x] Data Logging-Shield mit RTC-> XD-204 Data Logging Shield 
 - [x] 4GB SD-Karte
 - [x] Stromversorgung für den Arduino im Haus (Batterie oder Akkumulator)
+- [x] Jumper Kabel <b>Anzahl hier!!</b>
 
 
 <p><br><b>Bauteile für das Gehäuse der Wetterstation:</b></p>
