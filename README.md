@@ -164,6 +164,9 @@ Serial.print(year() + 6);
 </details>
 
 
+![grafik](https://user-images.githubusercontent.com/88386049/135104193-1cb3f752-13fc-4bcf-8129-42258805385a.png)
+
+
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
