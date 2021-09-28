@@ -163,8 +163,17 @@ Serial.print(year() + 6);
   
 </details>
 
+<p><b>Dienstag 18.09.2021</b><br> 
+</p>
+
+<details><summary>Screenshots Dienstag 18.09.2021</summary>
+  
 
 ![grafik](https://user-images.githubusercontent.com/88386049/135104193-1cb3f752-13fc-4bcf-8129-42258805385a.png)
+![grafik](https://user-images.githubusercontent.com/88386049/135104303-841cdd5f-ad6f-4e81-94cd-b86fb4adc249.png)
+![grafik](https://user-images.githubusercontent.com/88386049/135104327-33ef5cf8-e399-4527-84f1-527c3425d80c.png)
+<p>Auswertung der in der Stunde gemessenen Daten</p>
+</details>
 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
