@@ -95,6 +95,9 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 ![20210917_143554](https://user-images.githubusercontent.com/88386049/133784631-34149d52-f97a-4632-b41a-eb26e12e3b4a.jpg)
 
+![pexels-photo-1485894](https://user-images.githubusercontent.com/88386049/135098762-5c0d5597-5bfd-48cd-b41e-48eded2d786f.jpeg)
+
+
 ![20210917_143728](https://user-images.githubusercontent.com/88386049/133784824-75480956-7b8b-4147-b06b-2501727c1bd4.jpg)
 <p>Aufbau des Arduinos mit Data Logging Shield und angeschlossenem BME280</p>
 
