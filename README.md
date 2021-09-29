@@ -165,9 +165,9 @@ Serial.print(year() + 6);
 
 <p><b>Dienstag 28.09.2021</b><br>
  Da die an den vorherigen Tagen erhobenen Daten zwar richtig waren, aber nicht übersichtlich abgespeichert waren, konnten wir sie nicht auswerten und mussten einen neuen Testdurchlauf in der Informatikstunde durchführen.  An dem unten stehenden Code kann man sehen, dass die Zeitangaben der jeweiligen Messung unter der Auflistung der Messwerte abgespeichert wird, da sowohl bei</p> 
-```Zieldatei.println(Datensatz)```
+``Zieldatei.println(Datensatz)``
 <p>als auch bei</p>
-```Zieldatei.println(Zeit)```
+``Zieldatei.println(Zeit)``
 <p> ein neuer Absatz erzeugt wird.</p>
 
 ```
