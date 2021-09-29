@@ -163,8 +163,8 @@ Serial.print(year() + 6);
   
 </details>
 
-<p><b>Dienstag 28.09.2021</b><br> 
-</p>
+<p><b>Dienstag 28.09.2021</b><br>
+ Da die an den vorherigen Tagen erhobenen Daten zwar richtig waren, aber nicht übersichtlich abgespeichert waren, konnten wir sie nicht auswerten und mussten einen neuen Testdurchlauf durchführen. Heute war der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V </p>
 
 <details><summary>Screenshots Dienstag 28.09.2021</summary>
   
@@ -174,6 +174,9 @@ Serial.print(year() + 6);
 
 <p>Auswertung der in der Stunde gemessenen Daten</p>
 </details>
+
+<p><b>Mittwoch 29.09.2021</b><br>
+  Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen Link zu den Stunden im Stundenprotokoll erstellt.</p>
 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
