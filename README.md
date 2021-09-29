@@ -174,7 +174,7 @@ if (Zieldatei) {
   }
 ```
 
-<p>Heute war der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V </p>
+<p>Deshalb war heute der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V Blockbatterie angeschlossen und ihn für eine Viertelstunde draußen auf der Fensterbank Werte aufnehmen lassen. Diese hat Thorben mit Excel ausgewertet (siehe Grafiken unten) und Henrik hat diese als erste Werte auf unserer Website eingebunden <b>Henrik, dein Bericht!!</b>. Gernot hat währenddessen an dem letzten Sensor gearbeitet, den wir mit einbinden wollen: Dem Fotowiederstand. <b>Gernot, dein Bericht!!</b></p>
 
 <details><summary>Screenshots Dienstag 28.09.2021</summary>
   
