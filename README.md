@@ -185,7 +185,7 @@ if (Zieldatei) {
 ![grafik](https://user-images.githubusercontent.com/88386049/135107034-9e1ce2aa-6d42-42b0-bf35-95f0afc0dbde.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/135107277-fc11a270-46d5-4cce-8d63-cc4b8a628652.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/135107589-20b9d957-2b84-4d3b-be64-3f733fd15d73.png)
-<p>Auswertung der in der Stunde gemessenen Daten</p>
+<p>Auswertung der in der Stunde gemessenen Daten mit korrekter zeitlicher erfassung auf der X-Achse, sowie der Messwert Größe auf der Y-Achse.</p>
   
 </details>
 
