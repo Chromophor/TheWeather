@@ -164,7 +164,17 @@ Serial.print(year() + 6);
 </details>
 
 <p><b>Dienstag 28.09.2021</b><br>
- Da die an den vorherigen Tagen erhobenen Daten zwar richtig waren, aber nicht übersichtlich abgespeichert waren, konnten wir sie nicht auswerten und mussten einen neuen Testdurchlauf durchführen. Heute war der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V </p>
+ Da die an den vorherigen Tagen erhobenen Daten zwar richtig waren, aber nicht übersichtlich abgespeichert waren, konnten wir sie nicht auswerten und mussten einen neuen Testdurchlauf durchführen.  An dem unten stehenden Code kann man sehen, dass die Zeitangaben der jeweiligen Messung unter der Auflistung der Messwerte ist.</p>
+
+```
+if (Zieldatei) {
+  Zieldatei.print(Datensatz);
+  Zieldatei.println(Zeit);
+  Zieldatei.close();
+  }
+```
+
+<p>Heute war der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V </p>
 
 <details><summary>Screenshots Dienstag 28.09.2021</summary>
   
