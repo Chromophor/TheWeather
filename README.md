@@ -177,7 +177,9 @@ if (Zieldatei) {
 <p>Deshalb war heute der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V Blockbatterie angeschlossen und ihn für eine Viertelstunde draußen auf der Fensterbank Werte aufnehmen lassen. Diese hat Thorben mit Excel ausgewertet (siehe Grafiken unten) und Henrik hat diese als erste Werte auf unserer Website eingebunden <b>Henrik, dein Bericht!!</b>. Gernot hat währenddessen an dem letzten Sensor gearbeitet, den wir mit einbinden wollen: Dem Fotowiederstand. <b>Gernot, dein Bericht!!</b></p>
 
 <details><summary>Screenshots Dienstag 28.09.2021</summary>
-  
+
+![Screenshot (106)](https://user-images.githubusercontent.com/88386049/135315427-984623fc-231c-408e-a75c-c118d4837e02.png)
+![Screenshot (107)](https://user-images.githubusercontent.com/88386049/135315431-73c484aa-3402-4faa-8483-8b7c13a85136.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/135107034-9e1ce2aa-6d42-42b0-bf35-95f0afc0dbde.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/135107277-fc11a270-46d5-4cce-8d63-cc4b8a628652.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/135107589-20b9d957-2b84-4d3b-be64-3f733fd15d73.png)
