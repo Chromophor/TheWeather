@@ -228,7 +228,7 @@ if (Zieldatei) {
 - [x] LCD Display
 - [x] Data Logging-Shield mit RTC-> XD-204 Data Logging Shield 
 - [x] 4GB SD-Karte
-- [x] Stromversorgung für den Arduino im Haus (Batterie oder Akkumulator)
+- [x] Stromversorgung für den Arduino im Haus (Batterie oder Akkumulator) -> 9V Blockbaterie mit Power-Jack
 - [x] Jumper Kabel <b>Anzahl hier!!</b>
 
 
