@@ -185,7 +185,7 @@ if (Zieldatei) {
 ![grafik](https://user-images.githubusercontent.com/88386049/135107034-9e1ce2aa-6d42-42b0-bf35-95f0afc0dbde.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/135107277-fc11a270-46d5-4cce-8d63-cc4b8a628652.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/135107589-20b9d957-2b84-4d3b-be64-3f733fd15d73.png)
-<p>Auswertung der in der Stunde gemessenen Daten mit korrekter zeitlicher erfassung auf der X-Achse, sowie der Messwert Größe auf der Y-Achse.</p>
+<p>Auswertung der in der Stunde gemessenen Daten mit korrekter zeitlicher erfassung auf der X-Achse, sowie der Messwert-Größe auf der Y-Achse.</p>
   
 </details>
 
@@ -193,7 +193,7 @@ if (Zieldatei) {
   Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen Link zu den Stunden im Stundenprotokoll erstellt.</p>
   
 <p><b>Sammstag 02.10.2021</b><br> 
-  Heute haben wir den Arduino weiter draußen mit angeschlossener 9V Blockbaterie meteorologische Daten sammeln lassen. Die Daten wurden auf der SD-Karte gespeichert und wieder in Excel mit Diagrammen ausgewertet und sind unter dem untenstehenden Dropdown zu sehen.</p>
+  Heute haben wir den Arduino weiter draußen mit angeschlossener 9V Blockbaterie meteorologische Daten sammeln lassen. Die Daten wurden auf der SD-Karte gespeichert und wieder in Excel mit Diagrammen ausgewertet und sind unter dem untenstehenden Dropdown zu sehen. Die Durchschnittstemperatur im Messzeitraum ist 16,27°C, die Durchschnittsluftfeuchtigkeit betrug 73,95% und der Luftdruck lag durchschnittlich bei 1003,74 hPa. Gemessen wurde im Zeitraum von 15:20 Uhr bis 20:30 Uhr mit einer Erfassung der Werte in einem 10 Minuten Rythmus.</p>
 
 <details><summary>Auswertung der gemessenen Daten</summary>
   
