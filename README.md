@@ -191,7 +191,13 @@ if (Zieldatei) {
 
 <p><b>Mittwoch 29.09.2021</b><br>
   Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen Link zu den Stunden im Stundenprotokoll erstellt.</p>
+  
+<p><b>Sammstag 02.10.2021</b><br> 
+  Heute haben wir den Arduino weiter draußen mit angeschlossener 9V Blockbaterie meteorologische Daten sammeln lassen. Die Daten wurden auf der SD-Karte gespeichert und wieder in Excel mit Diagrammen ausgewertet und sind unter dem untenstehenden Dropdown zu sehen.</p>
 
+<p><b>Sonntag 03.10.2021</b><br> 
+  Auch heute haben wir den Arduino meteorologsiche Daten sammeln lassen. Leider ist heute nur ein eingeschrenkter Datensatz vorhanden, weil ddie 9V Blockbatterie nach einer Stunde unvorhergesehen leer war. Trotzdem wurden Daten vom heute gemessen und gespeichert.</p>
+ 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
