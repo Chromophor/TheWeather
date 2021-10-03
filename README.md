@@ -197,7 +197,12 @@ if (Zieldatei) {
 
 <details><summary>Auswertung der gemessenen Daten</summary>
   
- 
+![grafik](https://user-images.githubusercontent.com/88386049/135761983-f8bf1b0d-1b75-4a45-bb87-33dc5693f5b9.png)
+![grafik](https://user-images.githubusercontent.com/88386049/135761991-9d355481-38d5-48be-9a06-895e87d88906.png)
+![grafik](https://user-images.githubusercontent.com/88386049/135761995-f1692b72-e085-4fd5-8f9f-b900ae87f867.png)
+
+</details>
+
 <p><b>Sonntag 03.10.2021</b><br> 
   Auch heute haben wir den Arduino meteorologsiche Daten sammeln lassen. Leider ist heute nur ein eingeschrenkter Datensatz vorhanden, weil ddie 9V Blockbatterie nach einer Stunde unvorhergesehen leer war. Trotzdem wurden Daten vom heute gemessen und gespeichert.</p>
  
