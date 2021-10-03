@@ -204,8 +204,13 @@ if (Zieldatei) {
 </details>
 
 <p><b>Sonntag 03.10.2021</b><br> 
-  Auch heute haben wir den Arduino meteorologsiche Daten sammeln lassen. Leider ist heute nur ein eingeschrenkter Datensatz vorhanden, weil ddie 9V Blockbatterie nach einer Stunde unvorhergesehen leer war. Trotzdem wurden Daten vom heute gemessen und gespeichert.</p>
+  Auch heute haben wir den Arduino meteorologsiche Daten sammeln lassen. Leider ist heute nur ein eingeschrenkter Datensatz vorhanden, weil die 9V Blockbatterie nach ca. zwei Stunden unvorhergesehen leer war. Trotzdem wurden Daten vom heute gemessen und gespeichert. Die Durchschnittstemperatur war im Messzeitraum 18,76°C, die Durschnittsluftfeuchtigkeit betrug 71,14% und der Luftdruck betrug durschnittlich 995,16 hPa. Gemessen wurden die Daten in einem zeitraum von 09:36 Uhr bis 11:26 Uhr. Die Auswertung erfolgte erneut mir Excel und ist unter den unten stehenden Dropdown zu sehen.</p>
  
+<details><summary>Auswertung der gemessenen Daten</summary>
+  
+![grafik](https://user-images.githubusercontent.com/88386049/135762521-b3adb0bf-f618-4141-96cd-d1baa967d065.png)
+
+</details>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
