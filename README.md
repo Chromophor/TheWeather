@@ -209,6 +209,8 @@ if (Zieldatei) {
 <details><summary>Auswertung der gemessenen Daten</summary>
   
 ![grafik](https://user-images.githubusercontent.com/88386049/135762521-b3adb0bf-f618-4141-96cd-d1baa967d065.png)
+![grafik](https://user-images.githubusercontent.com/88386049/135762540-d555b5f0-da72-42cc-bd21-da40e09eccee.png)
+![grafik](https://user-images.githubusercontent.com/88386049/135762543-3ed3c618-acf1-44e4-80ab-8e3f4a80775a.png)
 
 </details>
 
