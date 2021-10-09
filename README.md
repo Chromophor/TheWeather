@@ -215,7 +215,7 @@ if (Zieldatei) {
 </details>
 
 <p><b>Sammstag 09.10.2021</b><br>
-  Heute wurden erneut Testweise Daten im Zeitraum von 10:36 Uhr bis 19:06 Uhr erfasst. Dabei war erneut die Baterie das Problem, welche nicht den genzen Messzeitraum den Arduino mit Strom versorgen konnte, weil die nötige Betriebsspanung von 6-12V nicht erreicht wurde. Daher konnte die Messung nicht wie geplant bis 22:46 Uhr gehen. Die mittlere Temperatur betrug im Messzeitraum 16,65°C.</p>
+  Heute wurden erneut Testweise Daten im Zeitraum von 10:36 Uhr bis 19:06 Uhr erfasst. Dabei war erneut die Baterie das Problem, welche nicht den genzen Messzeitraum den Arduino mit Strom versorgen konnte, weil die nötige Betriebsspanung von 6-12V nicht erreicht wurde. Daher konnte die Messung nicht wie geplant bis 22:46 Uhr gehen. Die mittlere Temperatur betrug im Messzeitraum 16,65°C, die Luftfeuchtigkeit lag durchschnittlich bei 47,11% und der mittlere Luftdruck betrug 1027,72 hPa. Die Auswertung der erzeugten Daten geschah wie gewohnt bei Excel. Die erstellten Diagramme sind unten zu sehen.</p>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
