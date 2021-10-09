@@ -192,7 +192,7 @@ if (Zieldatei) {
 <p><b>Mittwoch 29.09.2021</b><br>
   Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen Link zu den Stunden im Stundenprotokoll erstellt.</p>
   
-<p><b>Sammstag 02.10.2021</b><br> 
+<p><b>Samstag 02.10.2021</b><br> 
   Heute haben wir den Arduino weiter draußen mit angeschlossener 9V Blockbaterie meteorologische Daten sammeln lassen. Die Daten wurden auf der SD-Karte gespeichert und wieder in Excel mit Diagrammen ausgewertet und sind unter dem untenstehenden Dropdown zu sehen. Die Durchschnittstemperatur im Messzeitraum ist 16,27°C, die Durchschnittsluftfeuchtigkeit betrug 73,95% und der Luftdruck lag durchschnittlich bei 1003,74 hPa. Gemessen wurde im Zeitraum von 15:20 Uhr bis 20:30 Uhr mit einer Erfassung der Werte in einem 10 Minuten Rythmus.</p>
 
 <details><summary>Auswertung der gemessenen Daten</summary>
@@ -214,7 +214,7 @@ if (Zieldatei) {
 
 </details>
 
-<p><b>Sammstag 09.10.2021</b><br>
+<p><b>Samstag 09.10.2021</b><br>
   Heute wurden erneut Testweise Daten im Zeitraum von 10:36 Uhr bis 19:06 Uhr erfasst. Dabei war erneut die Baterie das Problem, welche nicht den ganzen Messzeitraum den Arduino mit Strom versorgen konnte, weil die nötige Betriebsspanung von 6-12V nicht erreicht wurde. Daher konnte die Messung nicht wie geplant bis 22:46 Uhr gehen. Die mittlere Temperatur betrug im Messzeitraum 16,65°C, die Luftfeuchtigkeit lag durchschnittlich bei 47,11% und der mittlere Luftdruck betrug 1027,72 hPa. Die Auswertung der erzeugten Daten geschah wie gewohnt bei Excel. Die erstellten Diagramme, sind unten unter dem Dropdown zu sehen.</p>
 
 <details><summary>Auswertung der gemessenen Daten</summary>
