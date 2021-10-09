@@ -215,7 +215,15 @@ if (Zieldatei) {
 </details>
 
 <p><b>Sammstag 09.10.2021</b><br>
-  Heute wurden erneut Testweise Daten im Zeitraum von 10:36 Uhr bis 19:06 Uhr erfasst. Dabei war erneut die Baterie das Problem, welche nicht den genzen Messzeitraum den Arduino mit Strom versorgen konnte, weil die nötige Betriebsspanung von 6-12V nicht erreicht wurde. Daher konnte die Messung nicht wie geplant bis 22:46 Uhr gehen. Die mittlere Temperatur betrug im Messzeitraum 16,65°C, die Luftfeuchtigkeit lag durchschnittlich bei 47,11% und der mittlere Luftdruck betrug 1027,72 hPa. Die Auswertung der erzeugten Daten geschah wie gewohnt bei Excel. Die erstellten Diagramme sind unten zu sehen.</p>
+  Heute wurden erneut Testweise Daten im Zeitraum von 10:36 Uhr bis 19:06 Uhr erfasst. Dabei war erneut die Baterie das Problem, welche nicht den genzen Messzeitraum den Arduino mit Strom versorgen konnte, weil die nötige Betriebsspanung von 6-12V nicht erreicht wurde. Daher konnte die Messung nicht wie geplant bis 22:46 Uhr gehen. Die mittlere Temperatur betrug im Messzeitraum 16,65°C, die Luftfeuchtigkeit lag durchschnittlich bei 47,11% und der mittlere Luftdruck betrug 1027,72 hPa. Die Auswertung der erzeugten Daten geschah wie gewohnt bei Excel. Die erstellten Diagramme, sind unten unter dem Dropdown zu sehen.</p>
+
+<details><summary>Auswertung der gemessenen Daten</summary>
+
+![grafik](https://user-images.githubusercontent.com/88386049/136673441-48a20fde-501c-43ca-b72c-26b017ef8889.png)
+![grafik](https://user-images.githubusercontent.com/88386049/136673442-ea4f4750-fb8f-43f0-9460-3b5075858efb.png)
+![grafik](https://user-images.githubusercontent.com/88386049/136673445-ff37275d-3013-41c9-95cc-cf613741913c.png)
+
+</details>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
