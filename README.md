@@ -226,7 +226,7 @@ if (Zieldatei) {
 </details>
 
 <p><b>Sonntag 10.10.2021</b><br>
-  Mit einer neuen 9V Blockbatterie versorgt, wurden heute mit dem Arduino erneut Daten erfasst. Der Messzeitraum war von 08:50 Uhr bis 22:20 Uhr, wo die mittlere Temperatur 12,70°C betrug, die durchschnittliche Luftfeuchtigkeit lag bei 60% und der Luftdruck betrug durchschnittlich über den Zeitraum 1020,85 hPa. Meine Aussage von den letzten Messversuchen ist zum Teil abzuändern, als dass auch die Temperatur als Faktor hinzukommt. Die Wetterstation hat durschnittlich gegen 19:00 Uhr aufgehört, Daten zu sammeln.</p>
+  Mit einer neuen 9V Blockbatterie versorgt, wurden heute mit dem Arduino erneut Daten erfasst. Der Messzeitraum war von 08:50 Uhr bis 22:20 Uhr, wo die mittlere Temperatur 12,70°C betrug, die durchschnittliche Luftfeuchtigkeit lag bei 60% und der Luftdruck betrug durchschnittlich über den Zeitraum 1020,85 hPa. Meine Aussage bei den letzten Messversuchen, die Batterie-Leistung betreffend, ist zum Teil abzuändern, als dass auch die Temperatur als leistungsminimirender Faktor hinzukommt. Die Wetterstation hat durschnittlich gegen 19:00 Uhr aufgehört, Daten zu sammeln. Dies liegt zum einen an den schwachen Batterien, aber auch an den Abends herrschenden niedrigen Temperaturen, die die letzten Tage ungefähr in einem Bereich unter 10°C gelegen haben. Dies sorgt dafür, dass bei der Batterie schneller die Ausgangsspannung nachlässt. Heute habe ich versucht dieses Problem zu umgehen, indem ich um den 9V Block einen Handschuh und eine Styropor-Verpackung gelegt habe. Dies erwies sich als erfolgreich, weil ich bis 22:20 Uhr Daten messen konnte.</p>
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
