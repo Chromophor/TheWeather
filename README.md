@@ -242,8 +242,16 @@ if (Zieldatei) {
     <th>Werte</th>
   </tr>
   <tr>
-    <td>Temperatur</td>
+    <td>Mittelwert der Temperatur</td>
     <td>12,2°C</td>
+  </tr>
+  <tr>
+    <td>Mittelwert der Luftfeuchtigkeit</td>
+    <td>50%</td>
+  </tr>
+  <tr>
+    <td>Mittelwert des Luftdrucks</td>
+    <td>1003 hPa</td>
   </tr>
 </table>
 
