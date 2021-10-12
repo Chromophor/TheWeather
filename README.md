@@ -238,7 +238,8 @@ if (Zieldatei) {
 
 <table>
   <tr>
-    <td>Inhalt</td>
+    <td>Temperatur</td>
+    <td>12,2°C</td>
   </tr>
 </table>
 
