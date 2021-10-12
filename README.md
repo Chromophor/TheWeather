@@ -236,6 +236,13 @@ if (Zieldatei) {
 
 </details>
 
+<table>
+  <tr>
+    <td>Inhalt</td>
+  </tr>
+</table>
+
+
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
