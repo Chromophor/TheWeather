@@ -19,6 +19,21 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <details><summary>Liste aller protokollierten Stunden mit zusätzlichem Link</summary>
   <li><a href="#Stunde1">Dienstag 03.08.2021</a></li>
   <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde3">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde4">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde5">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde6">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde7">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde8">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde9">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde10">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde11">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde12"Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde13"ittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
 </details>
 
 <p id="Stunde1"><b>Dienstag 03.08.2021</b><br>
@@ -36,7 +51,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <li>Höhe -> Alitmeter -> Produkt: BME280</li><br>
 <li>Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750)</li><br>Eine Liste aller Materialien ist <a href="#kapitel4">hier</a> zu finden.</p>
 
-<p><b>Dienstag 24.08.2021</b><br> 
+<p id="Stunde4"><b>Dienstag 24.08.2021</b><br> 
   An diesem Tag haben wir weiter an unserem Design gefeilt und uns Ideen zur Materialauswahl, Größe und Aufstellungsart gemacht. Zudem haben wir uns für die technischen Komponenten im Inneren die Anordnung überlegt, um eine einfache sowie intuitive Bedienung mit freundlichen Wartungsbedingungen zu ermöglichen. Außerdem haben wir unsere GitHub Seite verbessert und mit einer Einleitung versehen. Zuhause haben wir mit den Sensoren schon ein bisschen programmiert. Auch haben wir an einem möglichen Konzept, die von der Wetterstation erfassten meteorologischen Daten in einer Excel-Tabelle auszuwerten, gearbeitet (siehe Screenshot). Dabei wurden mit einem Test-Programm fiktive Werte für Temperatur und Niederschlag generiert und im Seriellen Monitor angezeigt.</p>
 
 <details><summary>Screenshots Dienstag 14.08.2021</summary>
@@ -52,13 +67,13 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 </details>
 
-<p><b>Mittwoch 25.08.2021</b><br>
+<p id="Stunde5"><b>Mittwoch 25.08.2021</b><br>
   Diese Stunde haben wir dazu genutzt, unser Design weiterzuentwickeln. Dabei haben wir unser Design hinsichtlich der Funktion der Sensoren angepasst, dass man möglichst genaue Messwerte erhält, ohne die Sensoren zu beschädigen. Letztendlich haben wir ein Design ausgewählt, das funktional sehr gut zu unserem Projekt passt und zusätlich mobil und in jedem Garten aufstellbar ist. Außerdem haben wir bereits erste Sensoren ausprobiert. Bezüglich der Auswertung hatten wir besonders beim Temperatursensor Erfolg und konnten am Ende der Stunde die Temperatur am Bildschirm ablesen.</p>
 
-<p><b>Dienstag 31.08.2021</b><br>
+<p id="Stunde6"><b>Dienstag 31.08.2021</b><br>
   Diese Stunde bot uns die Möglichkeit, in der Sammlung neue Sensoren für unsere Wetterstation zu suchen. Wir haben der Sammlung ein Datalogging-Shield und den Sensor BME280, den wir ursprünglich bestellen wollten, entnommen. Diese neuen Bestandteile bieten uns unterschiedliche Möglichkeiten. So kann der Sensor BME280 von der Firma Bosch die Temperatur, die Luftfeuchtigkeit und den Luftdruck bestimmen. Mit dem gemessenen Luftdruck kann außerdem die Höhe über dem Meeresspiegel berechnet werden. Mit dem Data Logging-Shield können wir die erhobenen meteoroloischen Daten auf einer SD-Speicherkarte sichern. Als weiterführende Planung hat sich Henrik bereits mit der Idee beschäftigt, wie wir die meteorologischen Daten visualisieren und damit auch auswerten können. Er hatte die Idee, diese Daten auf einer Website darzustellen und versuchte einen I-Frame für eine Tabelle zu verwenden. Thorben hat sich in der Stunde damit beschäftigt, den Code für den BME280 Sensor zu entwickeln. Dies gestaltete sich deshalb umständlich, weil der Sensor stark Erschütterungsabhängig ist. So gab der angeschlossene Sensor nach zwei korrekten Messungen aufgrund minimlaer Bewegung einen falschen Wert (z.B. statt 23,5°C einen falschen Wert von 150°C). Währendessen hat Gernot ein Erdbebenwarnsystem mit einem Erschütterungssensor entwickelt. Dieses gibt bei einer Erschütterung eine Warnung auf den Seriellen Monitor aus, die ständig angepasst werden kann. Das Problem an diesem Sensor ist die aufzuwendende Kraft, um den Sensor überhaupt auszulösen. Deshalb würde dieser Sensor wahrscheinlich eher keine Anwendung in dem Projekt finden.
 
-<p><b>Mittwoch 01.09.2021</b><br>
+<p id="Stunde7"><b>Mittwoch 01.09.2021</b><br>
   Nachdem wir in der letzten Doppelstunde bei der Genauigkeit des BME280 Sensors Probleme hatten und leider falsche Werte gemessen haben, mussten wir uns in der heutigen Stunde mit dem Debuggen des Sensors beschäftigen. Zum Ende der Stunde sind wir zu der Erkenntnis gelangt, dass eines der Jumper-Kabel einen Wackelkontakt haben muss oder die Kontaktverbindung des, weshalb teilweise falsche Werte übermittelt wurden. Dieses Problem haben wir behoben, indem wir den BME280 erstmal provisorisch mit Tesa-Film an die Jumperkabel geklebt haben. In der finalen Installation des BME280 an der Wetterstation müssen wir uns überlegen, ob wir den Sensor ebenfalls verkleben oder an die Jumper-Kabel löten. Dieses könnte im Zeifelsfall nötig sein, weil wir sonst im Betrieb falsche Werte mit der Wetterstation erfasen. Wie aber in den unten folgenden Screenshots zu sehen ist, funktionieren die Messungen des BME280 nun bis auf die Höhenangabe genau. Diese scheint noch immer fehlerhaft zu sein. Die Raumtemperatur von ca. 25°C und einer Luftfeuchtigkeit von ca. 50% konnten wir aber mit unser eigenen Wetterstation beweisen. Auch der Luftdruck von 1018hPa entspricht den aktuellen meteorologischen Daten. Nebenbei haben wir uns in der Stunde mit der Implementierung eines Fotowiederstandes beschäftigt und das Projekt mit dem Erschütterungssensor weiter verfolgt.</p>
 
 <details><summary>Screenshots Mittwoch 01.09.2021</summary>
@@ -71,7 +86,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 </details>
 
-<p><b>Dienstag 07.09.2021</b><br>
+<p id="Stunde8"><b>Dienstag 07.09.2021</b><br>
   In der heutigen Doppelstunde haben wir zuerst an verschiedenen Projekten gearbeitet. Henrik hat an einer Lösung gearbeitet, eine Excel-Datei auf einer Website mit einzubinden, damit wir unsere meteorologischen Messwerte visualisieren können. Währenddessen hat Thorben versucht, auf den Arduino ein Datalogging-Shield zu setzen und Gernot hat an einem LCD-Display gearbeitet, worauf im Finalen Aufbau die Ergebnisse der Sensorenauswertung gezeigt werden sollen. Doch nachdem wir Ihnen unser Problem mit den falschen Messwerten beim BME280 Sensor geschildert hatten, haben wir uns dazu entschlossen, in der restlichen Stunde das Löten von elektronischen Bausteinen zu erlernen. Das Löten ist ein thermisches Verfahren, bei dem elektrisch leitende Verbindungen zwischen Feststoffen stoffschlüssig erschaffen werden. In unserem Fall haben wir eine 6 Pin (männlich auf männlich) Stiftleiste mit den 6 Pins am BME280 Sesor verlötet. Im Vorhinein konnten wir an einem T-Cobbler für den RaspberryPi das Löten ausprobieren. Unsere Verlötung an dem BME280 gelang uns gut und zeigte nach der Überprüfung am PC eine direkte Wirkung: wir konnten gleich richtige Sensordaten trotz einer minimalen Bewegung erheben. Dies ist ein großer Vortschritt im Gegensatz zu der vorherigen misslichen Lage und hat uns sehr gut weitergeholfen.</p>
 
 <details><summary>Bilder zum Lötversuch</summary>
@@ -84,10 +99,10 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 </details>
 
-<p><b>Mittwoch 08.09.2021</b><br>
+<p id="Stunde9"><b>Mittwoch 08.09.2021</b><br>
   Wie abhängig man von der digitalen Ausstattung ist, erkennt man, wenn man in der Informatik-Stunde sitzt und das Internet, sowie die Computer nicht funktionieren. Genau dies war heute der Fall. Die Server von IServ waren nicht betriebsbereit, weshalb wir die Informatik-Stunde unplugged gestalten mussten. Wie arbeitet man im Informatikunterricht ohne Computer produktiv? Wir haben die Zeit genutzt und uns erneut dem Design unserer Wetterstation gewidmet und eine Einkaufsliste für die Materialien erstellt, die Gernot am Donnerstag im Baumarkt erwerben wird. Als dann plötzlich das Internet wieder funktionierte haben wir uns die restlichen Minuten mit den jeweils aufgeteilten Projekten beschäftigt. Leider war das Internet währenddessen sehr langsam und erschwerte das Arbeiten. Zum Abschluss der Stunde konnten wir das vorgenommene Arbeitspensum wegen der technischen Schwierigkeiten am Anfang nicht erreichen. In der nächsten Doppelstunde arbeiten wir deshalb an dem letzten Arbeitsstand weiter und versuchen Zuhause, soweit möglich, weiter zu arbeiten.</p>
   
-<p><b>Dienstag 14.09.2021</b><br> 
+<p id="Stunde10"><b>Dienstag 14.09.2021</b><br> 
   Heute ist der Informatikunterricht leider ausgefallen. Zuhause haben wir uns weiter mit dem Projekt beschäftigt. So hat Thorben weiter an dem Data Logging-Shield gearbeitet und ein Skript geschrieben, das es uns ermöglichen soll, Daten auf einer SD-Karte zu speichern. Das Skript funktioniert auch, jedoch gab es immer wieder die Fehlermeldung, dass die SD-Karte nicht gelesen werden kann (siehe Screenshot). Das kann mehrere Ursachen haben. Zum einen kann die Felhlermeldung an die Größe der SD-Karte gekoppelt sein. Ich habe eine 64GB SD-Karte verwendet und es kann sein, dass das Data Logging-Shield nicht mit derartig großen SD-Karten arbeiten kann. Diese Theorie halte ich aber nicht für sehr wahrscheinlich. Viel mehr denke ich, dass die SD-Karte falsch formatiert ist und deshalb nicht von dem Data Logging-Shield gelesen werden kann. Das Problem dabei war, dass man die 64GB SD-Karte nicht in das benötigte FAT Format umformatieren konnte. Daher haben wir zu Hause nach anderen kleineren und anders formatierten SD-Karten gesucht. Diese haben wir auch gefunden. Genutzt haben wir eine 4GB FAT32 formatierte SD-Karte. Mit dieser lief das Programm korrekt ab und erzeugte eine Excel-Datei mit allen Werten (Temperatur, Luftfeuchtigkeit, Luftdruck und Höhe über NN), die vom BME280 Sensor aufgenommen werden können. Um dies praktisch auch auszuprobieren, haben wir den Arduino im Garten probeweise mit einer externen Stomversorgung über ein USB-Ladegerät über drei Stunden meteorologische Daten sammeln lassen. Die Auswertung ist bei den Screenshots von Dienstag zu sehen. Die 4GB SD-Karte erwies sich in unserem Experiment als durchaus praktikabel einzusetzen, weil die generrierte Excel-Datei lediglich 17kb Speicherlatz einnahm. Daher ist eine Erfassung der Daten über mehrere Tage möglich, ohne, dass der Speicherplatz überfüllt wird.</p>
   
 <details><summary>Screenshots Dienstag 14.09.2021</summary>
@@ -108,7 +123,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 </details>
   
-<p><b>Mittwoch 15.09.2021</b><br> 
+<p id="Stunde11"><b>Mittwoch 15.09.2021</b><br> 
   Heute ist der Informatikunterricht auch ausgefallen. Wir haben aber die Zeit genutzt und unser Repository überarbeitet. Die Struktur gefällt uns so jetzt gut. Wir haben Dropdowns für unsere Screenshots eingefügt, damit unser Stundenprotokoll übersichtlicher ist und uns mit dem Markdown Githubs intensiver beschäftigt. So haben wir auch eine Möglichkeit gefunden, Code als Beispiel mit einzubinden (siehe unten).</p>
 
 ```
@@ -119,7 +134,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 <details>
 ```
-<p><b>Samstag 18.09.2021</b><br>
+<p id="Stunde12"><b>Samstag 18.09.2021</b><br>
   Wir haben am heutigen Tag mehrere experimentelle Messreihen mit dem Data Logging Shield durchgeführt. Alle Messungen verliefen dabei ohne Probleme, was uns sehr erleichertert hat. Eine Messreihe von 08:00 bis 11:00 Uhr morgens fanden wir sehr interessant. Bei den aufgezeichneten Daten sieht man den normalen Temperaturanstieg am Morgen sehr gut, doch fällt einem dann auf, dass die Temperaturen wieder leicht sinken. Die Ursache dafür ist, dass ein Schauer heranzog und dadurch die Temperatur gesunken ist, was man auch an der steigenden Luftfeuchtigkeit sehen kann. Leider konnten wir nicht im Schauer weiter messen, da unser Arduino noch kein wasserdichtes Gehäuse hat und daher bei schlechtem also feuchtem Wetter noch ins Trockene geholt werden muss. Trotzdem zeigt unsere Messreihe, dass wir einen großen Fortschritt gemacht haben.</p>
   
 <details><summary>Auswertung der gemessenen Daten in Diagrammen</summary>
@@ -130,7 +145,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 </details>
 
-<p><b>Dienstag 21.09.2021</b><br>
+<p id="Stunde13"><b>Dienstag 21.09.2021</b><br>
   Heute haben wir unterschiedlich gearbeitet. Henrik und Thorben haben in der Schule weitergeartbeitet und Gernot ist aus gesundheitlichen Gründen zu Hause geblieben. In dieser Zeit haben wir weiter an unserem Projekt gearbeitet und den Rohbau des Häuschens verfeinert. Im nächsten Schritt müssen die einzelnen Sensoren und Platinen eingepasst werden, sodass nach weiterer Anpassung des Gehäuses eine erste Lackierung vorgenommen werden kann. Währenddessen hat Henrik an der Website weiter programmiert und noch verschiedene Sachen geändert. So hat die Website nun ein Hintergrundbild und die Anzeigekästchen haben abgerundete Ecken. Des weiteren sind die Farben einheitlich. Abschließend müssen wir uns nur noch auf eine Art einigen, wie wir die Messwerte genau darstellen wollen. Thorben hat mit dem Data Logging Shield an einer Lösung für eine zeitliche Erfassung der Messwerte gearbeitet. Dabei haben wir die im Data Logging Shield integrierte RTC (Real-Time-Clock) verwendet, um die Urzeit anzuzeigen. Dies ist insofern wichtig, als dass bei einer Messdauer von einem Tag bis zu einer Woche die Exceldatei zunehmend unübersichtlich wird, welche Daten wann erhoben wurden, weshalb eine zeitliche Kennzeichnung der Werte notwendig ist. Damit kann man feststellen, ob der Messwert in der Nacht oder während des Mittags gemessen wurde. Dies ist bei der Auswertung besonders von Bedeutung, weil wir so schon optisch feststellen können, welche Messertwerte eventuell falsch sind.</p>
   
 <details><summary>Screenshots Dienstag 21.09.2021</summary>
@@ -143,7 +158,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 </details>
 
-<p><b>Mittwoch 22.09.2021</b><br>
+<p id="Stunde14"><b>Mittwoch 22.09.2021</b><br>
   Gernot konnte heute erfreulicherweise wieder mit uns gemeinsam in der Schule an unserem Projekt arbeiten. Er hat sich in dieser Stunde erneut dem Aufbau der Wetterstation gewidmet. Hier galt es nun eine für den schon fertigen Rohbau des Häuschen für die Wetterstation eine passende Konzeption für den Innnenaufbau zu finden. Der Wunsch wurde laut, dass noch ein Display in die Außenwand integriert werden soll, was natürlich geplant sein muss. Somit wurde dann nach einem geeigeneten Ort für den Arduino, das Display und die die Sensoren gesucht, die teilweise auch Licht brauchen oder zumindest großzügig von Luft umschlossen sein müssen, damit brauchbare Messergebnisse später genommen werden können.  Thorben hat diese Stunde genutzt, um Fehler der RTC aus dem Code von gestern zu beheben. Das Problem der gestrigen Stunde war, dass die im Data Logging Shield eingebaute RTC (Real-Time-Clock) auf eine falsche Uhrzeit eingestellt war.</p>
 
 ```
@@ -168,8 +183,8 @@ Serial.print(year() + 6);
   
 </details>
 
-<b>Dienstag 28.09.2021</b><br>
- Da die an den vorherigen Tagen erhobenen Daten zwar richtig waren, aber nicht übersichtlich abgespeichert waren, konnten wir sie nicht auswerten und mussten einen neuen Testdurchlauf in der Informatikstunde durchführen.  An dem unten stehenden Code kann man sehen, dass die Zeitangaben der jeweiligen Messung unter der Auflistung der Messwerte abgespeichert wird, da sowohl bei `Zieldatei.println(Datensatz)` als auch bei `Zieldatei.println(Zeit)` ein neuer Absatz erzeugt wird. Der überarbeitete Code ist unter den Screenshots des heutigen Tages zu sehen. 
+<p id="Stunde15"><b>Dienstag 28.09.2021</b><br>
+ Da die an den vorherigen Tagen erhobenen Daten zwar richtig waren, aber nicht übersichtlich abgespeichert waren, konnten wir sie nicht auswerten und mussten einen neuen Testdurchlauf in der Informatikstunde durchführen.  An dem unten stehenden Code kann man sehen, dass die Zeitangaben der jeweiligen Messung unter der Auflistung der Messwerte abgespeichert wird, da sowohl bei</p> `Zieldatei.println(Datensatz)` als auch bei `Zieldatei.println(Zeit)` ein neuer Absatz erzeugt wird. Der überarbeitete Code ist unter den Screenshots des heutigen Tages zu sehen.
 
 ```
 if (Zieldatei) {
@@ -194,10 +209,10 @@ if (Zieldatei) {
   
 </details>
 
-<p><b>Mittwoch 29.09.2021</b><br>
+<p id="Stunde16"><b>Mittwoch 29.09.2021</b><br>
   Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen Link zu den Stunden im Stundenprotokoll erstellt.</p>
   
-<p><b>Samstag 02.10.2021</b><br> 
+<p id="Stunde17"><b>Samstag 02.10.2021</b><br> 
   Heute haben wir den Arduino weiter draußen mit angeschlossener 9V Blockbaterie meteorologische Daten sammeln lassen. Die Daten wurden auf der SD-Karte gespeichert und wieder in Excel mit Diagrammen ausgewertet und sind unter dem untenstehenden Dropdown zu sehen. Die Durchschnittstemperatur im Messzeitraum ist 16,27°C, die Durchschnittsluftfeuchtigkeit betrug 73,95% und der Luftdruck lag durchschnittlich bei 1003,74 hPa. Gemessen wurde im Zeitraum von 15:20 Uhr bis 20:30 Uhr mit einer Erfassung der Werte in einem 10 Minuten Rythmus.</p>
 
 <details><summary>Auswertung der gemessenen Daten</summary>
@@ -208,7 +223,7 @@ if (Zieldatei) {
 
 </details>
 
-<p><b>Sonntag 03.10.2021</b><br> 
+<p id="Stunde18"><b>Sonntag 03.10.2021</b><br> 
   Auch heute haben wir den Arduino meteorologsiche Daten sammeln lassen. Leider ist heute nur ein eingeschrenkter Datensatz vorhanden, weil die 9V Blockbatterie nach ca. zwei Stunden unvorhergesehen leer war. Trotzdem wurden Daten vom heute gemessen und gespeichert. Die Durchschnittstemperatur war im Messzeitraum 18,76°C, die Durschnittsluftfeuchtigkeit betrug 71,14% und der Luftdruck betrug durschnittlich 995,16 hPa. Gemessen wurden die Daten in einem zeitraum von 09:36 Uhr bis 11:26 Uhr, welche in einem 10 Minuten Rythmus erhoben wurden. Die Auswertung erfolgte erneut mir Excel und ist unter den unten stehenden Dropdown zu sehen.</p>
  
 <details><summary>Auswertung der gemessenen Daten</summary>
@@ -219,7 +234,7 @@ if (Zieldatei) {
 
 </details>
 
-<p><b>Samstag 09.10.2021</b><br>
+<p id="Stunde19"><b>Samstag 09.10.2021</b><br>
   Heute wurden erneut Testweise Daten im Zeitraum von 10:36 Uhr bis 19:06 Uhr erfasst. Dabei war erneut die Baterie das Problem, welche nicht den ganzen Messzeitraum den Arduino mit Strom versorgen konnte, weil die nötige Betriebsspanung von 6-12V nicht erreicht wurde. Daher konnte die Messung nicht wie geplant bis 22:46 Uhr gehen. Die mittlere Temperatur betrug im Messzeitraum 16,65°C, die Luftfeuchtigkeit lag durchschnittlich bei 47,11% und der mittlere Luftdruck betrug 1027,72 hPa. Die Auswertung der erzeugten Daten geschah wie gewohnt bei Excel. Die erstellten Diagramme, sind unten unter dem Dropdown zu sehen.</p>
 
 <details><summary>Auswertung der gemessenen Daten</summary>
@@ -230,7 +245,7 @@ if (Zieldatei) {
 
 </details>
 
-<p><b>Sonntag 10.10.2021</b><br>
+<p id="Stunde20"><b>Sonntag 10.10.2021</b><br>
   Mit einer neuen 9V Blockbatterie versorgt, wurden heute mit dem Arduino erneut Daten erfasst. Der Messzeitraum war von 08:50 Uhr bis 22:20 Uhr, wo die mittlere Temperatur 12,70°C betrug, die durchschnittliche Luftfeuchtigkeit lag bei 60% und der Luftdruck betrug durchschnittlich über den Zeitraum 1020,85 hPa. Meine Aussage bei den letzten Messversuchen, die Batterie-Leistung betreffend, ist zum Teil abzuändern, als dass auch die Temperatur als leistungsminimirender Faktor hinzukommt. Die Wetterstation hat durschnittlich gegen 19:00 Uhr aufgehört, Daten zu sammeln. Dies liegt zum einen an den schwachen Batterien, aber auch an den Abends herrschenden niedrigen Temperaturen, die die letzten Tage ungefähr in einem Bereich unter 10°C gelegen haben. Dies sorgt dafür, dass bei der Batterie schneller die Ausgangsspannung nachlässt. Heute habe ich versucht dieses Problem zu umgehen, indem ich um den 9V Block einen Handschuh und eine Styropor-Verpackung gelegt habe. Dies erwies sich als erfolgreich, weil ich bis 22:20 Uhr Daten messen konnte. Trotzdem habe ich im Anschluss die Leistung der 9V Blockbatterie gemessen. Zu Beginn der Messung erreichte die Batterie eine Ausgangsspannung von ca. 9V und nach dem Ende der Messungen nur noch ca. 7,2V. Man erkennt also tatsächlich einen nciht gerade geringen Abfall der Ausgangsspannung. Die Auswertung erfolgte erneut bei Excel und die erzeugten Graphen sind unter dem Dropdown zu sehen.</p>
 
 <details><summary>Auswertung der gemessenen Daten</summary>
@@ -241,7 +256,7 @@ if (Zieldatei) {
 
 </details>
 
-<p><b>Montag 11.10.2021</b><br>
+<p id="Stunde21"><b>Montag 11.10.2021</b><br>
   Heute wurden erneut Daten erhoben. Leider hat die 9V Blockbatterie den Arduino nur in einem Zeitraum von 08:50 Uhr bis 10:25 Uhr mit Strom versorgen können. Da uns das nicht aufgefallen war, konnten wir die Batterie nicht wechseln. Beabsichtigt war eigentlich ein Messzeitraum von 08:50 Uhr bis 23:00 Uhr. Die gemessenen Daten werden trotzdem in ausgewerteter Form in Diagrammen unter dem Dropdown zu sehen. Auch werden die Durchschnitte ab heute, wie unten zu sehen ist, Form einer Tabelle dargestellt.</p>
 <table>
   <tr><th></th><th>Werte</th></tr>
@@ -258,7 +273,7 @@ if (Zieldatei) {
 
 </details>
 
-<p><b>Dienstag 12.10.2021</b><br>
+<p id="Stunde22"><b>Dienstag 12.10.2021</b><br>
   Heute haben wir statt der 9V Batterie eine Powerbank als Stromversorgung eingesetzt. Die Hoffnung war, dass die Wetterstation damit verlässlicher Daten aufnehmen kann. Dies war aber nicht verlässlich der Fall. Der Arduino hat nur in einem Zeitraum von 12:24 Uhr bis 18:34 Uhr Daten erfasst und nicht wie geplant in einem Zeitraum von 07:40 Uhr bis 23:00 Uhr. Meine Vermutung ist, dass der Arduino nicht genug Strom verbraucht, um von der Powerbank erkannt zu werden. Trotzdem konnten wir Daten messen und auswerten. Die ausgewerteten Daten sind unter dem Dropdown zu sehen.</p>
 <table>
   <tr><th></th><th>Werte</th></tr>
