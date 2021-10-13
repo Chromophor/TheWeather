@@ -19,21 +19,34 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <details><summary>Liste aller protokollierten Stunden mit zusätzlichem Link</summary>
   <li><a href="#Stunde1">Dienstag 03.08.2021</a></li>
   <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde3">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde4">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde5">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde6">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde7">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde3">Dienstag 10.08.2021</a></li>
+  <li><a href="#Stunde4">Dienstag 24.08.2021</a></li>
+  <li><a href="#Stunde5">Mittwoch 25.08.2021</a></li>
+  <li><a href="#Stunde6">Dienstag 31.08.2021</a></li>
+  <li><a href="#Stunde7">Mittwoch 01.09.2021</a></li>
   <li><a href="#Stunde8">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde9">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde10">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde11">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde12"Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde13"ittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
-  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde12">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde13">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde14">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde15">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde16">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde17">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde18">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde19">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde20">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde21">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde22">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde23">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde24">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde25">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde26">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde27">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde28">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde29">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde30">Mittwoch 04.08.2021</a></li>
 </details>
 
 <p id="Stunde1"><b>Dienstag 03.08.2021</b><br>
