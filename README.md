@@ -237,24 +237,13 @@ if (Zieldatei) {
 </details>
 
 <p><b>Montag 11.10.2021</b><br>
-  Heute wurden erneut Daten erhoben. Leider hat die 9V Blockbatterie den Arduino nur in einem Zeitraum von 08:50 Uhr bis 10:25 Uhr mit Strom versorgen können. Da uns das nicht aufgefallen war, konnten wir die Batterie nicht wechseln. Beabsichtigt war eigentlich ein Messzeitraum von 08:50 Uhr bis 23:00 Uhr. Die gemessenen Daten werden trotzdem in ausgewerteter Form in Diagrammen unter dem Dropdown zu sehen. Auch werden die Durchschnitte ab heute, wie unten zu sehen ist, Form einer elle dargestellt
+  Heute wurden erneut Daten erhoben. Leider hat die 9V Blockbatterie den Arduino nur in einem Zeitraum von 08:50 Uhr bis 10:25 Uhr mit Strom versorgen können. Da uns das nicht aufgefallen war, konnten wir die Batterie nicht wechseln. Beabsichtigt war eigentlich ein Messzeitraum von 08:50 Uhr bis 23:00 Uhr. Die gemessenen Daten werden trotzdem in ausgewerteter Form in Diagrammen unter dem Dropdown zu sehen. Auch werden die Durchschnitte ab heute, wie unten zu sehen ist, Form einer Tabelle dargestellt.</p>
+
 <table>
-  <tr>
-    <th></th>
-    <th>Werte</th>
-  </tr>
-  <tr>
-    <td>Mittelwert der Temperatur</td>
-    <td>12,2°C</td>
-  </tr>
-  <tr>
-    <td>Mittelwert der Luftfeuchtigkeit</td>
-    <td>50%</td>
-  </tr>
-  <tr>
-    <td>Mittelwert des Luftdrucks</td>
-    <td>1003 hPa</td>
-  </tr>
+  <tr><th></th><th>Werte</th></tr>
+  <tr><td>Mittelwert der Temperatur</td><td>12,2°C</td></tr>
+  <tr><td>Mittelwert der Luftfeuchtigkeit</td><td>50%</td></tr>
+  <tr><td>Mittelwert des Luftdrucks</td><td>1003 hPa</td></tr>
 </table>
 
 
