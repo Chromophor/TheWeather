@@ -16,7 +16,11 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 <h2 id="kapitel2">2. Stundenprotokoll</a></h2></li>
 
-<p><b>Dienstag 03.08.2021</b><br>
+<details><summary>Liste aller protokollierten Stunden mit zusätzlichem Link</summary>
+  <li><a href="#Stunde1">Dienstag 03.08.2021</a></li>
+  <li><a href="#Stunde1">Dienstag 03.08.2021</a></li>
+
+<p id="Stunde1"><b>Dienstag 03.08.2021</b><br>
   Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Unsere Ideen reichten von einem einfachen Spiel bis zum Bau einer Wetterstation, für welche wir uns auch entschieden haben. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt, um uns mit der Entwicklungsumgebung des Arduinos und den möglichen Anschlüssen vertraut zu machen. Dabei haben wir z.B. eine grüne LED an digitalen Pin 13 und einen rote LED an den digitalen Pin 4 angeschlossen. Digitale Pins sind nur auf digitale Signale ausgelegt, geben diese entweder aus oder lesen sie ein. Digitale Signale sind z.B. 0 und 1 oder LOW und HIGH oder 0v und 5V (Volt). Das bedeutet, dass wir die zwei LEDs unabhängig von einander blinken lassen konnten. Status HIGH bedeutet LED an und LOW LED aus.<br>
 
   <b>Mittwoch 04.08.2021</b><br>
