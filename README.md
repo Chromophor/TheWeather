@@ -246,11 +246,9 @@ if (Zieldatei) {
 </table>
 
 <details><summary>Auswertung der gemessenen Daten</summary>
- 
 ![grafik](https://user-images.githubusercontent.com/88386049/137092878-06ef5a21-04d4-4446-a639-7bf22848ff75.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/137092892-3ba1b287-10bd-446a-9869-30ce3049dbd9.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/137092908-62ee9a8c-1303-4bbf-857a-e65ba30114e9.png)
-
 </details>
 
 <p><b>Dienstag 12.10.2021</b><br>
