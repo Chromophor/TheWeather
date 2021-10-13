@@ -18,16 +18,16 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 <details><summary>Liste aller protokollierten Stunden mit zusätzlichem Link</summary>
   <li><a href="#Stunde1">Dienstag 03.08.2021</a></li>
-  <li><a href="#Stunde1">Dienstag 03.08.2021</a></li>
+  <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
 </details>
 
 <p id="Stunde1"><b>Dienstag 03.08.2021</b><br>
-  Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Unsere Ideen reichten von einem einfachen Spiel bis zum Bau einer Wetterstation, für welche wir uns auch entschieden haben. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt, um uns mit der Entwicklungsumgebung des Arduinos und den möglichen Anschlüssen vertraut zu machen. Dabei haben wir z.B. eine grüne LED an digitalen Pin 13 und einen rote LED an den digitalen Pin 4 angeschlossen. Digitale Pins sind nur auf digitale Signale ausgelegt, geben diese entweder aus oder lesen sie ein. Digitale Signale sind z.B. 0 und 1 oder LOW und HIGH oder 0v und 5V (Volt). Das bedeutet, dass wir die zwei LEDs unabhängig von einander blinken lassen konnten. Status HIGH bedeutet LED an und LOW LED aus.<br>
+  Wir haben einen GitHub Account erstellt und eine Projekt-Idee entwickelt. Unsere Ideen reichten von einem einfachen Spiel bis zum Bau einer Wetterstation, für welche wir uns auch entschieden haben. Am Nachmittag haben wir mit dem Arduino erste Experimente mit LEDs durchgeführt, um uns mit der Entwicklungsumgebung des Arduinos und den möglichen Anschlüssen vertraut zu machen. Dabei haben wir z.B. eine grüne LED an digitalen Pin 13 und einen rote LED an den digitalen Pin 4 angeschlossen. Digitale Pins sind nur auf digitale Signale ausgelegt, geben diese entweder aus oder lesen sie ein. Digitale Signale sind z.B. 0 und 1 oder LOW und HIGH oder 0v und 5V (Volt). Das bedeutet, dass wir die zwei LEDs unabhängig von einander blinken lassen konnten. Status HIGH bedeutet LED an und LOW LED aus.<br></p>
 
-  <b>Mittwoch 04.08.2021</b><br>
-  In der heutigen Stunde haben wir gemeinsam mit dem Arduino Fortschritte mit der Bedienung der LEDs gemacht. Am Nachmittag haben wir getrennt Experimente z.B. mit Bewegungssensoren  durchgeführt. Diese waren nur zum Teil erfolgreich. Der Bewegungssensor hat zwar Bewegungen erkannt und auch wie programiert bei der angeschlossenen LED den Status auf HIGH (an) gesetzt, manchmal hat der Sensor aber auch ohne eine Bewegung die angeschlossene LED aktiviert. Dies könnte an den schlechten Lichbedingungen liegen, die Abends herrschen.<br>
+<p id="Stunde2"><b>Mittwoch 04.08.2021</b><br>
+  In der heutigen Stunde haben wir gemeinsam mit dem Arduino Fortschritte mit der Bedienung der LEDs gemacht. Am Nachmittag haben wir getrennt Experimente z.B. mit Bewegungssensoren  durchgeführt. Diese waren nur zum Teil erfolgreich. Der Bewegungssensor hat zwar Bewegungen erkannt und auch wie programiert bei der angeschlossenen LED den Status auf HIGH (an) gesetzt, manchmal hat der Sensor aber auch ohne eine Bewegung die angeschlossene LED aktiviert. Dies könnte an den schlechten Lichbedingungen liegen, die Abends herrschen.<br></p>
   
-<b>Dienstag 10.08.2021</b><br>
+<p id="Stunde3"><b>Dienstag 10.08.2021</b><br>
   Heute haben wir eine Liste unserer benötigten Sensoren und deren Funktion in unserer Wetterstation zusammengestellt. Diese sind unten mit der jeweiligen Funktion und zugehöriger Produktbeschreibung zu finden. Anschließend haben wir uns das Design der Wetterstation eingehender überlegt. Eine Konstruktion, die aus einem Gehäuse in Form eines Hauses bestehen soll, wie die <b>unten stehende Skizze </b>verdeutlichen soll. Hier sind die Abmessungen unserer Konstruktion ebenfalls abzulesen.</p>
 <p></br><b>Welche Sensoren sollen eingebunden weden?</b><br>
 <li>Temperatur -> Thermometer -> Produkt: BME280</li><br>
