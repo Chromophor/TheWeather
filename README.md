@@ -254,6 +254,8 @@ if (Zieldatei) {
 
 </details>
 
+<p><b>Dienstag 12.10.2021</b><br>
+  Heute haben wir statt der 9V Batterie eine Powerbank als Stromversorgung eingesetzt. Die Hoffnung war, dass die Wetterstation damit verlässlicher Daten aufnehmen kann. Dies war aber nicht verlässlich der Fall. Der Arduino hat nur in einem Zeitraum von 12:24 Uhr bis 18:34 Uhr Daten erfasst und nicht wie geplant in einem Zeitraum von 07:40 Uhr bis 23:00 Uhr. Meine Vermutung ist, dass der Arduino nicht genug Strom verbraucht, um von der Powerbank erkannt zu werden. Trotzdem konnten wir Daten messen und auswerten. Die ausgewerteten Daten sind unter dem Dropdown zu sehen.</p>
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
@@ -276,7 +278,7 @@ if (Zieldatei) {
 - [x] Data Logging-Shield mit RTC-> XD-204 Data Logging Shield 
 - [x] 4GB SD-Karte
 - [x] Stromversorgung für den Arduino im Haus (Batterie oder Akkumulator) -> 9V Blockbaterie mit Power-Jack
-- [ ] Stromversorgung über <b>XXXmAh</b> Powerbank
+- [x] Stromversorgung über <b>XXXmAh</b> Powerbank
 - [x] Jumper Kabel <b>Anzahl hier!!</b>
 
 
