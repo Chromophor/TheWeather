@@ -236,6 +236,8 @@ if (Zieldatei) {
 
 </details>
 
+<p><b>Montag 11.10.2021</b><br>
+  Heute wurden erneut Daten erhoben. Leider hat die 9V Blockbatterie den Arduino nur in einem Zeitraum von 08:50 Uhr bis 10:25 Uhr mit Strom versorgen können. Da uns das nicht aufgefallen war, konnten wir die Batterie nicht wechseln. Beabsichtigt war eigentlich ein Messzeitraum von 08:50 Uhr bis 23:00 Uhr. Die gemessenen Daten werden trotzdem in ausgewerteter Form in Diagrammen unter dem Dropdown zu sehen. Auch werden die Durchschnitte ab heute, wie unten zu sehen ist, Form einer elle dargestellt
 <table>
   <tr>
     <th></th>
