@@ -344,7 +344,7 @@ if (Zieldatei) {
 - [ ] Bewegungssensor -> LK-PIR (www.linkerkit.de)
 - [ ] Rote, grüne, weiße und gelbe LED-Dioden von unterschiedlichen Herstellern
 - [ ] Piezo-Summer
-- [ ] Pot
+- [ ] Potentiometer
 
 <p><b>Eingesetzte Sensoren:</b></p>
 
