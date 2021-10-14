@@ -58,7 +58,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <p id="Stunde3"><b>Dienstag 10.08.2021</b><br>
   Heute haben wir eine Liste unserer benötigten Sensoren und deren Funktion in unserer Wetterstation zusammengestellt. Diese sind unten mit der jeweiligen Funktion und zugehöriger Produktbeschreibung zu finden. Anschließend haben wir uns das Design der Wetterstation eingehender überlegt. Eine Konstruktion, die aus einem Gehäuse in Form eines Hauses bestehen soll, wie die <b>unten stehende Skizze </b>verdeutlichen soll. Hier sind die Abmessungen unserer Konstruktion ebenfalls abzulesen.</p>
 <p></br><b>Welche Sensoren sollen eingebunden weden?</b><br>
-<li>Temperatur -> Thermometer -> Produkt: BME280</li><br>
+<li>Temperatur -> Thermometer -> Produkt: BME280</li>
 <li>Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280</li><br>
 <li>Luftdruck -> Barometer -> Produkt: BME280</li><br>
 <li>Höhe -> Alitmeter -> Produkt: BME280</li><br>
