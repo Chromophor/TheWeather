@@ -318,7 +318,7 @@ if (Zieldatei) {
 ![grafik](https://user-images.githubusercontent.com/88386049/137264505-5e98d28c-ae83-42d2-925b-53dffbffea65.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/137264511-0c85575c-3270-4469-be08-df46db7b8ecd.png)
 
-</detials>
+</details>
 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
