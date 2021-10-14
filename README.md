@@ -346,7 +346,7 @@ if (Zieldatei) {
 - [ ] Piezo-Summer
 - [ ] Potentiometer
 
-<p><b>Eingesetzte Sensoren:</b></p>
+<p><br><b>Eingesetzte Sensoren:</b></p>
 
 - [x] Temperatur -> Thermometer -> Produkt: BME280
 - [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
