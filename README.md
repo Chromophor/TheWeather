@@ -47,6 +47,17 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <li><a href="#Stunde28">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde29">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde30">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde31">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde32">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde33">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde34">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde35">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde36">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde37">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde38">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde39">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde40">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde41">Mittwoch 04.08.2021</a></li>
 </details>
 
 <p id="Stunde1"><b>Dienstag 03.08.2021</b><br>
