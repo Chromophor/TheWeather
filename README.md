@@ -39,7 +39,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <li><a href="#Stunde20">Sonntag 10.10.2021</a></li>
   <li><a href="#Stunde21">Montag 11.10.2021</a></li>
   <li><a href="#Stunde22">Dienstag 12.10.2021</a></li>
-  <li><a href="#Stunde23">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde23">Mittwoch 13.10.2021</a></li>
   <li><a href="#Stunde24">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde25">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde26">Mittwoch 04.08.2021</a></li>
@@ -302,6 +302,9 @@ if (Zieldatei) {
 ![grafik](https://user-images.githubusercontent.com/88386049/137096665-533644dc-d1e3-49f3-ab9f-0cb0e648be86.png)
 
 </details>
+
+<p id="#Stunde23"><b>Mittwoch 13.10.2021</b><br>
+  Heute wurden der Arduino aus experimentellen Zwecken wieder mit einer 9V Batterie angetrieben.
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
