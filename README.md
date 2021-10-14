@@ -16,7 +16,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 
 <h2 id="kapitel2">2. Stundenprotokoll</a></h2></li>
 
-<details><summary>Liste aller protokollierten Stunden mit zusätzlichem Link</summary>
+<details id="Link"><summary>Liste aller protokollierten Stunden mit zusätzlichem Link</summary>
   <li><a href="#Stunde1">Dienstag 03.08.2021</a></li>
   <li><a href="#Stunde2">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde3">Dienstag 10.08.2021</a></li>
@@ -59,10 +59,10 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   Heute haben wir eine Liste unserer benötigten Sensoren und deren Funktion in unserer Wetterstation zusammengestellt. Diese sind unten mit der jeweiligen Funktion und zugehöriger Produktbeschreibung zu finden. Anschließend haben wir uns das Design der Wetterstation eingehender überlegt. Eine Konstruktion, die aus einem Gehäuse in Form eines Hauses bestehen soll, wie die <b>unten stehende Skizze </b>verdeutlichen soll. Hier sind die Abmessungen unserer Konstruktion ebenfalls abzulesen.</p>
 <p></br><b>Welche Sensoren sollen eingebunden weden?</b><br>
 <li>Temperatur -> Thermometer -> Produkt: BME280</li>
-<li>Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280</li><br>
-<li>Luftdruck -> Barometer -> Produkt: BME280</li><br>
-<li>Höhe -> Alitmeter -> Produkt: BME280</li><br>
-<li>Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750)</li><br>Eine Liste aller Materialien ist <a href="#kapitel4">hier</a> zu finden.</p>
+<li>Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280</li>
+<li>Luftdruck -> Barometer -> Produkt: BME280</li>
+<li>Höhe -> Alitmeter -> Produkt: BME280</li>
+<li>Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750)</li><br>Eine Liste aller Materialien, ist <a href="#kapitel4">hier</a> zu finden.</p>
 
 <p id="Stunde4"><b>Dienstag 24.08.2021</b><br> 
   An diesem Tag haben wir weiter an unserem Design gefeilt und uns Ideen zur Materialauswahl, Größe und Aufstellungsart gemacht. Zudem haben wir uns für die technischen Komponenten im Inneren die Anordnung überlegt, um eine einfache sowie intuitive Bedienung mit freundlichen Wartungsbedingungen zu ermöglichen. Außerdem haben wir unsere GitHub Seite verbessert und mit einer Einleitung versehen. Zuhause haben wir mit den Sensoren schon ein bisschen programmiert. Auch haben wir an einem möglichen Konzept, die von der Wetterstation erfassten meteorologischen Daten in einer Excel-Tabelle auszuwerten, gearbeitet (siehe Screenshot). Dabei wurden mit einem Test-Programm fiktive Werte für Temperatur und Niederschlag generiert und im Seriellen Monitor angezeigt.</p>
@@ -113,7 +113,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 </details>
 
 <p id="Stunde9"><b>Mittwoch 08.09.2021</b><br>
-  Wie abhängig man von der digitalen Ausstattung ist, erkennt man, wenn man in der Informatik-Stunde sitzt und das Internet, sowie die Computer nicht funktionieren. Genau dies war heute der Fall. Die Server von IServ waren nicht betriebsbereit, weshalb wir die Informatik-Stunde unplugged gestalten mussten. Wie arbeitet man im Informatikunterricht ohne Computer produktiv? Wir haben die Zeit genutzt und uns erneut dem Design unserer Wetterstation gewidmet und eine Einkaufsliste für die Materialien erstellt, die Gernot am Donnerstag im Baumarkt erwerben wird. Als dann plötzlich das Internet wieder funktionierte haben wir uns die restlichen Minuten mit den jeweils aufgeteilten Projekten beschäftigt. Leider war das Internet währenddessen sehr langsam und erschwerte das Arbeiten. Zum Abschluss der Stunde konnten wir das vorgenommene Arbeitspensum wegen der technischen Schwierigkeiten am Anfang nicht erreichen. In der nächsten Doppelstunde arbeiten wir deshalb an dem letzten Arbeitsstand weiter und versuchen Zuhause, soweit möglich, weiter zu arbeiten.</p>
+  Wie abhängig man von der digitalen Ausstattung ist, erkennt man, wenn man in der Informatik-Stunde sitzt und das Internet, sowie die Computer nicht funktionieren. Genau dies war heute der Fall. Die Server von IServ waren nicht betriebsbereit, weshalb wir die Informatik-Stunde "unplugged" gestalten mussten. Wie arbeitet man im Informatikunterricht ohne Computer produktiv? Wir haben die Zeit genutzt und uns erneut dem Design unserer Wetterstation gewidmet und eine Einkaufsliste für die Materialien erstellt, die Gernot am Donnerstag im Baumarkt erwerben wird. Als dann plötzlich das Internet wieder funktionierte haben wir uns die restlichen Minuten mit den jeweils aufgeteilten Projekten beschäftigt. Leider war das Internet währenddessen sehr langsam und erschwerte das Arbeiten. Zum Abschluss der Stunde konnten wir das vorgenommene Arbeitspensum wegen der technischen Schwierigkeiten am Anfang nicht erreichen. In der nächsten Doppelstunde arbeiten wir deshalb an dem letzten Arbeitsstand weiter und versuchen Zuhause, soweit möglich, weiter zu arbeiten.</p>
   
 <p id="Stunde10"><b>Dienstag 14.09.2021</b><br> 
   Heute ist der Informatikunterricht leider ausgefallen. Zuhause haben wir uns weiter mit dem Projekt beschäftigt. So hat Thorben weiter an dem Data Logging-Shield gearbeitet und ein Skript geschrieben, das es uns ermöglichen soll, Daten auf einer SD-Karte zu speichern. Das Skript funktioniert auch, jedoch gab es immer wieder die Fehlermeldung, dass die SD-Karte nicht gelesen werden kann (siehe Screenshot). Das kann mehrere Ursachen haben. Zum einen kann die Felhlermeldung an die Größe der SD-Karte gekoppelt sein. Ich habe eine 64GB SD-Karte verwendet und es kann sein, dass das Data Logging-Shield nicht mit derartig großen SD-Karten arbeiten kann. Diese Theorie halte ich aber nicht für sehr wahrscheinlich. Viel mehr denke ich, dass die SD-Karte falsch formatiert ist und deshalb nicht von dem Data Logging-Shield gelesen werden kann. Das Problem dabei war, dass man die 64GB SD-Karte nicht in das benötigte FAT Format umformatieren konnte. Daher haben wir zu Hause nach anderen kleineren und anders formatierten SD-Karten gesucht. Diese haben wir auch gefunden. Genutzt haben wir eine 4GB FAT32 formatierte SD-Karte. Mit dieser lief das Programm korrekt ab und erzeugte eine Excel-Datei mit allen Werten (Temperatur, Luftfeuchtigkeit, Luftdruck und Höhe über NN), die vom BME280 Sensor aufgenommen werden können. Um dies praktisch auch auszuprobieren, haben wir den Arduino im Garten probeweise mit einer externen Stomversorgung über ein USB-Ladegerät über drei Stunden meteorologische Daten sammeln lassen. Die Auswertung ist bei den Screenshots von Dienstag zu sehen. Die 4GB SD-Karte erwies sich in unserem Experiment als durchaus praktikabel einzusetzen, weil die generrierte Excel-Datei lediglich 17kb Speicherlatz einnahm. Daher ist eine Erfassung der Daten über mehrere Tage möglich, ohne, dass der Speicherplatz überfüllt wird.</p>
@@ -223,7 +223,7 @@ if (Zieldatei) {
 </details>
 
 <p id="Stunde16"><b>Mittwoch 29.09.2021</b><br>
-  Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen Link zu den Stunden im Stundenprotokoll erstellt.</p>
+  Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen <a href="#Link">Link zu den Stunden im Stundenprotokoll</a> erstellt.</p>
   
 <p id="Stunde17"><b>Samstag 02.10.2021</b><br> 
   Heute haben wir den Arduino weiter draußen mit angeschlossener 9V Blockbaterie meteorologische Daten sammeln lassen. Die Daten wurden auf der SD-Karte gespeichert und wieder in Excel mit Diagrammen ausgewertet und sind unter dem untenstehenden Dropdown zu sehen. Die Durchschnittstemperatur im Messzeitraum ist 16,27°C, die Durchschnittsluftfeuchtigkeit betrug 73,95% und der Luftdruck lag durchschnittlich bei 1003,74 hPa. Gemessen wurde im Zeitraum von 15:20 Uhr bis 20:30 Uhr mit einer Erfassung der Werte in einem 10 Minuten Rythmus.</p>
