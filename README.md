@@ -304,7 +304,22 @@ if (Zieldatei) {
 </details>
 
 <p id="#Stunde23"><b>Mittwoch 13.10.2021</b><br>
-  Heute wurden der Arduino aus experimentellen Zwecken wieder mit einer 9V Batterie angetrieben.
+  Heute wurden der Arduino aus experimentellen Zwecken wieder mit einer 9V Batterie angetrieben. Das Problem war leider, dass der Arduino von 09:27 Uhr an nur bis 11:17 gemessen hat. Ich habe dies auch an der nicht leuchtenden inbuilt-LED gesehen und geprüft, ob die Batterie leer sein. Dies war nicht der Fall, weshalb ich die Batterie wieder an den Arduino angeschlosen habe. Die LED leuchtete darauf hin und ich war mir sicher, dass der Arduino wieder Daten erhebe. Dies war aber anscheinend nicht der Fall. Die inbuilt-LED hat zwar bis 22:00 geleuchtet, der Arduino hat aber keine weiteren Daten im Zeitraum von 11:17 Uhr bis 22:00 Uhr Daten gemessen.</p>
+<table>
+  <tr><th></th><th>Werte</th></tr>
+  <tr><td>Mittelwert der Temperatur</td><td>10,14°C</td></tr>
+  <tr><td>Mittelwert der Luftfeuchtigkeit</td><td>77,09%</td></tr>
+  <tr><td>Mittelwert des Luftdrucks</td><td>1016,68hPa</td></tr>
+</table>
+
+<details><summary>Auswertung der gemessenen Daten</summary>
+
+![grafik](https://user-images.githubusercontent.com/88386049/137264497-dbd9edc7-d8c4-4d11-b277-db078587916d.png)
+![grafik](https://user-images.githubusercontent.com/88386049/137264505-5e98d28c-ae83-42d2-925b-53dffbffea65.png)
+![grafik](https://user-images.githubusercontent.com/88386049/137264511-0c85575c-3270-4469-be08-df46db7b8ecd.png)
+
+</detials>
+
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
