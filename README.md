@@ -338,7 +338,15 @@ if (Zieldatei) {
 <p>Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen. Alle eingesetzten Materialien sind mit einem Haken gekennzeichnet:
 <b>Produktbeschreibung jeweils hinzufügen!!!</b></p>
 
-<p><b>Sensoren:</b></p>
+<p><b>Experimentelle Bausteine:</b></p>
+
+- [ ] Erschütterungssensor ->
+- [ ] Bewegungssensor -> LK-PIR (www.linkerkit.de)
+- [ ] Rote, grüne, weiße und gelbe LED-Dioden von unterschiedlichen Herstellern
+- [ ] Piezo-Summer
+- [ ] Pot
+
+<p><b>Eingesetzte Sensoren:</b></p>
 
 - [x] Temperatur -> Thermometer -> Produkt: BME280
 - [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
@@ -354,7 +362,7 @@ if (Zieldatei) {
 - [x] Data Logging-Shield mit RTC-> XD-204 Data Logging Shield 
 - [x] 4GB SD-Karte
 - [x] Stromversorgung für den Arduino im Haus (Batterie oder Akkumulator) -> 9V Blockbaterie mit Power-Jack
-- [x] Stromversorgung über <b>XXXmAh</b> Powerbank
+- [x] Stromversorgung auch möglich über 5000mAh Powerbank
 - [x] Jumper Kabel <b>Anzahl hier!!</b>
 
 
