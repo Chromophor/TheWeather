@@ -303,7 +303,7 @@ if (Zieldatei) {
 
 </details>
 
-<p id="#Stunde23"><b>Mittwoch 13.10.2021</b><br>
+<p id="Stunde23"><b>Mittwoch 13.10.2021</b><br>
   Heute wurden der Arduino aus experimentellen Zwecken wieder mit einer 9V Batterie angetrieben. Das Problem war leider, dass der Arduino von 09:27 Uhr an nur bis 11:17 gemessen hat. Ich habe dies auch an der nicht leuchtenden inbuilt-LED gesehen und geprüft, ob die Batterie leer sein. Dies war nicht der Fall, weshalb ich die Batterie wieder an den Arduino angeschlosen habe. Die LED leuchtete darauf hin und ich war mir sicher, dass der Arduino wieder Daten erhebe. Dies war aber anscheinend nicht der Fall. Die inbuilt-LED hat zwar bis 22:00 geleuchtet, der Arduino hat aber keine weiteren Daten im Zeitraum von 11:17 Uhr bis 22:00 Uhr Daten gemessen.</p>
 <table>
   <tr><th></th><th>Werte</th></tr>
