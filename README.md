@@ -332,7 +332,7 @@ if (Zieldatei) {
 </details>
 
 <p id="Stunde24"><b>Donnerstag</b><br>
-  Der Arduino wurde heute wieder mit einer 9V Batterie mit Strom versorgt. Erfreulicherweise hat die Batterie einen Messzeitraum von 08:04 Uhr bis 18:14 Uhr durchgehalten. Die ausgewerteten Daten, sind in der tabelle und unter dem Dropdown zu sehen.</p>
+  Der Arduino wurde heute wieder mit einer 9V Batterie mit Strom versorgt. Erfreulicherweise hat die Batterie einen Messzeitraum von 08:04 Uhr bis 18:14 Uhr durchgehalten. Die ausgewerteten Daten, sind in der Tabelle und unter dem Dropdown zu sehen.</p>
 <table>
   <tr><th></th><th>Werte</th></tr>
   <tr><td>Mittelwert der Temperatur</td><td>14,29°C</td></tr>
