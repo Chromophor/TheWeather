@@ -360,8 +360,8 @@ if (Zieldatei) {
 - [ ] Erschütterungssensor ->
 - [ ] Bewegungssensor -> LK-PIR (www.linkerkit.de)
 - [ ] Rote, grüne, weiße und gelbe LED-Dioden von unterschiedlichen Herstellern
-- [ ] Piezo-Summer
-- [ ] Potentiometer
+- [ ] Piezo-Summer ->
+- [ ] Potentiometer ->
 
 <p><br><b>Eingesetzte Sensoren:</b></p>
 
@@ -392,5 +392,6 @@ if (Zieldatei) {
 <h2 id="kapitel4">4. Quellen</a></h2>
 <li>file:///G:/Klasse%2012bc/Informatik/DE_SolderComic_L%C3%B6ten_loeten.pdf</li>
 <li>Arduino Kompendium, Danny Schreiter, {BMU VERLAG}</li>
+<li>https://guides.github.com/features/mastering-markdown/</li>
 
 
