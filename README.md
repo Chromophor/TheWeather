@@ -348,6 +348,14 @@ if (Zieldatei) {
 
   </details>
 
+<table>
+  <tr><th></th><th>Werte</th></tr>
+  <tr><td>- [ ] Erschütterungssensor</td><td>14,29°C</td></tr>
+  <tr><td>Mittelwert der Luftfeuchtigkeit</td><td>80,34%</td></tr>
+  <tr><td>Mittelwert des Luftdrucks</td><td>1013,60hPa</td></tr>
+</table>
+
+
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
