@@ -331,6 +331,16 @@ if (Zieldatei) {
 
 </details>
 
+<p id="Stunde24"><b>Donnerstag</b><br>
+  Der Arduino wurde heute wieder mit einer 9V Batterie mit Strom versorgt. Erfreulicherweise hat die Batterie einen Messzeitraum von 08:04 Uhr bis 18:14 Uhr durchgehalten. Die ausgewerteten Daten, sind in der tabelle und unter dem Dropdown zu sehen.</p>
+<table>
+  <tr><th></th><th>Werte</th></tr>
+  <tr><td>Mittelwert der Temperatur</td><td>14,29°C</td></tr>
+  <tr><td>Mittelwert der Luftfeuchtigkeit</td><td>80,34%</td></tr>
+  <tr><td>Mittelwert des Luftdrucks</td><td>1013,60hPa</td></tr>
+</table>
+
+
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
