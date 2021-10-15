@@ -346,14 +346,7 @@ if (Zieldatei) {
 ![grafik](https://user-images.githubusercontent.com/88386049/137454831-9fcab582-e5e0-41c6-a0b9-e5abc68b7f18.png)
 ![grafik](https://user-images.githubusercontent.com/88386049/137454843-aa8d2d0a-90a8-4715-95a0-f3671b2117d7.png)
 
-  </details>
-
-<table>
-  <tr><th></th><th>Werte</th></tr>
-  <tr><td>- [ ] Erschütterungssensor</td><td>14,29°C</td></tr>
-  <tr><td>Mittelwert der Luftfeuchtigkeit</td><td>80,34%</td></tr>
-  <tr><td>Mittelwert des Luftdrucks</td><td>1013,60hPa</td></tr>
-</table>
+</details>
 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
