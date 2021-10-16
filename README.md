@@ -335,7 +335,7 @@ if (Zieldatei) {
 
 </details>
 
-<p id="Stunde24"><b>Donnerstag</b><br>
+<p id="Stunde24"><b>Donnerstag 14.10.2021</b><br>
   Der Arduino wurde heute wieder mit einer 9V Batterie mit Strom versorgt. Erfreulicherweise hat die Batterie einen Messzeitraum von 08:04 Uhr bis 18:14 Uhr durchgehalten. Die ausgewerteten Daten, sind in der Tabelle und unter dem Dropdown zu sehen.</p>
 <table>
   <tr><th></th><th>Werte</th></tr>
@@ -352,6 +352,7 @@ if (Zieldatei) {
 
 </details>
 
+<p id="Stunde25"><b>Freitag 15.10.2021</b><br>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
