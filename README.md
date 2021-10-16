@@ -354,7 +354,12 @@ if (Zieldatei) {
 
 <p id="Stunde25"><b>Freitag 15.10.2021</b><br>
   Die Stromversorgung haben wir heute erneut über eine 9V Batterie gewährleistet. Gemessen hat der Arduino Daten in einem Zeitraum von 11:04 bis 18:24 Uhr. Die mit Excel ausgewerteten Daten, sind unter dem Dropdown un in der Tabelle zu sehen.</p>
-
+<table>
+  <tr><th></th><th>Werte</th></tr>
+  <tr><td>Mittelwert der Temperatur</td><td>14,07°C</td></tr>
+  <tr><td>Mittelwert der Luftfeuchtigkeit</td><td>70,12%</td></tr>
+  <tr><td>Mittelwert des Luftdrucks</td><td>1008,51hPa</td></tr>
+</table>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
