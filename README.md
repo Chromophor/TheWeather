@@ -353,7 +353,7 @@ if (Zieldatei) {
 </details>
 
 <p id="Stunde25"><b>Freitag 15.10.2021</b><br>
-  Die Stromversorgung haben wir heute erneut über eine 9V Batterie gewährleistet. Gemessen hat der Arduino Daten in einem Zeitraum von 11:04 bis 18:24 Uhr. Die mit Excel ausgewerteten Daten, sind unter dem Dropdown un in der Tabelle zu sehen.</p>
+  Die Stromversorgung haben wir heute erneut über eine 9V Batterie gewährleistet. Gemessen hat der Arduino Daten in einem Zeitraum von 11:04 bis 18:24 Uhr. Die mit Excel ausgewerteten Daten, sind unter dem Dropdown un in der Tabelle zu sehen. Seltsamerweise hat die inbuilt-LED des Arduinos wieder auch über den Messzeitraum hinweg geleuchtet, weshalb ich dachte, dass der Arduino weiter Daten aufnimmt. Dies war aber nicht der 
 <table>
   <tr><th></th><th>Werte</th></tr>
   <tr><td>Mittelwert der Temperatur</td><td>14,07°C</td></tr>
