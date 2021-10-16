@@ -363,7 +363,7 @@ if (Zieldatei) {
 
 <details><summary>Auswertung der gemessenen Daten</summary>
   
-<p id="Stunde25"><b>Samstag 16.10.2021</b><br>
+<p id="Stunde26"><b>Samstag 16.10.2021</b><br>
   Heute haben wir weiter an dem Gehäuse für den Arduino und die Sensoren gearbeitet. Nachdem verschiedene Wände und Leisten abgelängt wurden, wurden sie mit wasserfestem Holzleim und Heißklebe richtig aufgeklebt. Im nächsten Schritt wird nun alles Lackiert und dann ein erster, vorläufiger Einbau der Technik vorgenommen (Bilder folgen).
 
 ![grafik](https://user-images.githubusercontent.com/88386049/137576823-703c4b56-d8b2-4722-b3f8-0b67428255ce.png)
