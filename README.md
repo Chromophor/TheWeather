@@ -370,7 +370,7 @@ if (Zieldatei) {
 </details>
 
 <p id="Stunde26"><b>Samstag 16.10.2021</b><br>
-  Heute haben wir weiter an dem Gehäuse für den Arduino und die Sensoren gearbeitet. Nachdem verschiedene Wände und Leisten abgelängt wurden, wurden sie mit wasserfestem Holzleim und Heißklebe richtig aufgeklebt. Im nächsten Schritt wird nun alles Lackiert und dann ein erster, vorläufiger Einbau der Technik vorgenommen (Bilder folgen). Auch Daten wurden heute mit dem Arduino von 08:50 Uhr bis 17:30 erfasst. Wir hatten aber erneut das <a href="Beispiel">oben beschriebene</a> Problem mit der inbuilt-LED.</p>
+  Heute haben wir weiter an dem Gehäuse für den Arduino und die Sensoren gearbeitet. Nachdem verschiedene Wände und Leisten abgelängt wurden, wurden sie mit wasserfestem Holzleim und Heißklebe richtig aufgeklebt. Im nächsten Schritt wird nun alles Lackiert und dann ein erster, vorläufiger Einbau der Technik vorgenommen (Bilder folgen). Auch Daten wurden heute mit dem Arduino von 08:50 Uhr bis 17:30 erfasst. Wir hatten aber erneut das <a href="#Beispiel">oben beschriebene</a> Problem mit der inbuilt-LED.</p>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
