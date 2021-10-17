@@ -353,7 +353,7 @@ if (Zieldatei) {
 </details>
 
 <p id="Stunde25"><b>Freitag 15.10.2021</b><br>
-  Die Stromversorgung haben wir heute erneut über eine 9V Batterie gewährleistet. Gemessen hat der Arduino Daten in einem Zeitraum von 11:04 bis 18:24 Uhr. Die mit Excel ausgewerteten Daten, sind unter dem Dropdown un in der Tabelle zu sehen.</p><p id="Beispiel">Seltsamerweise hat die inbuilt-LED des Arduinos wieder auch über den Messzeitraum hinweg geleuchtet, weshalb ich dachte, dass der Arduino weiter Daten aufnimmt. Dies war aber nicht der Fall, weil die gemessenen Datn bis zu einer Uhrzeit von 18:24:17 Uhr gemessen und gespeichert wurden. Dieses Problem werden wir gemeinsam im nächsten Informatik-Unterricht besprechen müssen.</p>
+  Die Stromversorgung haben wir heute erneut über eine 9V Batterie gewährleistet. Gemessen hat der Arduino Daten in einem Zeitraum von 11:04 bis 18:24 Uhr. Die mit Excel ausgewerteten Daten, sind unter dem Dropdown un in der Tabelle zu sehen. Seltsamerweise hat die inbuilt-LED des Arduinos wieder auch über den Messzeitraum hinweg geleuchtet, weshalb ich dachte, dass der Arduino weiter Daten aufnimmt. Dies war aber nicht der Fall, weil die gemessenen Datn bis zu einer Uhrzeit von 18:24:17 Uhr gemessen und gespeichert wurden. Dieses Problem werden wir gemeinsam im nächsten Informatik-Unterricht besprechen müssen.</p>
 <table>
   <tr><th></th><th>Werte</th></tr>
   <tr><td>Mittelwert der Temperatur</td><td>14,07°C</td></tr>
@@ -370,7 +370,21 @@ if (Zieldatei) {
 </details>
 
 <p id="Stunde26"><b>Samstag 16.10.2021</b><br>
-  Heute haben wir weiter an dem Gehäuse für den Arduino und die Sensoren gearbeitet. Nachdem verschiedene Wände und Leisten abgelängt wurden, wurden sie mit wasserfestem Holzleim und Heißklebe richtig aufgeklebt. Im nächsten Schritt wird nun alles Lackiert und dann ein erster, vorläufiger Einbau der Technik vorgenommen (Bilder folgen). Auch Daten wurden heute mit dem Arduino von 08:50 Uhr bis 17:30 erfasst. Wir hatten aber erneut das <a href="#Beispiel">oben beschriebene</a> Problem mit der inbuilt-LED.</p>
+  Heute haben wir weiter an dem Gehäuse für den Arduino und die Sensoren gearbeitet. Nachdem verschiedene Wände und Leisten abgelängt wurden, wurden sie mit wasserfestem Holzleim und Heißklebe richtig aufgeklebt. Im nächsten Schritt wird nun alles Lackiert und dann ein erster, vorläufiger Einbau der Technik vorgenommen (Bilder folgen). Auch Daten wurden heute mit dem Arduino von 08:50 Uhr bis 17:30 erfasst. Wir hatten aber erneut das <a href="#Stunde25">oben beschriebene</a> Problem mit der inbuilt-LED. Trotzdem hat der Arduino in dem oben genannten Zeitraum Daten gespeichert, die mit Excel ausgewertet wurden.</p>
+<table>
+  <tr><th></th><th>Werte</th></tr>
+  <tr><td>Mittelwert der Temperatur</td><td>12,05°C</td></tr>
+  <tr><td>Mittelwert der Luftfeuchtigkeit</td><td>68,64%</td></tr>
+  <tr><td>Mittelwert des Luftdrucks</td><td>1015,69hPa</td></tr>
+</table>
+
+<details><summary>Auswertung der gemessenen Daten</summary>
+
+![grafik](https://user-images.githubusercontent.com/88386049/137616016-9f5dcc3c-f5c0-4723-904f-99dd6ff03494.png)
+![grafik](https://user-images.githubusercontent.com/88386049/137616021-f473151f-669c-4eb4-a3aa-f2c3d746f7bc.png)
+![grafik](https://user-images.githubusercontent.com/88386049/137616024-70965aa1-70da-40ea-b709-4f7ef98aa226.png)
+
+</details>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
