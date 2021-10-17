@@ -386,6 +386,13 @@ if (Zieldatei) {
 
 </details>
 
+<details><summary>Bilder von dem Aufbau des Gehäuses der Wetterstation</summary>
+
+//hier deine Bilder Gernot ;)
+  
+</details>
+
+
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
