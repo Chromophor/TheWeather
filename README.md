@@ -47,7 +47,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <li><a href="#Stunde24">Donnerstag 14.10.2021</a></li>
   <li><a href="#Stunde25">Freitag 15.10.2021</a></li>
   <li><a href="#Stunde26">Samstag 16.10.2021</a></li>
-  <li><a href="#Stunde27">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde27">Sonntag 17.10.2021</a></li>
   <li><a href="#Stunde28">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde29">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde30">Mittwoch 04.08.2021</a></li>
@@ -393,7 +393,7 @@ if (Zieldatei) {
 </details>
 
 <p id="Stunde27"><b>Sonntag 17.10.2021</b><br>
-  Heute haben wir an der Website weiterprogrammiert und für die jeweiligen Tage untergeordnete Seiten erstellt, auf denen die Diagramme angezeigt werden die der Arduino gesammelt hat. Dies sorgt für mehr Ordnung und man kann sich gezielt die Informationen raussuchen, die man braucht. Diese untergeordneten Seiten können über einen Link bei dem jeweiligen Wochentag erreicht werden und beinhalten die Diagramme zu Temperatur, Luftfeuchtigkeit und Luftdruck. Außerdem verfügen die Seiten über einen Link zurück zur Übersichtsseite. Außerdem haben wir die Übersichtsseite überarbeitet, so dass nun eine ganze Woche in eine Reihe passt und die Datumangaben in der gleichen Zeile stehen wie die Wochentage, ohne dass etwas abgeschnitten ist.
+  Heute haben wir an der Website weiterprogrammiert und für die jeweiligen Tage untergeordnete Seiten erstellt, auf denen die Diagramme angezeigt werden die der Arduino gesammelt hat. Dies sorgt für mehr Ordnung und man kann sich gezielt die Informationen raussuchen, die man braucht. Diese untergeordneten Seiten können über einen Link bei dem jeweiligen Wochentag erreicht werden und beinhalten die Diagramme zu Temperatur, Luftfeuchtigkeit und Luftdruck. Außerdem verfügen die Seiten über einen Link zurück zur Übersichtsseite. Außerdem haben wir die Übersichtsseite überarbeitet, so dass nun eine ganze Woche in eine Reihe passt und die Datumangaben in der gleichen Zeile stehen wie die Wochentage, ohne dass etwas abgeschnitten ist. Der Arduino hat heute auch Daten in einem Zeitraum von 06:33 Uhr bis 18:43 Uhr erfasst. Dies schien heute als durchaus erfolgreich, weil der Arduino länger als 10 Stunden messen konnte, genau genommen konnte er 12 Stunden und 10 Minuten messen. Die ausgewerteten Daten sind in der Tabelle und unter dem Dropdown zu sehen.</p>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
