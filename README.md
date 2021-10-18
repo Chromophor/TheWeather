@@ -401,7 +401,13 @@ if (Zieldatei) {
   <tr><td>Mittelwert des Luftdrucks</td><td>1017,31hPa</td></tr>
 </table>
 
+<details><summary>Auswertung der gemessenen Daten</summary>
+ 
+![grafik](https://user-images.githubusercontent.com/88386049/137786830-abda6ad1-fd22-44a9-ae7b-24a0d8801990.png)
+![grafik](https://user-images.githubusercontent.com/88386049/137786844-71d04945-9324-4b01-b531-2baff3430fbf.png)
+![grafik](https://user-images.githubusercontent.com/88386049/137786855-4410a4c5-212e-45d4-bb51-26a0e088f8b0.png)
 
+</details>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
