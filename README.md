@@ -417,11 +417,11 @@ if (Zieldatei) {
 
 <p><b>Experimentelle Bausteine:</b></p>
 
-- [ ] Erschütterungssensor ->
+- [ ] Erschütterungssensor -> BN 2134050 MakerFactory
 - [ ] Bewegungssensor -> LK-PIR (www.linkerkit.de)
 - [ ] Rote, grüne, weiße und gelbe LED-Dioden von unterschiedlichen Herstellern
-- [ ] Piezo-Summer ->
-- [ ] Potentiometer ->
+- [ ] Piezo-Summer -> PKM22EPP-40 
+- [ ] Potentiometer 10K
 
 <p><br><b>Eingesetzte Sensoren:</b></p>
 
