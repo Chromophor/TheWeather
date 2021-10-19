@@ -238,6 +238,18 @@ if (Zieldatei) {
   
 ![index](https://user-images.githubusercontent.com/88386045/137926648-1a3a3766-7bd3-45fe-b378-c04c0129a365.PNG)
   <p>Stand der momentanen Hauptseite, noch ohne Werte.</p>
+``` 
+<section class="tage">
+            <section class="wochentag">
+
+                <h2>Montag 06.09.2021</h2>
+                <p>Temperatur:</p>
+                <p>Niederschlag:</p>
+                <p>Graph: <a href="wochen/woche1/tag1">Hier klicken!</a></p>
+
+            </section>
+</section>
+  ```
   
 </details>
 
