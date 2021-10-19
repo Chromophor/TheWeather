@@ -238,7 +238,7 @@ if (Zieldatei) {
   
 ![index](https://user-images.githubusercontent.com/88386045/137926648-1a3a3766-7bd3-45fe-b378-c04c0129a365.PNG)
   <p>Stand der momentanen Hauptseite, noch ohne Werte.</p>
-``` 
+```
 <section class="tage">
             <section class="wochentag">
 
@@ -249,7 +249,7 @@ if (Zieldatei) {
 
             </section>
 </section>
-  ```
+```
   
 </details>
 
