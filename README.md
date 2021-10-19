@@ -248,6 +248,26 @@ if (Zieldatei) {
 </details>
 
 ```
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8">
+    <title>The Weather - Informatikprojekt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    
+    <link href="css/style-test.css" rel="stylesheet">
+</head>
+
+<body style="background-image:url(kanadaback.JPG)">
+
+    <header>
+        <h1 class="headline">The Weather</h1>
+    </header>
+``` 
+<p>Grundeinstellungen für den Html-Code und Überschrift der Hauptseite
+
+```
 <section class="tage">
             <section class="wochentag">
 
@@ -259,7 +279,77 @@ if (Zieldatei) {
             </section>
 </section>
 ```
+<p>Beispiel Html-code für einen Tag</p>
 
+``` 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+body {
+    box-sizing: border-box;
+}
+
+.headline {
+    text-decoration: underline;
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+.box {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1800px;
+}
+
+.bild {
+    width: calc(100% /3);
+    padding: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.bild img {
+    width: 100%;
+}
+
+.bild3 {
+    width: calc(100% /3);
+    padding: 5px;
+    padding-right: 0px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.bild3 img {
+    width: 100%;
+}
+
+.backbox {
+    max-width: 1800px;
+    margin: 0 auto;
+}
+
+.back {
+    margin-top: 20px;
+    width: 85px;
+    height: auto;
+}
+
+.back a {
+    text-decoration: underline;
+    color: black;
+    font-size: 25px;
+    padding: 5px;
+}
+``` 
+<p>Css-Code für das Styling der Hauptseite</p>
 
 <p id="Stunde16"><b>Mittwoch 29.09.2021</b><br>
   Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen <a href="#Link">Link zu den Stunden im Stundenprotokoll</a> erstellt.</p>
