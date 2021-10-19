@@ -389,7 +389,7 @@ if (Zieldatei) {
 <details><summary>Bilder von dem Aufbau des Gehäuses der Wetterstation</summary>
 
 //hier deine Bilder Gernot ;)
-  
+
 </details>
 
 <p id="Stunde27"><b>Sonntag 17.10.2021</b><br>
@@ -414,6 +414,9 @@ if (Zieldatei) {
 
 <p>Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen. Alle eingesetzten Materialien sind mit einem Haken gekennzeichnet:
 <b>Produktbeschreibung jeweils hinzufügen!!!</b></p>
+
+<p><b>Eingebundene Bibliotheken</b></p>
+
 
 <p><b>Experimentelle Bausteine:</b></p>
 
