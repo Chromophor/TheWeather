@@ -174,7 +174,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 </details>
 
 <p id="Stunde13"><b>Dienstag 21.09.2021</b><br>
-  Heute haben wir unterschiedlich gearbeitet. Henrik und Thorben haben in der Schule weitergeartbeitet und Gernot ist aus gesundheitlichen Gründen zu Hause geblieben. In dieser Zeit haben wir weiter an unserem Projekt gearbeitet und den Rohbau des Häuschens verfeinert. Im nächsten Schritt müssen die einzelnen Sensoren und Platinen eingepasst werden, sodass nach weiterer Anpassung des Gehäuses eine erste Lackierung vorgenommen werden kann. Währenddessen hat Henrik an der Website weiter programmiert und noch verschiedene Sachen geändert. So hat die Website nun ein Hintergrundbild und die Anzeigekästchen haben abgerundete Ecken. Des weiteren sind die Farben einheitlich. Abschließend müssen wir uns nur noch auf eine Art einigen, wie wir die Messwerte genau darstellen wollen. Thorben hat mit dem Data Logging Shield an einer Lösung für eine zeitliche Erfassung der Messwerte gearbeitet. Dabei haben wir die im Data Logging Shield integrierte RTC (Real-Time-Clock) verwendet, um die Urzeit anzuzeigen. Dies ist insofern wichtig, als dass bei einer Messdauer von einem Tag bis zu einer Woche die Exceldatei zunehmend unübersichtlich wird, welche Daten wann erhoben wurden, weshalb eine zeitliche Kennzeichnung der Werte notwendig ist. Damit kann man feststellen, ob der Messwert in der Nacht oder während des Mittags gemessen wurde. Dies ist bei der Auswertung besonders von Bedeutung, weil wir so schon optisch feststellen können, welche Messertwerte eventuell falsch sind.</p>
+  Heute haben wir unterschiedlich gearbeitet. Henrik und Thorben haben in der Schule weitergeartbeitet und Gernot ist aus gesundheitlichen Gründen zu Hause geblieben. In dieser Zeit haben wir weiter an unserem Projekt gearbeitet und den Rohbau des Häuschens verfeinert. Im nächsten Schritt müssen die einzelnen Sensoren und Platinen eingepasst werden, sodass nach weiterer Anpassung des Gehäuses eine erste Lackierung vorgenommen werden kann. Währenddessen hat Henrik an der Website weiter programmiert und noch verschiedene Sachen geändert. So hat die Website nun ein Hintergrundbild und die Anzeigekästchen haben abgerundete Ecken. Des weiteren sind die Farben einheitlich. Abschließend müssen wir uns nur noch auf eine Art einigen, wie wir die Messwerte genau darstellen wollen. Thorben hat mit dem Data Logging Shield an einer Lösung für eine zeitliche Erfassung der Messwerte gearbeitet. Dabei haben wir die im Data Logging Shield integrierte RTC (Real-Time-Clock) verwendet, um die Uhrzeit anzuzeigen. Dies ist insofern wichtig, als dass bei einer Messdauer von einem Tag bis zu einer Woche die Exceldatei zunehmend unübersichtlich wird, welche Daten wann erhoben wurden, weshalb eine zeitliche Kennzeichnung der Werte notwendig ist. Damit kann man feststellen, ob der Messwert in der Nacht oder während des Mittags gemessen wurde. Dies ist bei der Auswertung besonders von Bedeutung, weil wir so schon optisch feststellen können, welche Messertwerte eventuell falsch sind.</p>
   
 <details><summary>Screenshots Dienstag 21.09.2021</summary>
   
@@ -222,7 +222,7 @@ if (Zieldatei) {
   }
 ```
 
-<p>Deshalb war heute der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V Blockbatterie angeschlossen und ihn für eine Viertelstunde draußen auf der Fensterbank Werte aufnehmen lassen. Diese hat Thorben mit Excel ausgewertet (siehe Grafiken unten) und Henrik hat diese als erste Werte auf unserer Website eingebunden <b>Henrik, dein Bericht!!</b>. Gernot hat währenddessen an dem letzten Sensor gearbeitet, den wir mit einbinden wollen: Dem Fotowiederstand. <b>Gernot, dein Bericht!!</b></p>
+<p>Deshalb war heute der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V Blockbatterie angeschlossen und ihn für eine Viertelstunde draußen auf der Fensterbank Werte aufnehmen lassen. Diese hat Thorben mit Excel ausgewertet (siehe Grafiken unten) und Henrik hat diese als erste Werte auf unserer Website eingebunden. Hierbei waren wir mit der momentanen Anzeige der Daten noch nicht ganz zufrieden, da Fotos dirket auf der Hauptseite sehr unordentlich und unübersichtlich sind. Den Rest der Stunde haben wir damit verbracht hierfür eine Lösung zu finden. Ein Screenshot der momentanen Hauptseite und dem zugehörigen Code sind trotzdem als Zwischenstand im Anhang zu finden.<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Gernot hat währenddessen an dem letzten Sensor gearbeitet, den wir mit einbinden wollen: Dem Fotowiederstand. <b>Gernot, dein Bericht!!</b></p>
 
 <details><summary>Screenshots Dienstag 28.09.2021</summary>
 
@@ -389,11 +389,11 @@ if (Zieldatei) {
 <details><summary>Bilder von dem Aufbau des Gehäuses der Wetterstation</summary>
 
 //hier deine Bilder Gernot ;)
-
+  
 </details>
 
 <p id="Stunde27"><b>Sonntag 17.10.2021</b><br>
-  Heute haben wir an der Website weiterprogrammiert und für die jeweiligen Tage untergeordnete Seiten erstellt, auf denen die Diagramme angezeigt werden die der Arduino gesammelt hat. Dies sorgt für mehr Ordnung und man kann sich gezielt die Informationen raussuchen, die man braucht. Diese untergeordneten Seiten können über einen Link bei dem jeweiligen Wochentag erreicht werden und beinhalten die Diagramme zu Temperatur, Luftfeuchtigkeit und Luftdruck. Außerdem verfügen die Seiten über einen Link zurück zur Übersichtsseite. Außerdem haben wir die Übersichtsseite überarbeitet, so dass nun eine ganze Woche in eine Reihe passt und die Datumangaben in der gleichen Zeile stehen wie die Wochentage, ohne dass etwas abgeschnitten ist. Der Arduino hat heute auch Daten in einem Zeitraum von 06:33 Uhr bis 18:43 Uhr erfasst. Dies schien heute als durchaus erfolgreich, weil der Arduino länger als 10 Stunden messen konnte, genau genommen konnten wir 12 Stunden und 10 Minuten Daten erheben. Die ausgewerteten Daten sind in der Tabelle und unter dem Dropdown zu sehen. Das <a href="#Stunde25">Problem mit der inbuilt-LED</a> tauchte heute erneut auf. Ich kann mir dies bisher nur so erklären, dass der Arduino zwar noch mit Strom versorgt wird, die Spannung aber nicht ausreicht, um Daten zu speichern. Dieses Problem müssen wir auf jeden Fall im Unterricht weiter diskutieren.</p>
+  Heute haben wir an der Website weiterprogrammiert und für die jeweiligen Tage untergeordnete Seiten erstellt, auf denen die Diagramme angezeigt werden die der Arduino gesammelt hat. Dies sorgt für mehr Ordnung und man kann sich gezielt die Informationen raussuchen, die man braucht. Damit haben wir auch das Problem mit den Fotos auf der Hauptseite gelöst. Diese untergeordneten Seiten können über einen Link bei dem jeweiligen Wochentag erreicht werden und beinhalten die Diagramme zu Temperatur, Luftfeuchtigkeit und Luftdruck. Außerdem verfügen die Seiten über einen Link zurück zur Hauptseite. Außerdem haben wir die Hauptseite überarbeitet, so dass nun eine ganze Woche in eine Reihe passt und die Datumangaben in der gleichen Zeile stehen wie die Wochentage, ohne dass etwas abgeschnitten ist. Ein Screenshot von einer untergeordneten Seite und der der zugehörige Code sind as Anhang angefügt. Der Arduino hat heute auch Daten in einem Zeitraum von 06:33 Uhr bis 18:43 Uhr erfasst. Dies schien heute als durchaus erfolgreich, weil der Arduino länger als 10 Stunden messen konnte, genau genommen konnten wir 12 Stunden und 10 Minuten Daten erheben. Die ausgewerteten Daten sind in der Tabelle und unter dem Dropdown zu sehen. Das <a href="#Stunde25">Problem mit der inbuilt-LED</a> tauchte heute erneut auf. Ich kann mir dies bisher nur so erklären, dass der Arduino zwar noch mit Strom versorgt wird, die Spannung aber nicht ausreicht, um Daten zu speichern. Dieses Problem müssen wir auf jeden Fall im Unterricht weiter diskutieren.</p>
 <table>
   <tr><th></th><th>Werte</th></tr>
   <tr><td>Mittelwert der Temperatur</td><td>13,05°C</td></tr>
@@ -414,9 +414,6 @@ if (Zieldatei) {
 
 <p>Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen. Alle eingesetzten Materialien sind mit einem Haken gekennzeichnet:
 <b>Produktbeschreibung jeweils hinzufügen!!!</b></p>
-
-<p><b>Eingebundene Bibliotheken</b></p>
-
 
 <p><b>Experimentelle Bausteine:</b></p>
 
