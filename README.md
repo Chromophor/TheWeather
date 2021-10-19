@@ -222,7 +222,13 @@ if (Zieldatei) {
   }
 ```
 
-<p>Deshalb war heute der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V Blockbatterie angeschlossen und ihn für eine Viertelstunde draußen auf der Fensterbank Werte aufnehmen lassen. Diese hat Thorben mit Excel ausgewertet (siehe Grafiken unten) und Henrik hat diese als erste Werte auf unserer Website eingebunden. Hierbei waren wir mit der momentanen Anzeige der Daten noch nicht ganz zufrieden, da Fotos dirket auf der Hauptseite sehr unordentlich und unübersichtlich sind. Den Rest der Stunde haben wir damit verbracht hierfür eine Lösung zu finden. Ein Screenshot der momentanen Hauptseite und dem zugehörigen Code sind trotzdem als Zwischenstand im Anhang zu finden. Gernot hat währenddessen an dem letzten Sensor gearbeitet, den wir mit einbinden wollen: Dem Fotowiederstand. <b>Gernot, dein Bericht!!</b></p>
+<p>Deshalb war heute der Tag der Praxis! Wir haben den Arduino mit einem spezeillen Kabel an eine 9V Blockbatterie angeschlossen und ihn für eine Viertelstunde draußen auf der Fensterbank Werte aufnehmen lassen. Diese hat Thorben mit Excel ausgewertet (siehe Grafiken unten) und Henrik hat diese als erste Werte auf unserer Website eingebunden. Hierbei waren wir mit der momentanen Anzeige der Daten noch nicht ganz zufrieden, da Fotos dirket auf der Hauptseite sehr unordentlich und unübersichtlich sind. Den Rest der Stunde haben wir damit verbracht hierfür eine Lösung zu finden. Ein Screenshot der momentanen Hauptseite und dem zugehörigen Code sind trotzdem als Zwischenstand im Anhang zu finden. Gernot hat währenddessen an dem letzten Sensor gearbeitet, den wir mit einbinden wollen: Dem Fotowiederstand. Dieser misst die Intensität des Lichts bzw. der Sonne in Candela und gibt dann eine Zahl aus. Anhand von dieser Zahl lässt sich bestimmen, ob die vergangene Stunde eine Sonnenstunde oder "Schattenstunde" war. Somit haben wir in unserer Wetterstation eine weietere Möglichkeit, einen noch umfassenderen Wetterbericht zu erstellen. Der Code für diesen Sensor arbeietet mit einer einfachen if-else-Abfrage. Damnit sind mit nur einer Variable zwei Ereignisse bzw. Ausgaben auf den seriellen Monitor möglich. Diese Ausgabe passt sich automatisch an die lichtverhältnisse an, indem es entweder schattig oder sonnig ist.</p>
+
+<details><summary>Screenshot vom Code für den Lichtintensitätssensor</summary>
+![Lichtintensitätssensor](https://user-images.githubusercontent.com/88386279/137928321-5ca34693-b111-4844-904b-75e6d2858713.JPG)
+
+  
+</details>
 
 <details><summary>Screenshots Dienstag 28.09.2021</summary>
 
@@ -240,20 +246,6 @@ if (Zieldatei) {
   <p>Stand der momentanen Hauptseite, noch ohne Werte.</p>
   
 </details>
-
-```
-<section class="tage">
-            <section class="wochentag">
-
-                <h2>Montag 06.09.2021</h2>
-                <p>Temperatur:</p>
-                <p>Niederschlag:</p>
-                <p>Graph: <a href="wochen/woche1/tag1">Hier klicken!</a></p>
-
-            </section>
-</section>
-```
-
 
 <p id="Stunde16"><b>Mittwoch 29.09.2021</b><br>
   Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen <a href="#Link">Link zu den Stunden im Stundenprotokoll</a> erstellt.</p>
