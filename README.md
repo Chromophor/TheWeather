@@ -523,6 +523,9 @@ body {
 
 </details>
 
+<p id="Stunde28"><b>Dienstag 19.10.2021</b><br>
+In dieser Doppelstunde am Nachmittag haben wir damit begonnen, den Skript für den Lichtintensitätssensor mit dem Skript für die anderen Sensoren zu verbinden und damit ein einziges, funktionales Programm für den Arduino zu erstellen. Schwierigkeiten sind dabei die Strings nicht zu zerstören und somit alle Sensoren zu der vorgegebenen Zeit messen. Davor stellte sich noch die Frage, ob die Anschlüsse des Arduinos für manche Sensoren doppelt belegt werden müssen, was jedoch glücklicherweise nicht der Fall war. Weiter muss nun darauf geachtet werden, dass der Speicher des Arduinos für das gewünschte Programm ausreicht, da hiermit immerhin eine Realtimeclock, zwei Sensoren mit zusammen 5 Funktionen und die SD-Karte, die die Daten der Sensoren abspeichert, gesteuert werden. Außerdem haben wir an der Webseite weitergearbeitet und uns auf eine Anzeigeeinstellung geeinigt. Zu guter letzt haben wir auch am Repository weitergemacht, sodass es nun wieder auf dem aktuellsten Stand, mit vielen Bildern und Screenshots versehen, ist.</p> 
+
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
