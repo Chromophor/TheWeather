@@ -585,6 +585,18 @@ Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause b
 - [x] Holz in verschiedenen Formen und Arten: Pappel, Buche, Leisten, Bretter
 - [x] Beschläge, Winkel und Schrauben
 - [x] Farben 
+- [x] Acrylglas
+- [x] Holzleim, Allzweckkleber, Silikon
+
+<p><br><b>Benuzte Werkzeuge:</b></p>
+- [x] Elektrische Laubsäge von Proxxon
+- [x] ELektrische Kreissäge von Proxxon
+- [x] Schraubzwingen
+- [x] Handsäge
+- [x] Bohrmaschine mit verschiedenen Bohrnadeln
+- [x] Akkuschrauber mit verschiednen Bits (Spax, Torx)
+- [x] Schleifpapier, Feilen
+- [x] Stahllinial, Geodreieck, rechter Winkel
 
 <h2 id="kapitel4">4. Quellen</a></h2>
 <li>file:///G:/Klasse%2012bc/Informatik/DE_SolderComic_L%C3%B6ten_loeten.pdf</li>
