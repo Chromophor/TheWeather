@@ -543,6 +543,8 @@ Heute haben wir uns weiter an der Vereinigung der beiden Programme vom Lichtinte
   
 </details>
 
+<p id="Stunde30"><b>Dienstag 26.10.2021</b><br>
+Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause bleiben musste. In der Schule haben Hendrick und Gernot gearbeitet. Thorben hat von Zuhause aus gearbeitet.
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
