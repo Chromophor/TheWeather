@@ -589,6 +589,7 @@ Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause b
 - [x] Holzleim, Allzweckkleber, Silikon
 
 <p><br><b>Benuzte Werkzeuge:</b></p>
+
 - [x] Elektrische Laubsäge von Proxxon
 - [x] ELektrische Kreissäge von Proxxon
 - [x] Schraubzwingen
