@@ -546,6 +546,10 @@ Heute haben wir uns weiter an der Vereinigung der beiden Programme vom Lichtinte
 <p id="Stunde30"><b>Dienstag 26.10.2021</b><br>
 Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause bleiben musste. In der Schule haben Henrik und Gernot gearbeitet. Thorben hat von Zuhause aus gearbeitet. Wir haben an unserer Internetseite weitergarbeitet und einige Fehler behoben. Währenddessen haben wir weiter an der Vereinung der beiden Programme gesessen und das Repoitory um eine weitere Kategorie "Werkzeuge" ergänzt.
 
+<p id="Stunde31"><b>Mittwoch 27.10.2021</b><br>
+Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt.
+
+
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
