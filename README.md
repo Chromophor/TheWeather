@@ -272,7 +272,7 @@ if (Zieldatei) {
         <h1 class="headline">The Weather</h1>
     </header>
 ``` 
-<p>Grundeinstellungen für den Html-Code und Überschrift der Hauptseite
+<p>Grundeinstellungen für den Html-Code und Überschrift der Hauptseite</p>
 
 ```
 <section class="tage">
@@ -355,6 +355,7 @@ body {
     font-size: 25px;
     padding: 5px;
 }
+
 ``` 
 <p>Css-Code für das Styling der Hauptseite</p>
 
