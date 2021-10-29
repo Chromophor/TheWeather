@@ -545,7 +545,7 @@ Heute haben wir uns weiter an der Vereinigung der beiden Programme vom Lichtinte
 </details>
 
 <p id="Stunde30"><b>Dienstag 26.10.2021</b><br>
-Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause bleiben musste. In der Schule haben Henrik und Gernot gearbeitet. Thorben hat von Zuhause aus gearbeitet. Wir haben an unserer Internetseite weitergarbeitet und einige Fehler behoben. Währenddessen haben wir weiter an der Vereinung der beiden Programme gesessen und das Repoitory um eine weitere Kategorie "Werkzeuge" ergänzt.</p>
+Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause bleiben musste. In der Schule haben Henrik und Gernot gearbeitet. Thorben hat von Zuhause aus gearbeitet. Wir haben an unserer Internetseite weitergarbeitet und einige Fehler behoben. Währenddessen haben wir weiter an der Vereinung der beiden Programme gesessen und das Repoitory um eine weitere Kategorie <a href="#werkzeuge">"Werkzeuge"</a> ergänzt.</p>
 
 <p id="Stunde31"><b>Mittwoch 27.10.2021</b><br>
 Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider konnten wir auch heute nicht an einem Platz arbeiten, aber mit etwas Geschick war ein Arbeiten über Distanz auch gut möglich. Viel Absprache half uns dabei wirklich weiter.</p>
@@ -594,7 +594,7 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 - [x] Acrylglas
 - [x] Holzleim, Allzweckkleber, Silikon
 
-<p><br><b>Benuzte Werkzeuge:</b></p>
+<p id="werkzeuge"><br><b>Benuzte Werkzeuge:</b></p>
 
 - [x] Elektrische Laubsäge von Proxxon
 - [x] ELektrische Kreissäge von Proxxon
