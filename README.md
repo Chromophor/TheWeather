@@ -52,7 +52,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <li><a href="#Stunde29">Mittwoch 20.10.2021</a></li>
   <li><a href="#Stunde30">Dienstag 26.10.2021</a></li>
   <li><a href="#Stunde31">Mittwoch 27.10.2021</a></li>
-  <li><a href="#Stunde32">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde32">Dienstag 02.11.2021</a></li>
   <li><a href="#Stunde33">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde34">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde35">Mittwoch 04.08.2021</a></li>
@@ -549,6 +549,9 @@ Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause b
 
 <p id="Stunde31"><b>Mittwoch 27.10.2021</b><br>
 Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider konnten wir auch heute nicht an einem Platz arbeiten, aber mit etwas Geschick war ein Arbeiten über Distanz auch gut möglich. Viel Absprache half uns dabei wirklich weiter.</p>
+
+<p id="Stunde32"><b>Dienstag 02.11.2021</b><br>
+  Am Wochenende hat Henrik eine neue Idee entwickelt, mit der wir die erhobenen Daten automatisiert in unsere Website aufnehmen können. <b>HIER GERNE DEIN BERICHT ÜBER DIE FUNKTION DES CODES + CODE</b>
 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
