@@ -554,7 +554,6 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 
 <p id="Stunde32"><b>Dienstag 02.11.2021</b></p>
 
-
   Am Wochenende hat Henrik eine neue Idee entwickelt, mit der wir die erhobenen Daten automatisiert in unsere Website aufnehmen können. <b>HIER GERNE DEIN BERICHT ÜBER DIE FUNKTION DES CODES + CODE</b> Dafür hat Thorben heute die Formatierung der gespeicherten Daten geändert. Die Informationen wurde zuvor um die Übersichtlichkeit zu unterstützen beispielsweise ``#Temperatur: 24°C`` gekennzeichnet. Diese Formatierung habe ich aufgehoben und wie unten stehend zu sehen ist, abgeändert. Bei dieser Arbeit entstand ein neues Problem: Die RTC <a href="#Stunde14">(Real-Time-Clock)</a>
 
 
