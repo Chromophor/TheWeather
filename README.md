@@ -551,7 +551,7 @@ Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause b
 Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider konnten wir auch heute nicht an einem Platz arbeiten, aber mit etwas Geschick war ein Arbeiten über Distanz auch gut möglich. Viel Absprache half uns dabei wirklich weiter.</p>
 
 <p id="Stunde32"><b>Dienstag 02.11.2021</b><br>
-  Am Wochenende hat Henrik eine neue Idee entwickelt, mit der wir die erhobenen Daten automatisiert in unsere Website aufnehmen können. <b>HIER GERNE DEIN BERICHT ÜBER DIE FUNKTION DES CODES + CODE</b>
+  Am Wochenende hat Henrik eine neue Idee entwickelt, mit der wir die erhobenen Daten automatisiert in unsere Website aufnehmen können. <b>HIER GERNE DEIN BERICHT ÜBER DIE FUNKTION DES CODES + CODE</b> Dafür hat Thorben heute die Formatierung der gespeicherten Daten geändert. Die Informationen wurde zuvor um die Übersichtlichkeit zu unterstützen beispielsweise</p> `#Temperatur: 24°C` <p>gekennzeichnet. Diese Formatierung habe ich aufgehoben und wie unten stehend zu sehen ist, abgeändert. Bei dieser Arbeit entstand ein neues Problem: Die RTC <a href="Stunde14">(Real-Time-Clock)</a>
 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
