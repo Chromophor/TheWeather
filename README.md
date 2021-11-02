@@ -564,11 +564,11 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 
 <p><b>Experimentelle Bausteine:</b></p>
 
-c Erschütterungssensor -> BN 2134050 MakerFactory
 - [ ] Bewegungssensor -> LK-PIR (www.linkerkit.de)
 - [ ] Rote, grüne, weiße und gelbe LED-Dioden von unterschiedlichen Herstellern
 - [ ] Piezo-Summer -> PKM22EPP-40 
 - [ ] Potentiometer 10K
+- [ ] Erschütterungssensor -> BN 2134050 MakerFactory
 
 <p><br><b>Eingesetzte Sensoren:</b></p>
 
