@@ -580,12 +580,12 @@ c Erschütterungssensor -> BN 2134050 MakerFactory
 - [x] Lichtempfindlichkeitssensor BN 2134129 von MakerFactory
 
 <p id="Bibliotheken"><br><b>Eingesetzte Bibliotheken</b></p>
-- [x] <Wire.h>
-- [x] <DS1307RTC.h>
-- [x] <SPI.h>
-- [x] <SD.h>
-- [x] <Adafruit_Sensor.h>
-- [x] <Adafruit_BME280.h>
+- [x] Wire.h
+- [x] DS1307RTC.h
+- [x] SPI.h
+- [x] SD.h
+- [x] Adafruit_Sensor.h
+- [x] Adafruit_BME280.h
 
 
 
