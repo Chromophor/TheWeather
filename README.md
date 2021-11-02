@@ -549,7 +549,7 @@ Heute haben wir uns weiter an der Vereinigung der beiden Programme vom Lichtinte
 Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause bleiben musste. In der Schule haben Henrik und Gernot gearbeitet. Thorben hat von Zuhause aus gearbeitet. Wir haben an unserer Internetseite weitergarbeitet und einige Fehler behoben. Währenddessen haben wir weiter an der Vereinung der beiden Programme gesessen und das Repoitory um eine weitere Kategorie <a href="#werkzeuge">"Werkzeuge"</a> ergänzt.</p>
 
 <p id="Stunde31"><b>Mittwoch 27.10.2021</b><br>
-Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider konnten wir auch heute nicht an einem Platz arbeiten, aber mit etwas Geschick war ein Arbeiten über Distanz auch gut möglich. Viel Absprache half uns dabei wirklich weiter.</p>
+Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider konnten wir auch heute nicht an einem Platz arbeiten, aber mit etwas Geschick war ein Arbeiten über Distanz auch gut möglich. Viel Absprache half uns dabei wirklich weiter. Wir haben zusätzlich eine Liste mit eingesetzten Bibliotheken bei den <Materialien ergänzt.</p>
 
 <p id="Stunde32"><b>Dienstag 02.11.2021</b></p>
 
@@ -564,7 +564,7 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 
 <p><b>Experimentelle Bausteine:</b></p>
 
-- [ ] Erschütterungssensor -> BN 2134050 MakerFactory
+c Erschütterungssensor -> BN 2134050 MakerFactory
 - [ ] Bewegungssensor -> LK-PIR (www.linkerkit.de)
 - [ ] Rote, grüne, weiße und gelbe LED-Dioden von unterschiedlichen Herstellern
 - [ ] Piezo-Summer -> PKM22EPP-40 
@@ -578,6 +578,11 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 - [x] Höhe -> Alitmeter -> Produkt: BME280
 - [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (Ursprünglich geplant, dann aber verworfen und ersetzt)
 - [x] Lichtempfindlichkeitssensor BN 2134129 von MakerFactory
+
+<p id="Bibliotheken"><br><b>Eingesetzte Bibliotheken</b></p>
+- [x] 
+
+
 
 <p><br><b>Weitere technische Bauteile:</b></p>
 
