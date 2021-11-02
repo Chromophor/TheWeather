@@ -549,7 +549,7 @@ Heute haben wir uns weiter an der Vereinigung der beiden Programme vom Lichtinte
 Heute haben wir getrennt gearbeitet, da Thorben gesundheitlich leider zu Hause bleiben musste. In der Schule haben Henrik und Gernot gearbeitet. Thorben hat von Zuhause aus gearbeitet. Wir haben an unserer Internetseite weitergarbeitet und einige Fehler behoben. Währenddessen haben wir weiter an der Vereinung der beiden Programme gesessen und das Repoitory um eine weitere Kategorie <a href="#werkzeuge">"Werkzeuge"</a> ergänzt.</p>
 
 <p id="Stunde31"><b>Mittwoch 27.10.2021</b><br>
-Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider konnten wir auch heute nicht an einem Platz arbeiten, aber mit etwas Geschick war ein Arbeiten über Distanz auch gut möglich. Viel Absprache half uns dabei wirklich weiter. Wir haben zusätzlich eine Liste mit eingesetzten Bibliotheken bei den <Materialien ergänzt.</p>
+Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider konnten wir auch heute nicht an einem Platz arbeiten, aber mit etwas Geschick war ein Arbeiten über Distanz auch gut möglich. Viel Absprache half uns dabei wirklich weiter. Wir haben zusätzlich eine Liste mit eingesetzten <a href="Bibliotheken">Bibliotheken</a> bei den Materialien ergänzt.</p>
 
 <p id="Stunde32"><b>Dienstag 02.11.2021</b></p>
 
