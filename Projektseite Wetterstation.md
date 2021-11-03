@@ -25,6 +25,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 
 <h2 id="kapitel3">3. Projektentwicklung</h2>
+<p>Aller Anfang ist schwer - auch hier ist das Sprichwort uneingeschränkt anwendbar. In den ersten Stunden galt es ein passendes Projekt mit passendem Umfang zu finden.
 
 <h2 id="kapitel4">4. Vorstellung des Projekts</h2>
 
