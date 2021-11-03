@@ -17,6 +17,21 @@
 Für genau dieses Problem lässt sich einfache Abhilfe schaffen. Eine Wetterstation, die die Temperatur übermittelt, wäre hierfür ideal. Ein kurzer Blick auf das neben dem Bett stehende Display würde genügen, um Gewissheit über die Temperatur zu haben. Zudem könnte sie mit extra Sensoren ausgestattet sein, um für den Interessierten aktuelle Daten über die Wetterlage zu messen. 
 Außerdem wäre es eine witzige Begegnung beim Aufstehen, den Vögeln mittels einer Kamera bei deren ausgibigen Körnerfrühstück zuzusehen und sich an der Natur zu erfreuen. Mit einem schönen Design stört das Futterhäuschen mit der Wetterstation und Kamera auch nicht beim Blick aus dem Fenster.
 Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehen zu erleichtern und überflüssigen Stress zu vermeiden - so steht man gerne auf!<br></p>
+
+<h2 id="kapitel2">2. Arduino und Sketch</h2>
+
+<h2 id="kapitel3">3. Projektentwicklung</h2>
+
+<h2 id="kapitel4">4. Vorstellung des Projekts</h2>
+
+<h2 id="kapitel5">5. Der Sketch</h2>
+
+<h2 id="kapitel6">6. Kritik</h2>
+
+<h2 id="kapitel7">7. Fazit</h2>
+
+<h2 id="kapitel8">8. Quellen</h2>
+-https://www.google.de/search?q=arduino+uno+layout&tbm=isch&ved=2ahUKEwidjen4lfzzAhXdg_0HHXK9Cj8Q2-cCegQIABAA&oq=Arduino+UNO+lay&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BwgAELEDEEM6BAgAEENQ9gpY3BhguyVoAHAAeACAATKIAeoBkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=eX2CYd3sKt2H9u8P8vqq-AM&bih=969&biw=1920&hl=de#imgrc=8y0v8UQcusgjCM
 <b>contributors:<br>
 @Obeliks003<br>
 @xxxGernchenxxx<br>
