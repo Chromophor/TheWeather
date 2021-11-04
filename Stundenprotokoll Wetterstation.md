@@ -53,7 +53,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <li><a href="#Stunde30">Dienstag 26.10.2021</a></li>
   <li><a href="#Stunde31">Mittwoch 27.10.2021</a></li>
   <li><a href="#Stunde32">Dienstag 02.11.2021</a></li>
-  <li><a href="#Stunde33">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde33">Mittwoch 03.11.2021</a></li>
   <li><a href="#Stunde34">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde35">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde36">Mittwoch 04.08.2021</a></li>
@@ -554,6 +554,8 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 <p id="Stunde32"><b>Dienstag 02.11.2021</b></p>
 
   Am Wochenende hat Henrik eine neue Idee entwickelt, mit der wir die erhobenen Daten automatisiert in unsere Website aufnehmen können. <b>HIER GERNE DEIN BERICHT ÜBER DIE FUNKTION DES CODES + CODE</b> Dafür hat Thorben heute die Formatierung der gespeicherten Daten geändert. Die Informationen wurde zuvor um die Übersichtlichkeit zu unterstützen beispielsweise ``#Temperatur: 24°C`` gekennzeichnet. Diese Formatierung habe ich aufgehoben und wie unten stehend zu sehen ist, abgeändert. Bei dieser Arbeit entstand ein neues Problem: Die RTC <a href="#Stunde14">(Real-Time-Clock)</a> musste zuerst neu gestellt werden, da am vergangenen Wochenende die Zeit von der Sommerzeit auf Winterzeit umgestellt wurde. Dies ließ sich leicht beheben. Doch als wir die Daten in unsere Datenbank hochgeladen haben, ist uns aufgefallemn, dass die RTC die Sekunden nicht immer zweistellig ausgibt. So wurde die Uhrzeit ``16:23:01`` als ``16:23:1`` ausgegeben. Dieses Problem habe ich versucht, mit einer neu geschriebenen Funktion zu beheben, dies war aber nicht möglich, da die ``void loop()`` Funktion die Ausgaben der geschriebenen Funktion nicht akzeptiert hat. Gernot hat währenddessen an unserer Projektseite gearbeitet und bereits Texte verfasst.
+  
+<p id="Stunde33"><b>Mittwoch 03.11.2021</b><br>
 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
