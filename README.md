@@ -5,7 +5,7 @@
 <h2>Ein Projekt im Informatikunterricht Q2 der Stormarnschule</h2>
 <b>contributors:<br>
 @Obeliks003 alias Henrik Borman<br>
-@xxxGernchenxxx<br>
+@xxxGernchenxxx alias Gernot Zesch<br>
 @TheMoonlandingV2<br></b>
 
 <h2 id="kapitel2">2. Stundenprotokoll</a></h2></li>
