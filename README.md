@@ -1,8 +1,6 @@
 # -->TheWeather<--
 
-<h1>Wetterstation auf Basis des Arduino</h1>
-
-<h2>Ein Projekt im Informatikunterricht Q2 der Stormarnschule</h2>
+<h1>Wetterstation auf Basis des Arduino -- Ein Projekt im Informatikunterricht Q2 der Stormarnschule</h1>
 
 <p><b>Übersicht:</b></p>
 
