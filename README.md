@@ -4,7 +4,7 @@
 
 <h2>Ein Projekt im Informatikunterricht Q2 der Stormarnschule</h2>
 <b>contributors:<br>
-@Obeliks003<br>
+@Obeliks003 alias Henrik Borman<br>
 @xxxGernchenxxx<br>
 @TheMoonlandingV2<br></b>
 
