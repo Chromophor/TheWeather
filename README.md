@@ -11,7 +11,7 @@
 <p><b>Stundenprotokoll</b><br>
   In unserem Stundenprotokoll haben wir jede Stunde protokolliert. Anhand des Protokolls kann man die Entwicklung unserer Wetterstation von der Idee bis zum fertigen Projekt ablesen.<br>
 <b>Proketseite</b><br>
-</p>
+Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br></p>
 
 <h2 id="contributors">contributors:</h2>
 <b>@Obeliks003</b> alias Henrik Borman<br>
