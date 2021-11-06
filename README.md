@@ -21,4 +21,4 @@ Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br></p
 
 <h2 id="quotes">quotes:</h2>
 
->"Jetzt havben wir ein Problem!"
+>"Jetzt haben wir ein Problem!"
