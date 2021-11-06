@@ -19,3 +19,5 @@ Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br></p
 <b>@xxxGernchenxxx</b> alias Gernot Zesch<br>
 <b>@TheMoonlandingV2</b> alias Thorben Heinz<br>
 
+<h2 id="quotes">quotes:</h2>
+
