@@ -6,7 +6,7 @@
 <ul style="list-stlye-type:none">
 <li><a href="Stundenprotokoll Wetterstation.md">1. Stundenprotokoll</a></h2></li>
 <li><a href="Projektseite Wetterstation.md">2. Projektseite</a></h2></li>
-<li><a href="#contributors">3. contributors</a></h2></li><br>
+<li><a href="#contributors">3. contributors</a></h2></li>
 <li><a href="#quotes">4. quotes</a></h2></li><br>
 
 <p><b>Stundenprotokoll</b><br>
