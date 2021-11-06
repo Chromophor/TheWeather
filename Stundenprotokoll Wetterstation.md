@@ -559,6 +559,12 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 
   Gestern trat ein <a href="#Stunde32">Problem</a> auf, das gestern nicht mehr gelöst werden konnte, weil keine zeit mehr blieb. Daher hat Thorben sich heute erneut um die Speicherung der Daten gekümmert. Im Laufe der Stunde ist uns eine Idee gekommen. Die Datenbank nimmt die werte der CSV-Datei an und speichert diese unter einer bestimmten Kategorie ab. Für das Datum gilt in unserer Datenbank bespielsweise die Kategorie ``date`` und daher sind wir auf die Idee gekommen, dass wir vielleicht für die Uhrzeit eine Kategorie ``time`` finden können. Dies war auch unter den Möglichkeiten, weshalb von nun an die Daten, obwohl sie als ``16:23:3`` gespeichert werden, in die Datenbank als ``16:23:03`` aufnehmen werden, was es uns ermöglicht, Diagramme und Tabellen korrekt zu erstellen. Da dieses Problem gelöst war, hat sich Thorben dem letzten Sensor gewidmet, der noch eingebunden werden soll: dem Lichtwiderstand. Dies hat zum Ende der Stunde auch funktioniert und es war uns möglich, alle gemessenen Daten inklusive der Lichtstärke in der CSV-Datei zu speichern. Das fertig überarbeitete Script ist unten unter dem Dorpdown zu sehen. Gernot hat weiter an unserer Projektseite gearbeitet udn eine Anpassung beim Aufbau unseres Repository vorgenommen. So findet man nun zuerst ein ``README.md`` File, wo man anschließend auf unseren Stundenblog und unsere Projektseite verwiesen wird.
 
+<details><summary>Fertig überarbeiter Code</summary>
+  
+![Screenshot (110)](https://user-images.githubusercontent.com/88386049/140605899-0aea5848-f1aa-47c9-941e-08ea2d9ebd31.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/88386049/140605900-0cf442e6-46c9-42d4-95b3-9e60a2fda43f.png)
+
+</details>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
