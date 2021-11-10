@@ -586,7 +586,7 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 - [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
 - [x] Luftdruck -> Barometer -> Produkt: BME280
 - [x] Höhe -> Alitmeter -> Produkt: BME280
-- [] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (Ursprünglich geplant, dann aber verworfen und ersetzt)
+- [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (Ursprünglich geplant, dann aber verworfen und ersetzt)
 - [x] Lichtempfindlichkeitssensor -> BN 2134129 von MakerFactory
 
 <p id="Bibliotheken"><br><b>Eingesetzte Bibliotheken</b></p>
