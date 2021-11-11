@@ -21,5 +21,6 @@ Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br></p
 
 <h2 id="quotes">quotes:</h2>
 
->"Jetzt haben wir ein Problem!">
->"Da ist was falsch, das Datum ist 20.17.2000.">
+>"Jetzt haben wir ein Problem!"
+
+>"Da ist was falsch, das Datum ist 20.17.2000."
