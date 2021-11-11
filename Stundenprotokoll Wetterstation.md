@@ -567,7 +567,7 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 </details>
 
 <p id="Stunde34"><b>Mittwoch 10.11.2021</b><br>
-  Nachdem der Arduino in den vergangenen Tagen fleißig Daten gesammelt hat, haben wir heute die Daten in unsere Datenbank übertragen. Insgesamt haben wir etwas über 48 Stunden gemessen und 286 Einträge erstellt. Diese Datei haben wir in unsere Datenbank übertragen, wodurch die Daten automatisch auf unserer Website in die jeweiligen Tage sortiert wurden. Somit haben wir auf unserer Website neue Einträge mit den jeweiligen erhobenen Daten hinterlegt. <b>Screenshot BITTE!</b> Anschließend haben wir gemeinsam an unserer Projektseite weitergearbeitet.</p>
+  Nachdem der Arduino in den vergangenen Tagen fleißig Daten gesammelt hat, haben wir heute die Daten in unsere Datenbank übertragen. Insgesamt haben wir etwas über 48 Stunden gemessen und 286 Einträge erstellt. Diese Datei haben wir in unsere Datenbank übertragen, wodurch die Daten automatisch auf unserer Website in die jeweiligen Tage sortiert wurden. Somit haben wir auf unserer Website neue Einträge mit den jeweiligen erhobenen Daten hinterlegt. <b>Screenshot BITTE!</b> Anschließend haben wir gemeinsam an unserer Projektseite weitergearbeitet. In den folgenden Tagen wird der Arduino wieder im Garten weiter Daten sammeln.</p>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
