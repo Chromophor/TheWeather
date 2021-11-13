@@ -582,7 +582,7 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 - [ ] Piezo-Summer -> PKM22EPP-40 
 - [ ] Potentiometer 10K
 - [ ] Erschütterungssensor -> BN 2134050 MakerFactory
-- [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (Ursprünglich geplant, dann aber verworfen und ersetzt)
+- [ ] Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (Ursprünglich geplant, dann aber verworfen und durch BN 2134129 ersetzt)
 
 <p><br><b>Eingesetzte Sensoren:</b></p>
 
