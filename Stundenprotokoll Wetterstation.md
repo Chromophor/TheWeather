@@ -1,5 +1,5 @@
 # --> TheWeather <--
-<h1>Wetterstation auf Basis des Arduino</h1>
+<h1>Wetterstation auf Basis des Arduino -- Stundenprotokoll</h1>
 
 <h3> Inhalt </h3>
 <ul style="list-stlye-type:none">
