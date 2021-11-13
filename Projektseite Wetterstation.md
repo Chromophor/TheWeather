@@ -8,9 +8,10 @@
 <li><a href="#kapitel3">3. Projektentwicklung</a></h2></li>
 <li><a href="#kapitel4">4. Vorstellung des Projekts</a></h2></li>
 <li><a href="#kapitel5">5. Der Sketch</a></h2></li>
-<li><a href="#kapitel6">6. Kritik</a></h2></li>
-<li><a href="#kapitel7">7. Fazit</a></h2></li>
-<li><a href="#kapitel8">8. Quellen</a></h2></li>
+<li><a href="#kapitel6">6. Die Sensoren</a></h2></li>
+<li><a href="#kapitel7">7. Kritik</a></h2></li>
+<li><a href="#kapitel8">8. Fazit</a></h2></li>
+<li><a href="#kapitel9">9. Quellen</a></h2></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
 <p>Für viele Menschen gehört es zu der Morgenroutine, nach dem Aufstehen aus dem Fenster zu gucken und die Temperatur zu schätzen, damit man sich passend anziehen kann. Oftmals verschätzt man sich und es kommt zu ungewolltem und unnötigen Stress am frühen Morgen, da es überraschend doch wärmer oder kälter ist.<br>
