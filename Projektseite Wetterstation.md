@@ -67,6 +67,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <li>https://www.arduino.cc/en/reference/board</li>
 <li>https://asset.conrad.com/media10/add/160267/c1/-/GL/002134129ML00/002134129ML00-GL.pdf</li>
 <li>https://www.elektronik-kompendium.de/sites/bau/0110301.htm</li>
+<li>https://www.cosmos-indirekt.de/Physik-Schule/Photoelektrischer_Effekt</li>
 
 <br><p><b><u>Bildquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
