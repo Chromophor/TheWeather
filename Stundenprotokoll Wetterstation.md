@@ -54,7 +54,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <li><a href="#Stunde31">Mittwoch 27.10.2021</a></li>
   <li><a href="#Stunde32">Dienstag 02.11.2021</a></li>
   <li><a href="#Stunde33">Mittwoch 03.11.2021</a></li>
-  <li><a href="#Stunde34">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde34">Dienstag 16.11.2021</a></li>
   <li><a href="#Stunde35">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde36">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde37">Mittwoch 04.08.2021</a></li>
@@ -568,6 +568,9 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 
 <p id="Stunde34"><b>Mittwoch 10.11.2021</b><br>
   Nachdem der Arduino in den vergangenen Tagen fleißig Daten gesammelt hat, haben wir heute die Daten in unsere Datenbank übertragen. Insgesamt haben wir etwas über 48 Stunden gemessen und 286 Einträge erstellt. Diese Datei haben wir in unsere Datenbank übertragen, wodurch die Daten automatisch auf unserer Website in die jeweiligen Tage sortiert wurden. Somit haben wir auf unserer Website neue Einträge mit den jeweiligen erhobenen Daten hinterlegt. <b>Screenshot BITTE!</b> Anschließend haben wir gemeinsam an unserer Projektseite weitergearbeitet. In den folgenden Tagen wird der Arduino wieder im Garten weiter Daten sammeln.</p>
+  
+<p id="Stunde35"><b>Dienstag 16.11.2021</b><br>
+  Nachdem der Arduino vom Freitag 15:00 Uhr bis Dienstag 10:00 Uhr Daten messen sollte, war unsere Hoffnung groß, dass wir sehr viele neue Daten in unser Datenbank übertragen können. In der Stunde stellte sich aber heraus, dass die Datei wohl beschädigt sei und deshalb nicht geöffnet werden konnte. Dies ist sehr schade, da der Aufwand, die Powebank immer zu wechseln, sehr groß war, für eine beschädigte Datei. Wir erklären uns die Beschädigung der Datei mit einem unabgeschlossenen Vorgang des Arduinos, der bei fehlender Stromversorgung unterbrochen wurde. Aber heute konnten wir auch auch einen Fortschritt erzielen: unsere Website ist global online erreichbar!!</p>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
