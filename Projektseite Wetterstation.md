@@ -32,7 +32,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 
 <h2 id="kapitel4">4. Vorstellung des Projekts</h2>
-<p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik.
+<p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik.</p>
   
 <h2 id="kapitel5">5. Der Sketch</h2>
 
@@ -57,16 +57,16 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 </table>
 
 <h2 id="kapitel7">7. Kritik</h2>
-<p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden.   
+<p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden.</p>  
   
 <h2 id="kapitel8">8. Fazit</h2>
 
 
 <h2 id="kapitel9">9. Quellen</h2>
-<p><b>Textquellen</b></p>
+<p><b><u>Textquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
 <li>https://asset.conrad.com/media10/add/160267/c1/-/GL/002134129ML00/002134129ML00-GL.pdf</li>
 <li>https://www.elektronik-kompendium.de/sites/bau/0110301.htm</li>
 
-<br><p><b>Bildquellen</b></p>
+<br><p><b><u>Bildquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
