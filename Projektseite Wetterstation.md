@@ -60,7 +60,10 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 
 <h2 id="kapitel9">9. Quellen</h2>
+<p><b>Textquellen</b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
 <li>https://asset.conrad.com/media10/add/160267/c1/-/GL/002134129ML00/002134129ML00-GL.pdf</li>
 <li>https://www.elektronik-kompendium.de/sites/bau/0110301.htm</li>
 
+<p><b>Bildquellen</b></p>
+<li>https://www.arduino.cc/en/reference/board</li>
