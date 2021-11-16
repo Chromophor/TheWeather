@@ -24,20 +24,22 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 Von der Marke Arduino gibt es viele verschiedene Modelle des gleichnamigen Mikrocontrollers. 
 In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet und 32 Kilobyte Speicherplatz hat. Zudem hat er 13 digitale Pins und 5 analoge Pins, die im Sketch sowohl als Eingang als auch als Ausgang belegt werden können. Mit verschiedenen Ground-Pins (GND) bzw. Minuspolen und den Pluspolen (5 Volt / 3,5 Volt) können Motoren, Sensoren und sonstiges auf einem Breadboard angeschlossen und mit Strom versorgt werden. Über die digitalen und analogen Pins werden diese Module ebenfalls verbunden, damit der Mikrocontroller mit diesen interagieren kann und den Sketch ausführen kann. Mit bestimmten Befehlen, zum Beispiel „Serial.print(), im Sketch lassen sich die Daten auf einem seriellen Monitor anzeigen, der im Prinzip der Monitor für den Arduino darstellt.<br></p>
 
-
 <h2 id="kapitel3">3. Projektentwicklung</h2>
-<p>Aller Anfang ist schwer - auch hier ist das Sprichwort uneingeschränkt anwendbar. In den ersten Stunden galt es ein passendes Projekt mit passendem Umfang zu finden. Es durfte nicht zu groß werden, da auch nur einen bestimmter Zeitraum für die Erarbeitung vorgesehen war, aber musste auch die persönlichen Kenntnissstände in der Gruppe berücksichtigen. Über Ideen von einem Roboter, selbstfahrende Autos bis hin zu einer Wetterstation kamen verschiedene Vorschläge auf. Viele dieser Ideen entpuppten sich dann allerdings doch zu schwierig, da nicht alle Gruppenmitglieder mit dem Arduino vertraut waren und mit den Grundlagen begonnen werden musste. Deshalb fiel schnell die Entscheidung zu einer Wetterstation mit verschiedenen Sensoren, da dieses Projekt verschiedene Arbeitsmethoden und Kenntnisse zulässt. So musste zum Beispiel eine Website und der Sketch progammiert und ein Gehäuse für den Arduino gebastelt werden.<br></p>
+<p>Aller Anfang ist schwer - auch hier ist das Sprichwort uneingeschränkt anwendbar. In den ersten Stunden galt es ein passendes Projekt mit passendem Umfang zu finden. Es durfte nicht zu groß werden, da auch nur einen bestimmter Zeitraum für die Erarbeitung vorgesehen war, aber musste auch die persönlichen Kenntnissstände in der Gruppe berücksichtigen. Über Ideen von einem Roboter, selbstfahrende Autos bis hin zu einer Wetterstation kamen verschiedene Vorschläge auf. Viele dieser Ideen entpuppten sich dann allerdings doch als zu schwierig, da nicht alle Gruppenmitglieder mit dem Arduino vertraut waren und mit den Grundlagen begonnen werden musste. Deshalb fiel schnell die Entscheidung zu einer Wetterstation mit verschiedenen Sensoren, da dieses Projekt verschiedene Arbeitsmethoden und Kenntnisse zulässt. So musste zum Beispiel eine Website und der Sketch progammiert und ein Gehäuse für den Arduino gebastelt werden.<br></p>
   
 
 <h2 id="kapitel4">4. Vorstellung des Projekts</h2>
-
+<p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik.
+  
 <h2 id="kapitel5">5. Der Sketch</h2>
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
 
 <h2 id="kapitel7">7. Kritik</h2>
-
+<p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden.   
+  
 <h2 id="kapitel8">8. Fazit</h2>
+
 
 <h2 id="kapitel9">9. Quellen</h2>
 <li>https://www.google.de/search?q=arduino+uno+layout&tbm=isch&ved=2ahUKEwidjen4lfzzAhXdg_0HHXK9Cj8Q2-cCegQIABAA&oq=Arduino+UNO+lay&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BwgAELEDEEM6BAgAEENQ9gpY3BhguyVoAHAAeACAATKIAeoBkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=eX2CYd3sKt2H9u8P8vqq-AM&bih=969&biw=1920&hl=de#imgrc=8y0v8UQcusgjCM</li>
