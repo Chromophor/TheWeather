@@ -62,4 +62,5 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <h2 id="kapitel9">9. Quellen</h2>
 <li>https://www.google.de/search?q=arduino+uno+layout&tbm=isch&ved=2ahUKEwidjen4lfzzAhXdg_0HHXK9Cj8Q2-cCegQIABAA&oq=Arduino+UNO+lay&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BwgAELEDEEM6BAgAEENQ9gpY3BhguyVoAHAAeACAATKIAeoBkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=eX2CYd3sKt2H9u8P8vqq-AM&bih=969&biw=1920&hl=de#imgrc=8y0v8UQcusgjCM</li>
 <li>https://asset.conrad.com/media10/add/160267/c1/-/GL/002134129ML00/002134129ML00-GL.pdf</li>
+<li>https://www.elektronik-kompendium.de/sites/bau/0110301.htm</li>
 
