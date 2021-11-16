@@ -34,6 +34,9 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <h2 id="kapitel5">5. Der Sketch</h2>
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
+<p><b>Pin Beschreibung Lichtsensor BN2134129</b></p>
+
+<p><b>Pin Beschreibung Sensor BME280</b></p>
 
 <h2 id="kapitel7">7. Kritik</h2>
 <p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden.   
