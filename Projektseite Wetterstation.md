@@ -45,6 +45,14 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 <p><b>Pin Beschreibung Sensor BME280</b></p>
 
+<table>
+  <tr><th>PIN Sensor</th><th>PIN Arduino</th></tr>
+  <tr><td>VCC</td><td>Stromversorgung, angeschlossen an 3,3V</td></tr>
+  <tr><td>GND</td><td>GND</td></tr>
+  <tr><td>SCL</td><td>Datenschnittstelle I2C</td></tr>
+  <tr><td>SDA</td><td>Datenschnittstelle I2C</td></tr>
+</table>
+
 <h2 id="kapitel7">7. Kritik</h2>
 <p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden.   
   
