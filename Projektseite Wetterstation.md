@@ -34,7 +34,14 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <h2 id="kapitel5">5. Der Sketch</h2>
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
-<p><b>Pin Beschreibung Lichtsensor BN2134129</b></p>
+<p><b>PIN Beschreibung Lichtsensor BN2134129</b></p>
+
+<table>
+  <tr><th>PIN Sensor</th><th>PIN Arduino</th></tr>
+  <tr><td>OUT</td><td>Analoger Ausgang für Echtzeit-Spannungssignal, angeschlossen an A0</td></tr>
+  <tr><td>VCC</td><td>Stromversorgung, angeschlossen an 5V</td></tr>
+  <tr><td>GND</td><td>GND</td></tr>
+</table>
 
 <p><b>Pin Beschreibung Sensor BME280</b></p>
 
