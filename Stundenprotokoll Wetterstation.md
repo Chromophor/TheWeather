@@ -58,7 +58,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <li><a href="#Stunde33">Mittwoch 03.11.2021</a></li>
   <li><a href="#Stunde34">Mittwoch 10.11.2021</a></li>
   <li><a href="#Stunde35">Dienstag 16.11.2021</a></li>
-  <li><a href="#Stunde36">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde36">Mittwoch 17.11.2021</a></li>
   <li><a href="#Stunde37">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde38">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde39">Mittwoch 04.08.2021</a></li>
@@ -579,6 +579,9 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
   
 <p id="Stunde35"><b>Dienstag 16.11.2021</b><br>
   Nachdem der Arduino vom Freitag 15:00 Uhr bis Dienstag 10:00 Uhr Daten messen sollte, war unsere Hoffnung groß, dass wir sehr viele neue Daten in unser Datenbank übertragen können. In der Stunde stellte sich aber heraus, dass die Datei wohl beschädigt sei und deshalb nicht geöffnet werden konnte. Dies ist sehr schade, da der Aufwand, die Powebank immer zu wechseln, sehr groß war, für eine beschädigte Datei. Wir erklären uns die Beschädigung der Datei mit einem unabgeschlossenen Vorgang des Arduinos, der bei fehlender Stromversorgung unterbrochen wurde. Aber heute konnten wir auch auch einen Fortschritt erzielen: unsere Website ist <b>global online unter dem Link <a href="https://henrik.stormarnschueler.de/">https://henrik.stormarnschueler.de/</a></b> erreichbar!!<br>Nebenbei haben wir heute an unserer Projektseite weitergearbeitet, dafür Skizzen angefertigt und die Funktionen der Sensoren beschrieben. Henrik hat weiter an einer Methode gearbeitet, wie wir unsere Daten graphisch aufbereitet darstellen können.</p>
+  
+<p id="Stunde36"><b>Mittwoch 17.11.2021</b><br>
+  Heute haben wir weiter an der Projekseite gearbeitet. Wir haben Beiträge zu dem Sensor BME280 erstellt und diesbezüglich Recherchen angestellt. Gernot hat weiter an einer genauen Skizze des Arduino-Gehäuses gearbeitet, die in unserer Projektseite bei der Vorstellung des Projektes aufgeführt.</p>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
