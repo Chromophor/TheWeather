@@ -60,7 +60,11 @@ Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem f
 </table>
 
 <p><b>Funktionsweise</b><br>
-  
+
+</p>
+
+![BME280](https://user-images.githubusercontent.com/88386049/142200318-961c198e-c867-455e-bdb4-e2c9809cdd84.PNG)
+
 
 <h2 id="kapitel7">7. Kritik</h2>
 <p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden.</p>  
