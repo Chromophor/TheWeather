@@ -18,7 +18,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 @xxxGernchenxxx<br>
 @TheMoonlandingV2<br></b>
 
-<br><p>Unsere <a href="Wetterstation Projektseite.md">Projektseite</a> enthält Erläuterungen zu unserer Wetterstation und zusätzlich eine abschließende Bewertung unseres Projektes.<br><br>Hier gelangt man zu unserem <a href="README.md">README.md</a> zu einer besseren Übersicht.</p>
+<br><p>Unsere <a href="Projektseite Wetterstation.md">Projektseite</a> enthält Erläuterungen zu unserer Wetterstation und zusätzlich eine abschließende Bewertung unseres Projektes.<br><br>Hier gelangt man zu unserem <a href="README.md">README.md</a> zu einer besseren Übersicht.</p>
 
 <h2 id="kapitel2">2. Stundenprotokoll</a></h2></li>
 
