@@ -73,13 +73,19 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   In der heutigen Stunde haben wir gemeinsam mit dem Arduino Fortschritte mit der Bedienung der LEDs gemacht. Am Nachmittag haben wir getrennt Experimente z.B. mit Bewegungssensoren  durchgeführt. Diese waren nur zum Teil erfolgreich. Der Bewegungssensor hat zwar Bewegungen erkannt und auch wie programiert bei der angeschlossenen LED den Status auf HIGH (an) gesetzt, manchmal hat der Sensor aber auch ohne eine Bewegung die angeschlossene LED aktiviert. Dies könnte an den schlechten Lichbedingungen liegen, die Abends herrschen.<br></p>
   
 <p id="Stunde3"><b>Dienstag 10.08.2021</b><br>
-  Heute haben wir eine Liste unserer benötigten Sensoren und deren Funktion in unserer Wetterstation zusammengestellt. Diese sind unten mit der jeweiligen Funktion und zugehöriger Produktbeschreibung zu finden. Anschließend haben wir uns das Design der Wetterstation eingehender überlegt. Eine Konstruktion, die aus einem Gehäuse in Form eines Hauses bestehen soll, wie die <b>unten stehende Skizze </b>verdeutlichen soll. Hier sind die Abmessungen unserer Konstruktion ebenfalls abzulesen.</p>
+  Heute haben wir eine Liste unserer benötigten Sensoren und deren Funktion in unserer Wetterstation zusammengestellt. Diese sind unten mit der jeweiligen Funktion und zugehöriger Produktbeschreibung zu finden. Anschließend haben wir uns das Design der Wetterstation eingehender überlegt. Eine Konstruktion, die aus einem Gehäuse in Form eines Hauses bestehen soll, wie die unten stehende Skizze verdeutlichen soll. Hier sind die Abmessungen unserer Konstruktion ebenfalls abzulesen.</p>
 <p></br><b>Welche Sensoren sollen eingebunden weden?</b><br>
 <li>Temperatur -> Thermometer -> Produkt: BME280</li>
 <li>Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280</li>
 <li>Luftdruck -> Barometer -> Produkt: BME280</li>
 <li>Höhe -> Alitmeter -> Produkt: BME280</li>
 <li>Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750)</li><br>Eine Liste aller Materialien, ist <a href="#kapitel3">hier</a> zu finden.</p>
+
+<details><summary>Grobe Skizze des Arduinogehäuses:</summary>
+  
+![image](https://user-images.githubusercontent.com/88386279/142203090-0f47e3cf-efc7-468d-abcc-3b197753cab8.jpeg)  
+  
+</details>
 
 <p id="Stunde4"><b>Dienstag 24.08.2021</b><br> 
   An diesem Tag haben wir weiter an unserem Design gefeilt und uns Ideen zur Materialauswahl, Größe und Aufstellungsart gemacht. Zudem haben wir uns für die technischen Komponenten im Inneren die Anordnung überlegt, um eine einfache sowie intuitive Bedienung mit freundlichen Wartungsbedingungen zu ermöglichen. Außerdem haben wir unsere GitHub Seite verbessert und mit einer Einleitung versehen. Zuhause haben wir mit den Sensoren schon ein bisschen programmiert. Auch haben wir an einem möglichen Konzept, die von der Wetterstation erfassten meteorologischen Daten in einer Excel-Tabelle auszuwerten, gearbeitet (siehe Screenshot). Dabei wurden mit einem Test-Programm fiktive Werte für Temperatur und Niederschlag generiert und im Seriellen Monitor angezeigt.</p>
