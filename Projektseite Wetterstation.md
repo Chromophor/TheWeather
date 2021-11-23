@@ -49,6 +49,8 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
+<h3 id="Code">5.1. Der Code der Website</h3>
+
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
 
