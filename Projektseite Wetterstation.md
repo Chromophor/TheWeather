@@ -100,6 +100,7 @@ Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem f
 <li>https://www.elektronik-kompendium.de/sites/bau/0110301.htm</li>
 <li>https://www.cosmos-indirekt.de/Physik-Schule/Photoelektrischer_Effekt</li>
 <li>https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/</li>
+<li>https://learn.adafruit.com/adafruit-data-logger-shield</li>
 
 <br><p><b><u>Bildquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
