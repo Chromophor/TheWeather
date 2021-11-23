@@ -3,16 +3,16 @@
 
 <h2> Inhalt </h2>
 <ul style="list-stlye-type:none">
-<h3><li><a href="#kapitell">1. Einleitung</a></h3></li>
-<h3><li><a href="#kapitel2">2. Arduino und Sketch</a></h3></li>
-<h3><li><a href="#kapitel3">3. Projektentwicklung</a></h3></li>
-<h3><li><a href="#kapitel4">4. Vorstellung des Projekts</a></h3></li>
-<h3><li><a href="#kapitel5">5. Der Code</a></h3></li>
-<h3><li><a href="#Sketch"> 5.1. Der Sketch</a></h3></li>
-<h3><li><a href="#kapitel6">6. Die Sensoren</a></h3></li>
-<h3><li><a href="#kapitel7">7. Kritik</a></h3></li>
-<h3><li><a href="#kapitel8">8. Fazit</a></h3></li>
-<h3><li><a href="#kapitel9">9. Quellen</a></h3></li>
+<li><a href="#kapitell">1. Einleitung</a></li>
+<li><a href="#kapitel2">2. Arduino und Sketch</a></li>
+<li><a href="#kapitel3">3. Projektentwicklung</a></li>
+<li><a href="#kapitel4">4. Vorstellung des Projekts</a></li>
+<li><a href="#kapitel5">5. Der Code</a></li>
+<li><a href="#Sketch"> 5.1. Der Sketch</a></li>
+<li><a href="#kapitel6">6. Die Sensoren</a>/li>
+<li><a href="#kapitel7">7. Kritik</a></li>
+<li><a href="#kapitel8">8. Fazit</a></li>
+<li><a href="#kapitel9">9. Quellen</a></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
 <p>Für viele Menschen gehört es zu der Morgenroutine, nach dem Aufstehen aus dem Fenster zu gucken und die Temperatur zu schätzen, damit man sich passend anziehen kann. Oftmals verschätzt man sich und es kommt zu ungewolltem und unnötigen Stress am frühen Morgen, da es überraschend doch wärmer oder kälter ist.<br>
