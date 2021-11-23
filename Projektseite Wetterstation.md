@@ -47,7 +47,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <p><b>Schaltplan</b><br>
-  In der unten stehenden Abbildung kann man den Aufbau unserer Wetterstation sehen
+  In der unten stehenden Abbildung kann man den Aufbau unserer Wetterstation sehen</p>
 <p><b>PIN Beschreibung Lichtsensor BN2134129</b></p>
 
 <table>
