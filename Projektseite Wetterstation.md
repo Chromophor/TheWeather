@@ -9,7 +9,8 @@
 <li><a href="#kapitel4">4. Vorstellung des Projekts</a></li>
 <li><a href="#kapitel5">5. Der Code</a></li>
 <li><a href="#Sketch"> 5.1. Der Sketch</a></li>
-<li><a href="#kapitel6">6. Die Sensoren</a>/li>
+<li><a href="#Code"> 5.1. Der Code der Website</a></li>
+<li><a href="#kapitel6">6. Die Sensoren</a></li>
 <li><a href="#kapitel7">7. Kritik</a></li>
 <li><a href="#kapitel8">8. Fazit</a></li>
 <li><a href="#kapitel9">9. Quellen</a></li>
@@ -44,7 +45,9 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <h2 id="kapitel4">4. Vorstellung des Projekts</h2>
 <p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik.</p>
   
-<h2 id="kapitel5">5. Der Sketch</h2>
+<h2 id="kapitel5">5. Der Code</h2>
+
+<h3 id="Sketch">5.1. Der Sketch</h3>
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
