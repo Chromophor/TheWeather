@@ -46,8 +46,10 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <h2 id="kapitel5">5. Der Sketch</h2>
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
-<p><b>Schaltplan</b><br>
-  In der unten stehenden Abbildung kann man den Aufbau unserer Wetterstation sehen</p>
+<p><b>Schaltplan</b><br></p>
+
+
+Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer Wetterstation zwei Sensoren zum Einsatz. Der ``BME280``, der Luftfeuchtigkeit, Luftdruck und Temperatur misst und der In der unten stehenden Abbildung kann man den Aufbau unserer Wetterstation sehen
   
 <img width="970" alt="Schaltplan(1)" src="https://user-images.githubusercontent.com/88386049/143048234-15350976-d0bd-4aa9-958d-9c9b0821ca42.png">
  
