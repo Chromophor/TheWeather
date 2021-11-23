@@ -53,7 +53,7 @@ Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer 
   
 <img width="970" alt="Schaltplan(1)" src="https://user-images.githubusercontent.com/88386049/143048234-15350976-d0bd-4aa9-958d-9c9b0821ca42.png">
  
-<p><b>PIN Beschreibung Lichtsensor BN2134129</b></p>
+<h3><b>PIN Beschreibung Lichtsensor BN2134129</b></h3>
 
 <table>
   <tr><th>PIN Sensor</th><th>PIN Arduino</th></tr>
@@ -65,7 +65,7 @@ Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer 
 <p><b>Funktionsweise</b><br>
 Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem fotosensitiven Halbleiter beschichteten Keramik. Der fotosensitive Halbleiter besteht meistens aus Cadmiumsulfid- (CdS) oder Cadmiumselenid-Schicht (CdSe), die eine ähnliche Lichtempfindlichkeit wie ein Photofilm zeigen. Je mehr Licht auf den Lichtwiderstand fällt, desto kleiner wird der elektrische Widerstand. Je kleiner der Widerstand ist, desto mehr Strom fließt durch den Sensor und desto höher ist der ausgegebene Messwert in LUX. Der Lichtwiderstand wird an den analogen Ausgang A0 angeschlossen. Der Sensor wird durch das Licht angeregt und gibt die Lichtstärke in der Einheit LUX aus. Selbst bei geringer Lichteinstrahlung wie etwa während der Dämmerung, können geringe Messungen von wenigen LUX erfasst werden. Erst bei absoluter Dunkelheit wird der Sensor nicht mehr angeregt und der Arduino speichert 0 LUX.</p>
 
-<p><b>Pin Beschreibung Sensor BME280</b></p>
+<h3><b>Pin Beschreibung Sensor BME280</b></h3>
 
 <table>
   <tr><th>PIN Sensor</th><th>PIN Arduino</th></tr>
