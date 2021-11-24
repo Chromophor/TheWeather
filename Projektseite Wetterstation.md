@@ -59,7 +59,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer Wetterstation zwei Sensoren zum Einsatz. Der Sensor ``BME280``, der Luftfeuchtigkeit, Luftdruck und Temperatur misst und der Sensor ``BN2134129``, der die Lichtintensität misst. In der unten stehenden Abbildung kann man den Aufbau unserer Wetterstation sehen. Auf dem digitalen Schaltplan kann man die Kabelverbindungen sehen, die durch Striche dargestellt sind.
 
 <b>Erläuterung der farbigen Kabel:</b>
-  <li>Rote Kabel = VCC -> Stromversorgung</li>
+  <li><font color="red">Rote Kabel</font> = VCC -> Stromversorgung</li>
   <li>Schwarze Kabel = GND -> GND</li>
   <li>Grüne Kabel = SCL -> A5</li>
   <li>Gelbe Kabel = OUT -> A0</li>
