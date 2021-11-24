@@ -60,6 +60,10 @@ Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer 
 
 <b>Erläuterung der farbigen Kabel:</b>
   <li>Rote Kabel = VCC -> Stromversorgung</li>
+  <li>Schwarze Kabel = GND -> GND</li>
+  <li>Grüne Kabel = SCL -> A5</li>
+  <li>Gelbe Kabel = OUT -> A0</li>
+  <li>Blaue Kabel = SDA -> A4</li><br>
   
 <img width="970" alt="Schaltplan(1)" src="https://user-images.githubusercontent.com/88386049/143048234-15350976-d0bd-4aa9-958d-9c9b0821ca42.png">
  
