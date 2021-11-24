@@ -582,6 +582,12 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
   
 <p id="Stunde36"><b>Mittwoch 17.11.2021</b><br>
   Heute haben wir weiter an der Projekseite gearbeitet. Wir haben Beiträge zu dem Sensor BME280 erstellt und diesbezüglich Recherchen angestellt. Gernot hat weiter an einer genauen Skizze des Arduino-Gehäuses gearbeitet, die in unserer Projektseite bei der Vorstellung des Projektes aufgeführt wird. Henrik hat an unserer Website gearbeitet. Unser Wunsch war es, neue Daten des Arduinos auch auf unserer globalen Website hochladen zu können. Dafür hat Henrik einen Upload-Button erstellt, welcher einen auf die Upload-Website weiterleitet. Hier trat ein Problem auf: Wenn wir unsere Website global online stellen, kann jeder Dateien in unsere Datenbank hochlanden. Unsere Website wäre somit leicht manipulierbar und zusätzlich leicht für Hacker angreifbar. Dieses Problem wollen wir durch einen passwortgeschützten Bereich umgehen. Dafür haben wir heute eine Idee entwickelt, die in den nächsten Stunde umgesetzt werden muss.</p>
+  
+<p id="Stunde37"><b>Dienstag 23.11.2021</b><br>
+  In dieser Doppelstunde waren wir leider nur zu zweit in der Schule. Gernot hatte Kopfschmerzen und hat die SKizzen für die Projektseite weitergezeichnet und ein bisschen am Gehhäuse für die Wetterstation gebastelt. Währenddessen haben Thorben und Henrik in der Schule einen digitalen Schaltplan als Übersicht für die Projektseite beziehungsweise an der Webseite weitergearbeitet. Hier sind im Moment noch einige kleinere Probleme an der Webseite aufgetreten, die aber in den letzten Stunden vor Abgabe nach und nach gelöst werden. 
+  
+<p id="Stunde 38"><b>Mittwoch 24.11.2021</b><br>
+  Heute waren wir wieder alle in der Schule. Wir haben heute kleine Probleme an der Webseite und einige Verbesserungen an der Projektseite vorgenommen. Neben diesen Tätigkeiten haben wir auch an dem Stundenprotokoll weitergeschrieben.
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
