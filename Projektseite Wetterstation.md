@@ -9,7 +9,7 @@
 <li><a href="#kapitel4">4. Vorstellung des Projekts</a></li>
 <li><a href="#kapitel5">5. Der Code</a></li>
 <li><a href="#Sketch"> 5.1. Der Sketch</a></li>
-<li><a href="#Code"> 5.1. Der Code der Website</a></li>
+<li><a href="#Code"> 5.2. Der Code der Website</a></li>
 <li><a href="#kapitel6">6. Die Sensoren</a></li>
 <li><a href="#kapitel7">7. Kritik</a></li>
 <li><a href="#kapitel8">8. Fazit</a></li>
@@ -51,7 +51,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
-<h3 id="Code">5.1. Der Code der Website</h3>
+<h3 id="Code">5.2. Der Code der Website</h3>
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
