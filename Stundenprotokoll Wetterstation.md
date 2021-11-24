@@ -609,7 +609,7 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 - [x] Temperatur -> Thermometer -> Produkt: BME280
 - [x] Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280
 - [x] Luftdruck -> Barometer -> Produkt: BME280
-- [x] Höhe -> Alitmeter -> Produkt: BME280
+- [x] Höhe -> Altimeter -> Produkt: BME280
 - [x] Lichtempfindlichkeitssensor -> BN 2134129 von MakerFactory
 
 <p id="Bibliotheken"><br><b>Eingesetzte Bibliotheken</b></p>
