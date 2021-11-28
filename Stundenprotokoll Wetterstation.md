@@ -59,7 +59,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <li><a href="#Stunde34">Mittwoch 10.11.2021</a></li>
   <li><a href="#Stunde35">Dienstag 16.11.2021</a></li>
   <li><a href="#Stunde36">Mittwoch 17.11.2021</a></li>
-  <li><a href="#Stunde37">Mittwoch 04.08.2021</a></li>
+  <li><a href="#Stunde37">Dienstag 23.11.2021</a></li>
   <li><a href="#Stunde38">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde39">Mittwoch 04.08.2021</a></li>
   <li><a href="#Stunde40">Mittwoch 04.08.2021</a></li>
