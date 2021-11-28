@@ -309,7 +309,7 @@ if (Zieldatei) {
             </section>
 </section>
 ```
-<p>Beispiel Html-code für einen Tag</p>
+<p>Beispiel Html-Code für einen Tag</p>
 
 ``` 
 *,
@@ -381,7 +381,7 @@ body {
 
 ``` 
 
-<p>Css-Code für das Styling der Hauptseite</p>
+<p>CSS-Code für das Styling der Hauptseite</p>
   
   
 </details>
