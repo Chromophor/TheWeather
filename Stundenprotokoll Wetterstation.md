@@ -384,7 +384,7 @@ body {
 <p>Css-Code für das Styling der Hauptseite</p>
   
   
-</detials>
+</details>
 
 <p id="Stunde16"><b>Mittwoch 29.09.2021</b><br>
   Wir hatten heute keinen Informatikunterricht, weil wir den gesamten Vormittag über die Vorabi-Deutsch-Klausur geschrieben haben. Nachmittags haben wir aber trotzdem die Gelegenheit genutzt und weiter am Repository gearbeitet. So haben wir jeweils einen <a href="#Link">Link zu den Stunden im Stundenprotokoll</a> erstellt.</p>
