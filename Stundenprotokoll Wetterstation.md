@@ -401,7 +401,7 @@ body {
 </details>
 
 <p id="Stunde18"><b>Sonntag 03.10.2021</b><br> 
-  Auch heute haben wir den Arduino meteorologsiche Daten sammeln lassen. Leider ist heute nur ein eingeschrenkter Datensatz vorhanden, weil die 9V Blockbatterie nach ca. zwei Stunden unvorhergesehen leer war. Trotzdem wurden Daten vom heute gemessen und gespeichert. Die Durchschnittstemperatur war im Messzeitraum 18,76°C, die Durschnittsluftfeuchtigkeit betrug 71,14% und der Luftdruck betrug durschnittlich 995,16 hPa. Gemessen wurden die Daten in einem zeitraum von 09:36 Uhr bis 11:26 Uhr, welche in einem 10 Minuten Rythmus erhoben wurden. Die Auswertung erfolgte erneut mir Excel und ist unter den unten stehenden Dropdown zu sehen.</p>
+  Auch heute haben wir den Arduino meteorologsiche Daten sammeln lassen. Leider ist heute nur ein eingeschränkter Datensatz vorhanden, weil die 9V Blockbatterie nach ca. zwei Stunden unvorhergesehen leer war. Trotzdem wurden Daten vom heute gemessen und gespeichert. Die Durchschnittstemperatur war im Messzeitraum 18,76°C, die Durschnittsluftfeuchtigkeit betrug 71,14% und der Luftdruck betrug durschnittlich 995,16 hPa. Gemessen wurden die Daten in einem zeitraum von 09:36 Uhr bis 11:26 Uhr, welche in einem 10 Minuten Rythmus erhoben wurden. Die Auswertung erfolgte erneut mir Excel und ist unter den unten stehenden Dropdown zu sehen.</p>
  
 <details><summary>Auswertung der gemessenen Daten</summary>
   
