@@ -605,6 +605,12 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 <p id="Stunde36"><b>Mittwoch 17.11.2021</b><br>
   Heute haben wir weiter an der Projekseite gearbeitet. Wir haben Beiträge zu dem Sensor BME280 erstellt und diesbezüglich Recherchen angestellt. Gernot hat weiter an einer genauen Skizze des Arduino-Gehäuses gearbeitet, die in unserer Projektseite bei der Vorstellung des Projektes aufgeführt wird. Henrik hat an unserer Website gearbeitet. Unser Wunsch war es, neue Daten des Arduinos auch auf unserer globalen Website hochladen zu können. Dafür hat Henrik einen Upload-Button erstellt, welcher einen auf die Upload-Website weiterleitet. Hier tritt ein Problem auf: Wenn wir unsere Website global online stellen, kann jeder Dateien in unsere Datenbank hochlanden. Unsere Website wäre somit leicht manipulierbar und zusätzlich leicht für Hacker angreifbar. Dieses Problem wollen wir durch einen passwortgeschützten Bereich umgehen. Dafür haben wir heute eine Idee entwickelt, die in den nächsten Stunde umgesetzt werden muss.</p>
   
+<details><summary>Screenshots vom 23.11.2021</summary>
+  
+![Website](https://user-images.githubusercontent.com/88386049/143907739-e624504b-fbd3-4420-8f0e-5c501c8efb41.JPG)
+
+</details>
+  
 <p id="Stunde37"><b>Dienstag 23.11.2021</b><br>
   In dieser Doppelstunde waren wir leider nur zu zweit in der Schule. Gernot hatte Kopfschmerzen und hat die Skizzen für die Projektseite weitergezeichnet und ein bisschen am Gehhäuse für die Wetterstation gebastelt. Währenddessen hat Henrik in der Schule an der Webseite weitergearbeitet. Hier sind im Moment noch einige kleinere Probleme an der Webseite aufgetreten, die aber in den letzten Stunden vor Abgabe nach und nach gelöst werden. So werden auf unserer Website als zusätzliche Information zu jedem Tag Diagramme für die Luftfeuchtigkeit, den Luftdruck, die Temperatur und die Lichtintensität angezeigt. Das Problem besteht aber leider in der Tatsache, dass in jedem Diagramm nur ein Wert aus der Datenbank für den Tag gezeigt wird. Thorben hat einen digitalen Schaltplan unserer Wetterstation bei TinkerCAD erstellt. TinkerCAD ist eine kostenlose Web-App zur Bearbeitung und Erstellung von 3D-Objekten, Schaltplänen und anderen technischen Skizzen. Der Vorteil dieser Web-App besteht in der Möglichkeit, Code z.B. für den Arduino direkt im Browser implentieren zu können. Die Ausführung des Codes wird im Browser anschließend mit Beteiligung der im Schaltplan angeschlossenen Bauteile simuliert.</p>
   
