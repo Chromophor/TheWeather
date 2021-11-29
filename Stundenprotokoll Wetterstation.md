@@ -608,6 +608,13 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 <p id="Stunde37"><b>Dienstag 23.11.2021</b><br>
   In dieser Doppelstunde waren wir leider nur zu zweit in der Schule. Gernot hatte Kopfschmerzen und hat die Skizzen für die Projektseite weitergezeichnet und ein bisschen am Gehhäuse für die Wetterstation gebastelt. Währenddessen hat Henrik in der Schule an der Webseite weitergearbeitet. Hier sind im Moment noch einige kleinere Probleme an der Webseite aufgetreten, die aber in den letzten Stunden vor Abgabe nach und nach gelöst werden. So werden auf unserer Website als zusätzliche Information zu jedem Tag Diagramme für die Luftfeuchtigkeit, den Luftdruck, die Temperatur und die Lichtintensität angezeigt. Das Problem besteht aber leider in der Tatsache, dass in jedem Diagramm nur ein Wert aus der Datenbank für den Tag gezeigt wird. Thorben hat einen digitalen Schaltplan unserer Wetterstation bei TinkerCAD erstellt. TinkerCAD ist eine kostenlose Web-App zur Bearbeitung und Erstellung von 3D-Objekten, Schaltplänen und anderen technischen Skizzen. Der Vorteil dieser Web-App besteht in der Möglichkeit, Code z.B. für den Arduino direkt im Browser implentieren zu können. Die Ausführung des Codes wird im Browser anschließend mit Beteiligung der im Schaltplan angeschlossenen Bauteile simuliert.</p>
   
+<details><summary>Screenshots vom 23.11.2021</summary>
+  
+![Screenshot (115)](https://user-images.githubusercontent.com/88386049/143906631-4d7654db-3c6c-437e-9f9e-efa9ad6a30c2.png)
+
+
+</details>
+  
 <p id="Stunde38"><b>Mittwoch 24.11.2021</b><br>
   Heute waren wir wieder alle in der Schule. Wir haben heute kleine Probleme an der Webseite und einige Verbesserungen an der Projektseite vorgenommen. Henrik hat die Graphen optisch überarbeitet und weiter an unsere Vorstellungen angepasst. Die Farbe der Graphen wurde von Gelb (welches zu Testzwecken eingesetzt wurde) zu einem Grau geändert. Zusätzlich wurde die Größe der Diagramme so verändert, dass zwei nebeneinander mit ausreichend Platz zu dem Margin sind. Die zwei folgenden Diagramme sind unter den beiden gleichermaßen angeordnet. Neben diesen Tätigkeiten haben wir auch den gestrigen Beitrag im Stundenprotokoll weiter ergänzt und weiter für unsere Projektseite recherchiert.</p>
   
