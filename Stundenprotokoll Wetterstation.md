@@ -612,11 +612,13 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
   Heute waren wir wieder alle in der Schule. Wir haben heute kleine Probleme an der Webseite und einige Verbesserungen an der Projektseite vorgenommen. Henrik hat die Graphen optisch überarbeitet und weiter an unsere Vorstellungen angepasst. Die Farbe der Graphen wurde von Gelb (welches zu Testzwecken eingesetzt wurde) zu einem Grau geändert. Zusätzlich wurde die Größe der Diagramme so verändert, dass zwei nebeneinander mit ausreichend Platz zu dem Margin sind. Die zwei folgenden Diagramme sind unter den beiden gleichermaßen angeordnet. Neben diesen Tätigkeiten haben wir auch den gestrigen Beitrag im Stundenprotokoll weiter ergänzt und weiter für unsere Projektseite recherchiert.</p>
   
 <p id="Stunde39"><b>Freitag 26.11.2021</b><br>
-  Henrik hat heute das <a href="Stunde37">Problem</a> der Daten im Diagramm behoben. Es werden nun alle erfassten Daten im Diagramm gezeigt.</p>
+  Henrik hat heute das <a href="#Stunde37">Problem</a> der Daten im Diagramm behoben. Es werden nun alle erfassten Daten im Diagramm gezeigt.</p>
   
 <details><summary>Diagramme auf der Website</summary>
  
 ![Diagramme](https://user-images.githubusercontent.com/88386049/143904659-8b85cf94-c7c6-4767-93de-becd43d32ff0.JPG)
+  
+![Screenshot (113)](https://user-images.githubusercontent.com/88386049/143905342-9c2724fb-6478-4d75-944c-929e3530b446.png)
   
 </details>
 
