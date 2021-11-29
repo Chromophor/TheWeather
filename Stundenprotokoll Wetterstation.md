@@ -610,8 +610,7 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
   
 <details><summary>Screenshots vom 23.11.2021</summary>
   
-![Screenshot (115)](https://user-images.githubusercontent.com/88386049/143906631-4d7654db-3c6c-437e-9f9e-efa9ad6a30c2.png)
-
+![Schaltplan](https://user-images.githubusercontent.com/88386049/143907166-48b0cf87-5181-473a-808b-96639d7219fd.JPG)
 
 </details>
   
