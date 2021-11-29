@@ -609,6 +609,12 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
   
 <p id="Stunde39"><b>Freitag 26.11.2021</b><br>
   Henrik hat heute das <a href="Stunde37">Problem</a> der Daten im Diagramm behoben. Es werden nun alle erfassten Daten im Diagramm gezeigt.</p>
+  
+<detials><summary>Diagramme auf der Website</summary>
+ 
+![Diagramme](https://user-images.githubusercontent.com/88386049/143904659-8b85cf94-c7c6-4767-93de-becd43d32ff0.JPG)
+  
+</details>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
