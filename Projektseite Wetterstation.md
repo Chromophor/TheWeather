@@ -82,8 +82,32 @@ int ledPin = 13;
 
 Adafruit_BME280(bme);
 ```
-  </td><td>Stromversorgung, angeschlossen an 5V</td></tr>
-  <tr><td>GND</td><td>GND</td></tr>
+  </td><td></td></tr>
+  <tr><td>
+
+```
+void setup() {
+  // put your setup code here, to run once:
+
+Serial.begin(9600);
+setSyncProvider(RTC.get);
+
+if (!bme.begin(0x76)) {
+  Serial.println("Kein BME280 angeschlossen! Prüfe die Kabel");
+  while (1);
+  }
+
+Serial.println("SD-Karte intialisieren");
+
+if (!SD.begin(SPI_CS)) {
+  Serial.println("SD-Karte nicht lesbar! Überprüfe die SD-Karte!");
+  while (1);
+  }
+
+Serial.println("Erfolgreich intialisiert");
+}
+```
+</td><td>GND</td></tr>
 </table>  
   
 
