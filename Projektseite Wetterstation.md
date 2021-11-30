@@ -66,7 +66,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 ```
-  </td><td>  </td></tr>
+  </td><td>Erklärung</td></tr>
   <tr><td>
 
 ```
@@ -82,7 +82,7 @@ int ledPin = 13;
 
 Adafruit_BME280(bme);
 ```
-  </td><td></td></tr>
+  </td><td>Erklärung</td></tr>
   <tr><td>
 
 ```
@@ -107,7 +107,21 @@ if (!SD.begin(SPI_CS)) {
 Serial.println("Erfolgreich intialisiert");
 }
 ```
-</td><td>GND</td></tr>
+</td><td>Erklärung</td></tr>
+<td>
+    
+```
+    void loop() {
+  // put your main code here, to run repeatedly:
+
+temp = bme.readTemperature();
+feuchte = bme.readHumidity();
+druck = bme.readPressure() / 100.0F;
+sonne = analogRead(sensorPin);
+```    
+</td><td>Erklärung</td></tr>
+<td></td><td></td></tr>
+<td></td><td></td></tr>
 </table>  
   
 
