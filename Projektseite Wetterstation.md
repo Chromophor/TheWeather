@@ -54,7 +54,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   <tr><th>Test</th><th>PIN Arduino</th></tr>
   <tr><td>
 
-  <!DOCTYPE html>
+  ``<!DOCTYPE html>
 <html lang="de">
 
 <head>
@@ -63,7 +63,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     
     <link href="css/style-test.css" rel="stylesheet">
-</head>
+</head>``
 
 <body style="background-image:url(kanadaback.JPG)">
 
