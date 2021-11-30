@@ -67,7 +67,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 #include <Adafruit_BME280.h>
 ```
   </td><td>Erklärung</td></tr>
-  <td><td>
+  <tr><td>
 
 ```
 float temp;
