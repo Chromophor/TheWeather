@@ -68,7 +68,9 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 ```
-  </td><td>Zu Beginn des Sketches werden einige Dinge festgelegt. So wird definiert, dass der Luftdruck über Normal-Null (NN - Meeresspiegel) 1013,25hPa beträgt. Außerdem werden Bibliotheken importiert, wie z.B. die Bibliotheken für den Sensor BME280 und die Real-Time-Clock (DS1307RTC). Benötigt werden aber auch die Bibliotheken für das Data-Logging-Shield (SD.h), um mit der SD-Karte komunizieren zu können. Alle eingesetzten Bibliotheken sind mit ```#include <Bibliothek.h>``` gekennzeichnet.</td></tr>
+  </td><td>Zu Beginn des Sketches werden einige Dinge festgelegt. So wird definiert, dass der Luftdruck über Normal-Null (NN - Meeresspiegel) 1013,25hPa beträgt. Außerdem werden Bibliotheken importiert, wie z.B. die Bibliotheken für den Sensor BME280 und die Real-Time-Clock (DS1307RTC). Benötigt werden aber auch die Bibliotheken für das Data-Logging-Shield (SD.h), um mit der SD-Karte komunizieren zu können. Alle eingesetzten Bibliotheken sind mit 
+    
+```#include <Bibliothek.h>``` gekennzeichnet.</td></tr>
   <tr><td>
 
 ```
