@@ -128,7 +128,7 @@ Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem f
 </table>
 
 <p><b>Funktionsweise</b><br>
-
+Der Sensor BME280 vereint Temperatur-, Luftfeuchtigkeits- und Luftdruckmessungen. Der Sensor enthält ein Thermometer, ein Hygrometer und ein Barometer, sowie ein Altimeter. Luftfeuchtigkeit kann der BME280 mit ±3% Genauigkeit erfassen. Temperaturmessungen gelingen mit einer Genauigkeit von ±1.0°C und Messwerte für den Luftdruck gibt der Sensor mit ±1 hPa absoluter Genauigkeit aus. Dabei gibt es für jede Messgröße ein Sensor mit einer vorgeschalteten Front-End Einheit und einer nachgeschalteten Logikeinheit.
 </p>
 
 ![BME280](https://user-images.githubusercontent.com/88386049/142200318-961c198e-c867-455e-bdb4-e2c9809cdd84.PNG)
