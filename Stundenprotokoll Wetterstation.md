@@ -85,6 +85,15 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
 <li>Höhe -> Alitmeter -> Produkt: BME280</li>
 <li>Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750)</li><br>Eine Liste aller Materialien, ist <a href="#kapitel3">hier</a> zu finden.</p>
 
+<table>
+  <tr><th>Sensor</th><th>Fachterminus</th><th>Produktbezeichnung</th></tr>
+  <tr><td>Temperatur</td><td>Thermometer</td><td>Produkt: <a href="https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Sensor-Parent/dp/B07D8T4HP6?th=1">BME280</a></td></tr>
+  <tr><td>Luftfeuchtigkeit</td><td>Hygrometer</td><td>Produkt: <a href="https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Sensor-Parent/dp/B07D8T4HP6?th=1">BME280</a></td></tr>
+  <tr><td>Luftdruck</td><td>Barometer</td><td>Produkt: <a href="https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Sensor-Parent/dp/B07D8T4HP6?th=1">BME280</a></td></tr>
+  <tr><td>Höhe</td><td>Alimeter</td><td>Produkt: <a href="https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Sensor-Parent/dp/B07D8T4HP6?th=1">BME280</a></td></tr>
+  <tr><td>Sonnenscheindauer/-intensität</td><td>Fotowiederstand</td><td>Produkt: <a href="https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750">BH1750</a></td></tr>
+</table>
+
 <details><summary>Grobe Skizze des Arduinogehäuses:</summary>
   
 ![image](https://user-images.githubusercontent.com/88386279/142203090-0f47e3cf-efc7-468d-abcc-3b197753cab8.jpeg)  
