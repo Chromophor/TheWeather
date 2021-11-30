@@ -14,6 +14,7 @@
 <li><a href="#kapitel7">7. Kritik</a></li>
 <li><a href="#kapitel8">8. Fazit</a></li>
 <li><a href="#kapitel9">9. Quellen</a></li>
+<li><a href="#kapitel10">10. Eigenständigkeitserklärung</a></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
 <p>Für viele Menschen gehört es zu der Morgenroutine, nach dem Aufstehen aus dem Fenster zu gucken und die Temperatur zu schätzen, damit man sich passend anziehen kann. Oftmals verschätzt man sich und es kommt zu ungewolltem und unnötigen Stress am frühen Morgen, da es überraschend doch wärmer oder kälter ist.<br>
@@ -157,3 +158,13 @@ Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem f
 
 <br><p><b><u>Bildquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
+  
+  
+<h2 id="kapitel10">10. Eigenständigkeitserklärung</h2>
+  
+<p><b>Eigenständigkeitserklärung</b><br>
+  Wir erklären, dass wir die vorliegende Arbeit selbstständig und ohne Benutzung anderer als den 
+angegebenen Hilfsmittel angefertigt und alle Stellen, die wörtlich oder sinngemäß aus 
+veröffentlichten oder unveröffentlichten Schriften entnommen wurden, als solche kenntlich 
+gemacht habe. 
+Diese Arbeit wurde nicht, auch nicht auszugsweise, bereits für eine andere Prüfung angefertigt.</p>
