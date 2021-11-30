@@ -54,8 +54,8 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <table>
   <tr><th>Test</th><th>PIN Arduino</th></tr>
   <tr><td>
-    
-   #define SPI_CS 10
+``    
+#define SPI_CS 10
 #define NNLUFTDRUCK_HPA (1013.25)
 
 #include <Wire.h>
@@ -64,7 +64,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 #include <SD.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
-  
+``
   </td><td>Analoger Ausgang für Echtzeit-Spannungssignal, angeschlossen an A0</td></tr>
   <tr><td>VCC</td><td>Stromversorgung, angeschlossen an 5V</td></tr>
   <tr><td>GND</td><td>GND</td></tr>
