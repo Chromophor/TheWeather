@@ -52,7 +52,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <p>Unsere Wetterstation</p>
   
 <table>
-  <tr><th>Test</th><th>PIN Arduino</th></tr>
+  <tr><th>Code</th><th>Erklärung</th></tr>
   <tr><td>
     
 ```    
@@ -66,7 +66,22 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 ```
-  </td><td>Analoger Ausgang für Echtzeit-Spannungssignal, angeschlossen an A0</td></tr>
+  </td><td>
+  
+```
+float temp;
+float feuchte;
+float druck;
+float hohe;
+float sonne = 0;
+
+int sensorPin = A0;
+int ledPin = 13;
+
+
+Adafruit_BME280(bme);
+```
+  </td></tr>
   <tr><td>VCC</td><td>Stromversorgung, angeschlossen an 5V</td></tr>
   <tr><td>GND</td><td>GND</td></tr>
 </table>  
