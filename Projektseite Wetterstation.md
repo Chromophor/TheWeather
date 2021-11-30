@@ -166,5 +166,5 @@ Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem f
   Wir erklären, dass wir die vorliegende Arbeit selbstständig und ohne Benutzung anderer als den 
 angegebenen Hilfsmittel angefertigt und alle Stellen, die wörtlich oder sinngemäß aus 
 veröffentlichten oder unveröffentlichten Schriften entnommen wurden, als solche kenntlich 
-gemacht habe. 
+gemacht habe.<br>
 Diese Arbeit wurde nicht, auch nicht auszugsweise, bereits für eine andere Prüfung angefertigt.</p>
