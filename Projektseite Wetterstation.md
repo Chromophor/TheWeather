@@ -68,7 +68,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 ```
-  </td><td>Erklärung</td></tr>
+  </td><td>Zu Beginn des Sketches werden einige Dinge festgelegt. So wird definiert, dass der Luftdruck über Normal-Null (NN - Meeresspiegel) 1013,25hPa beträgt. Außerdem werden Bibliotheken importiert, wie z.B. die Bibliotheken für den Sensor BME280 und die Real-Time-Clock (DS1307RTC). Benötigt werden aber auch die Bibliotheken für das Data-Logging-Shield (SD.h), um mit der SD-Karte komunizieren zu können. Alle eingesetzten Bibliotheken sind mit ```#include <Bibliothek.h>``` gekennzeichnet.</td></tr>
   <tr><td>
 
 ```
@@ -248,6 +248,7 @@ Insofern sind wir stolz auf unsere Wetterstation, deren Wetterdaten sogar auf je
 <li>https://www.tinkercad.com/</li>
 <li>https://de.wikipedia.org/wiki/Spannungsbezeichnung</li>
 <li>https://i2c.info/</li>
+<li>https://www.elektronikpraxis.vogel.de/so-funktioniert-das-serial-peripheral-interface-a-1006985/</li>
 
 <br><p><b><u>Bildquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
