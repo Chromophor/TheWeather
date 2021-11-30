@@ -86,7 +86,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <tr><td>Luftfeuchtigkeit</td><td>Hygrometer</td><td>Produkt: <a href="https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Sensor-Parent/dp/B07D8T4HP6?th=1">BME280</a></td></tr>
   <tr><td>Luftdruck</td><td>Barometer</td><td>Produkt: <a href="https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Sensor-Parent/dp/B07D8T4HP6?th=1">BME280</a></td></tr>
   <tr><td>Höhe</td><td>Alimeter</td><td>Produkt: <a href="https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Sensor-Parent/dp/B07D8T4HP6?th=1">BME280</a></td></tr>
-  <tr><td>Sonnenscheindauer/-intensität</td><td>Fotowiederstand</td><td>Produkt: <a href="https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750">BH1750</a></td></tr>
+  <tr><td>Sonnenscheindauer/-intensität</td><td>Fotowiederstand</td><td>Produkt: <a href="https://asset.conrad.com/media10/add/160267/c1/-/GL/002134129ML00/002134129ML00-GL.pdf">BN2134129</a></td></tr>
 </table>
 
 <p>Eine Liste aller Materialien, ist <a href="#kapitel3">hier</a> zu finden.</p>
