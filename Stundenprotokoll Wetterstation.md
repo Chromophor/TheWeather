@@ -639,6 +639,9 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
 ![Screenshot (113)](https://user-images.githubusercontent.com/88386049/143905342-9c2724fb-6478-4d75-944c-929e3530b446.png)
   
 </details>
+  
+  <p id="Stunde40"><b>Dienstag 30.11.2021</b><br>
+    In dieser Doppelstunde haben wir die Projektseite weiterbearbeitet und die Webseite verfeinert. 
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
