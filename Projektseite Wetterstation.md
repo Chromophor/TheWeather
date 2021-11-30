@@ -49,6 +49,14 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <h2 id="kapitel5">5. Der Code</h2>
 <p>Unsere Wetterstation</p>
+  
+<table>
+  <tr><th>```TEST``</th><th>PIN Arduino</th></tr>
+  <tr><td>OUT</td><td>Analoger Ausgang für Echtzeit-Spannungssignal, angeschlossen an A0</td></tr>
+  <tr><td>VCC</td><td>Stromversorgung, angeschlossen an 5V</td></tr>
+  <tr><td>GND</td><td>GND</td></tr>
+</table>  
+
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
 <h3 id="Code">5.2. Der Code der Website</h3>
