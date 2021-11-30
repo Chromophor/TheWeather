@@ -120,7 +120,34 @@ druck = bme.readPressure() / 100.0F;
 sonne = analogRead(sensorPin);
 ```    
 </td><td>Erklärung</td></tr>
-<td></td><td></td></tr>
+<td>
+    
+```
+String Datensatz =  String(temp) +
+                    "," +
+                    String(feuchte) +
+                    "," +
+                    String(druck) +
+                    "," +
+                    String(sonne) +
+                    ",";
+```
+</td>
+    
+```
+String Zeit = String(hour()) +
+              ":" +
+              String(minute()) +
+              ":" +
+              String(second()) +
+              "," +
+              String(year()) +
+              "-" +
+              String(month()) +
+              "-" +
+              String(day());
+```
+<td></td></tr>
 <td></td><td></td></tr>
 </table>  
   
