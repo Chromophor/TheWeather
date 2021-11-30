@@ -53,7 +53,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
-  <tr><td>
+  <tr><th>
     
 ```    
 #define SPI_CS 10
@@ -66,8 +66,8 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 ```
-  </td><td>Erklärung</td></tr>
-  <tr><td>
+  </th><td>Erklärung</td></tr>
+  <td><td>
 
 ```
 float temp;
