@@ -56,7 +56,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
 
-Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer Wetterstation zwei Sensoren zum Einsatz. Der Sensor ``BME280``, der Luftfeuchtigkeit, Luftdruck und Temperatur misst und der Sensor ``BN2134129``, der die Lichtintensität misst. In der unten stehenden Abbildung kann man den Aufbau unserer Wetterstation sehen. Auf dem digitalen Schaltplan kann man die Kabelverbindungen sehen, die durch Striche dargestellt sind.
+Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer Wetterstation zwei Sensoren zum Einsatz. Der Sensor ``BME280``, der Luftfeuchtigkeit, Luftdruck und Temperatur misst und der Sensor ``BN2134129``, der die Lichtintensität misst. In der unten stehenden Abbildung kann man den Aufbau unserer Wetterstation sehen. Auf dem digitalen Schaltplan kann man die Kabelverbindungen sehen, die durch Striche dargestellt sind. Mit ``VCC`` werden in unserem Schaltplan positive Leitungen für die Versorgungsspannung bezeichnet, ``GND`` ist die Abkürzung für Erdung (engl. ``ground``).
 
 <b>Erläuterung der farbigen Kabel:</b>
   
