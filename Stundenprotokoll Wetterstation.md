@@ -78,12 +78,7 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   
 <p id="Stunde3"><b>Dienstag 10.08.2021</b><br>
   Heute haben wir eine Liste unserer benötigten Sensoren und deren Funktion in unserer Wetterstation zusammengestellt. Diese sind unten mit der jeweiligen Funktion und zugehöriger Produktbeschreibung zu finden. Anschließend haben wir uns das Design der Wetterstation eingehender überlegt. Eine Konstruktion, die aus einem Gehäuse in Form eines Hauses bestehen soll, wie die unten stehende Skizze verdeutlichen soll. Hier sind die Abmessungen unserer Konstruktion ebenfalls abzulesen.</p>
-<p></br><b>Welche Sensoren sollen eingebunden weden?</b><br>
-<li>Temperatur -> Thermometer -> Produkt: BME280</li>
-<li>Luftfeuchtigkeit -> Hygrometer -> Produkt: BME280</li>
-<li>Luftdruck -> Barometer -> Produkt: BME280</li>
-<li>Höhe -> Alitmeter -> Produkt: BME280</li>
-<li>Sonnenscheindauer/-intensität -> Fotowiederstand -> Produkt: BH 1750 12C (https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750)</li><br>Eine Liste aller Materialien, ist <a href="#kapitel3">hier</a> zu finden.</p>
+<p></br><b>Welche Sensoren sollen eingebunden weden?</b><br></p>
 
 <table>
   <tr><th>Sensor</th><th>Fachterminus</th><th>Produktbezeichnung</th></tr>
@@ -93,6 +88,8 @@ Unsere Wetterstation <b>(Name fehlt)</b> ist eine hervorragende Art das Aufstehe
   <tr><td>Höhe</td><td>Alimeter</td><td>Produkt: <a href="https://www.amazon.de/AZDelivery-GY-BME280-Barometrischer-Sensor-Parent/dp/B07D8T4HP6?th=1">BME280</a></td></tr>
   <tr><td>Sonnenscheindauer/-intensität</td><td>Fotowiederstand</td><td>Produkt: <a href="https://www.makershop.de/sensoren/lichtsensor/lichtsensor-bh1750">BH1750</a></td></tr>
 </table>
+
+<p>Eine Liste aller Materialien, ist <a href="#kapitel3">hier</a> zu finden.</p>
 
 <details><summary>Grobe Skizze des Arduinogehäuses:</summary>
   
