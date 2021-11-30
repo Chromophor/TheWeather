@@ -149,6 +149,27 @@ String Zeit = String(hour()) +
               "-" +
               String(day());
 ```
+</td>Erklärung<td></td></tr>
+<tr><td>
+
+```
+Serial.println(Datensatz);
+Serial.println(Zeit);
+//sonnenschein();
+
+File Zieldatei = SD.open("temp_log.csv", FILE_WRITE);
+
+if (Zieldatei) {
+  Zieldatei.print(Datensatz);
+  Zieldatei.println(Zeit);
+  Zieldatei.close();
+  } else {
+  Serial.println("Datensatz konnte nicht geschrieben werden");  
+  }
+
+delay(6000);
+}
+```
 </td><td></td></tr>
 </table>  
   
