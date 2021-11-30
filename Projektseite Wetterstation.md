@@ -55,7 +55,6 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   <tr><th>Test</th><th>PIN Arduino</th></tr>
   <tr><td>
     
- 
 ```    
 #define SPI_CS 10
 #define NNLUFTDRUCK_HPA (1013.25)
