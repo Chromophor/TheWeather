@@ -56,17 +56,13 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
     <!DOCTYPE html>
 <html lang="de">
-
 <head>
     <meta charset="utf-8">
     <title>The Weather - Informatikprojekt</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    
     <link href="css/style-test.css" rel="stylesheet">
 </head>
-
 <body style="background-image:url(kanadaback.JPG)">
-
     <header>
         <h1 class="headline">The Weather</h1>
     </header>
