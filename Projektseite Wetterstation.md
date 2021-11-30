@@ -52,7 +52,11 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <table>
   <tr><th>Test</th><th>PIN Arduino</th></tr>
-  <tr><td><!DOCTYPE html>
+  <tr><td>
+    
+    
+    
+    <!DOCTYPE html>
 <html lang="de">
 
 <head>
@@ -68,10 +72,13 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
     <header>
         <h1 class="headline">The Weather</h1>
     </header>
+  
+  
   </td><td>Analoger Ausgang für Echtzeit-Spannungssignal, angeschlossen an A0</td></tr>
   <tr><td>VCC</td><td>Stromversorgung, angeschlossen an 5V</td></tr>
   <tr><td>GND</td><td>GND</td></tr>
 </table>  
+  
 
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
