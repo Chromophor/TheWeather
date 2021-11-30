@@ -151,7 +151,7 @@ String Zeit = String(hour()) +
               "-" +
               String(day());
 ```
-</td>Erklärung<td></td></tr>
+</td><td>Erklärung</td></tr>
 <tr><td>
 
 ```
@@ -172,7 +172,7 @@ if (Zieldatei) {
 delay(6000);
 }
 ```
-</td><td></td></tr>
+</td><td>Erklärung</td></tr>
 </table>  
 
 <h3 id="Code">5.2. Der Code der Website</h3>
