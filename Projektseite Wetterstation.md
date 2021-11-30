@@ -133,7 +133,9 @@ String Datensatz =  String(temp) +
                     ",";
 ```
 </td>
-    
+<td>Erklärung</td></tr>
+<td>
+ 
 ```
 String Zeit = String(hour()) +
               ":" +
@@ -147,8 +149,7 @@ String Zeit = String(hour()) +
               "-" +
               String(day());
 ```
-<td></td></tr>
-<td></td><td></td></tr>
+</td><td></td></tr>
 </table>  
   
 
