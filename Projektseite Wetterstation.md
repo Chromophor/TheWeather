@@ -66,8 +66,9 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 ```
-  </td><td>
-  
+  </td><td>  </td></tr>
+  <tr><td>
+
 ```
 float temp;
 float feuchte;
@@ -81,8 +82,7 @@ int ledPin = 13;
 
 Adafruit_BME280(bme);
 ```
-  </td></tr>
-  <tr><td>VCC</td><td>Stromversorgung, angeschlossen an 5V</td></tr>
+  </td><td>Stromversorgung, angeschlossen an 5V</td></tr>
   <tr><td>GND</td><td>GND</td></tr>
 </table>  
   
