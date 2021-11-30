@@ -52,7 +52,8 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <table>
   <tr><th>
-    ``TEST``</th><th>PIN Arduino</th></tr>
+    ``TEST``
+  </th><th>PIN Arduino</th></tr>
   <tr><td>OUT</td><td>Analoger Ausgang für Echtzeit-Spannungssignal, angeschlossen an A0</td></tr>
   <tr><td>VCC</td><td>Stromversorgung, angeschlossen an 5V</td></tr>
   <tr><td>GND</td><td>GND</td></tr>
