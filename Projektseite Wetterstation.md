@@ -63,7 +63,18 @@ Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer 
   <li>Schwarze Jumper-Kabel = GND -> GND</li>
   <li>Grüne Jumper-Kabel = SCL -> A5</li>
   <li>Gelbe Jumper-Kabel = OUT -> A0</li>
-  <li>Blaue Jumper-Kabel = SDA -> A4</li><br>
+  <li>Blaue Jumper-Kabel = SDA -> A4</li>
+  
+
+<table>
+  <tr><th>Farbige Jumper-Kabel</th><th>Bedeutung</th><th>PIN Arduino</th></tr>
+  <tr><td>Rote Jumper-Kabel</td><td>Stromversorgung</td><td>VCC</td></tr>
+  <tr><td>Schwarze Jumper-Kabel</td><td>GND</td><td>GND</td></tr>
+  <tr><td>Grüne Jumper-Kabel</td><td>SCL</td><td>A5</td></tr>
+  <tr><td>Gelbe Jumper-Kabel</td><td>OUT</td><td>A0</td></tr>
+  <tr><td>Blaue Jumper-Kabel</td><td>SDA</td><td>A4</td></tr>
+  
+</table><br>
   
 <img width="970" alt="Schaltplan(1)" src="https://user-images.githubusercontent.com/88386049/143048234-15350976-d0bd-4aa9-958d-9c9b0821ca42.png">
  
