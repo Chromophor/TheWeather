@@ -135,11 +135,11 @@ Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem f
 
 
 <h2 id="kapitel7">7. Kritik</h2>
-<p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden.</p>  
+<p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden. Zusammenfassend können wir mit unserer Arbeitsweise sehr zufrieden sein. Durch die Gruppengröße von 3 Mitgliedern konnten schnell Fortschritte erzielt werden. Wir lagen dementsprechend immer in unserem selbstgesteckten Zeitplan und hatten am Anfang auch Zeit einige neue Sketche und Sensoren auszuprobieren, die am Ende keine Anwendung gefunden haben.  </p>  
   
 <h2 id="kapitel8">8. Fazit</h2>
 <p>Die Wetterstation auf der Basis eines Arduinos ist ein schönes Projekt gewesen. Es war anspruchsvoll und hat alle Beteiligten in der Gruppe ein Höchstmaß an Kontzentration abverlangt und war zudem für alle sehr lehrreich. Trotz der am Anfang leichten Findungsschwierigkeiten hinsichtlich eines Projektes haben wir mit unserem Resultat eine interessante und für den Alltag zweckmäßige Umsetzung gefunden. Über das Projekt hinaus haben wir große Programmierkenntnisse gewonnen, die nicht immer im fertigen Projekt angewandt wurden, aber dennoch einen Lernprozess bescheinigen.
-Insofern sind wir stolz auf unsere Wetterstation, deren Wetterdaten sogar auf jedem internetfähigen Computer der Welt abrufbar sind und die dazugehörige Webseite gegen Spamupload sogar passwortgeschützt ist.
+Insofern sind wir stolz auf unsere Wetterstation, deren Wetterdaten sogar auf jedem internetfähigen Computer der Welt abrufbar sind und die dazugehörige Webseite gegen Spamupload sogar passwortgeschützt ist. </p>
 
 <h2 id="kapitel9">9. Quellen</h2>
 <p><b><u>Textquellen</u></b></p>
