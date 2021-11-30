@@ -118,6 +118,7 @@ Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem f
 <li>https://learn.adafruit.com/adafruit-data-logger-shield</li>
 <li>https://www.tinkercad.com/</li>
 <li>https://de.wikipedia.org/wiki/Spannungsbezeichnung</li>
+<li>https://i2c.info/</li>
 
 <br><p><b><u>Bildquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
