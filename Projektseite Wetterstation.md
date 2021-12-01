@@ -89,7 +89,9 @@ int ledPin = 13;
 Adafruit_BME280(bme);
 ```
   </td><td>
- 
+<b>Part 2</b>
+    
+    
 Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit, ```druck``` für Luftdruck und ```hohe``` für Höhe über NN als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Kommazahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp int (Integer), bei dem nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält von Anfang an den Wert 0.
   <tr><td>
 
@@ -116,7 +118,9 @@ Serial.println("Erfolgreich intialisiert");
 }
 ```
 </td><td>
-
+<b>Part 3</b>
+    
+    
 In ```void setup``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup``` Funktion wird jedes mal beim Aufrufen des Sketches ein einziges Mal gestartet. Mit ```Serial.begin(9600)``` wird die serielle Schnittstelle geöffnet und die Datenrate auf 9600 Bit/s eingestellt. Über diese Schnittstelle lassen sich Daten in der Arduino IDE auf dem seriellen Monitor anzeigen. Mit der Funktion ```setSyncProvider(RTC.get)``` wird die Uhrzeit-Abfrage der Real-Time-Clock intialisiert.
     
 Anschließend wird mit einer If-Abfrage geprüft, ob der BME280 angeschlossen ist. Sofern die Funktion ```bme.begin(0x76)``` einen falschen Wert zurück gibt, wird auf dem seriellen Monitor "Kein BME280 angeschlossen! Prüfe die Kabel" angezeigt, damit man die Anschlüsse überprüfen kann. Solange kein BME280 angeschlossen ist,  wird die Funktion nicht beendet, weil eine ```while(1)``` Schleife eingefügt ist.
@@ -134,6 +138,8 @@ druck = bme.readPressure() / 100.0F;
 sonne = analogRead(sensorPin);
 ```    
 </td><td>
+<b>Part 4</b>
+
     
 Der Inhalt der ```void loop()``` Funktion wird ständig wiederholt, nachdem die Funktion ```void setup``` durchschritten wurden. Zu Beginn wird den in</td></tr>
 <td>
