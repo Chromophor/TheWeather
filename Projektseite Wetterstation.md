@@ -141,7 +141,7 @@ sonne = analogRead(sensorPin);
 <b>Part 4</b>
 
     
-Der Inhalt der ```void loop()``` Funktion wird ständig wiederholt, nachdem die Funktion ```void setup``` durchschritten wurden. Zu Beginn wird den in Part 2 bereits beschriebenen Variablen der Wert eine Funktion zugewiesen. So entspricht die Variable ```temp``` nun der Funktion ```bme.readTemperature()```. Dabei ist ```bme``` die Sensorbezeichnung und ```readTemperature()``` die aufgerufene Funktion. Wie in diesem Beispiel wird auch den Variablen ```feuchte```, ```druck``` und ```sonne```` ebenfalls der Wert einer Funktion zugewiesen.</td></tr>
+Der Inhalt der ```void loop()``` Funktion wird ständig wiederholt, nachdem die Funktion ```void setup``` durchschritten wurden. Zu Beginn wird den in Part 2 bereits beschriebenen Variablen der Wert eine Funktion zugewiesen. So entspricht die Variable ```temp``` nun der Funktion ```bme.readTemperature()```. Dabei ist ```bme``` die Sensorbezeichnung und ```readTemperature()``` die aufgerufene Funktion. Wie in diesem Beispiel wird auch den Variablen ```feuchte```, ```druck``` und ```sonne``` ebenfalls der Wert einer Funktion zugewiesen.</td></tr>
 <td>
     
 ```
