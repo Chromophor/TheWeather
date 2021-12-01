@@ -652,7 +652,11 @@ Heute haben wir uns mit denselben Dingen wie gestern weiterbeschäftigt. Leider 
 <p>Der Passwortschutz unserer Upload-Website</p>
 
 </details>
-
+  
+<p id="Stunde41"><b>Dienstag 01.12.2021</b><br>
+  An diesem Tag haben wir das Stundenprotokoll auf Rechtschreibfehler überpüft. Dazu haben wir den Text in Microsoft Word kopiert und der automatischen Rechtschreiberkennung ihren Dienst tun lassen. Nun konnten wir einfach die Fehler direkt bei Word sehen und konnten auf dem zweiten Monitor im Bearbeitungsbereich bei GitHub die Kleinigkeiten beheben. Weiterhin haben wir an der Webseite ein Hintergrundbild auch auf der Seite der Diagramme "eingebaut" und die Projektseite weiter vervolltändigt.</p>
+  
+  
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
