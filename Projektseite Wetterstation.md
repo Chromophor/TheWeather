@@ -113,7 +113,9 @@ if (!SD.begin(SPI_CS)) {
 Serial.println("Erfolgreich intialisiert");
 }
 ```
-</td><td>Erklärung</td></tr>
+</td><td>In
+
+```void setup``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup```</td></tr>
 <td>
     
 ```
