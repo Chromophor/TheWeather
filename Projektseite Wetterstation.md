@@ -88,7 +88,7 @@ Adafruit_BME280(bme);
 ```
   </td><td>Anschließend werden die Variablen 
     
-  ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit, ```druck``` für Luftdruck und ```hohe``` für Höhe über NN als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Kommazahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp int (Integer), bei dem nur ganzzahlige Werte speichert. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält von Anfang an den Wert 0.
+  ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit, ```druck``` für Luftdruck und ```hohe``` für Höhe über NN als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Kommazahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp int (Integer), bei dem nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält von Anfang an den Wert 0.
   <tr><td>
 
 ```
