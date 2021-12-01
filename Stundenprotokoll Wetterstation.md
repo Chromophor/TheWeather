@@ -642,6 +642,16 @@ Heute haben wir uns mit den selben Dingen wie gestern weiterbeschäftigt. Leider
   
   <p id="Stunde40"><b>Dienstag 30.11.2021</b><br>
     In dieser Doppelstunde haben wir die Projektseite weiterbearbeitet und die Website verfeinert. So haben wir einen Passwortschutz für unsere Upload-Seite eingefügt, damit unsere Datenbank nicht von außenstehenden manipuliert werden kann. Wir haben am Wochenende mit dem Arduino neue Werte gemessen und heute in die Datenbank unserer Website übertragen. Zuerst haben wir den Vorgang auf unserer lokalen Seite ausprobiert und anschließend auf unserer global erreichbaren Website eingebettet. Da wir sowohl Sonntag, Montag aber auch noch am Dienstag Daten gemessen hatten, war die Datei auch verhältnismäßig groß. Insgesammt wurden ca. 500 Werte gespeichert. Der Messabstand beträgt 10 Minuten und es wurde vom 28.11.2021 12:53 Uhr bis zum 30.11.2021 09:55 Uhr Daten gemessen. Die Implementierung dieser Daten und des Passwortschutzes funktionierte problemlos. Bei der Implementierung ist uns noch die Idee eingefallen, dass wir auf unser Details Seite noch einen Zurück-Button einfügen sollten.</p>
+  
+<details><summary>Screenshots vom Dienstag 30.11.2021</summary>
+  
+![Website](https://user-images.githubusercontent.com/88386049/144190135-c6c8b340-af82-4b81-8e31-c7df1fc562d1.JPG)
+<p>Unsere Website mit neu eingefügten Daten vom 28.11.2021, 29.11.2021 und 30.11.2021</p>
+ 
+![Passwort](https://user-images.githubusercontent.com/88386049/144190139-808b971b-a5b3-4f8e-b3e3-f80a9d1fea12.JPG)
+<p>Der Passwortschutz unserer Upload-Website</p>
+
+</details>
 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
