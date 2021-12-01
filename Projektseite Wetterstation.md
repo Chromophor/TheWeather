@@ -118,7 +118,8 @@ Serial.println("Erfolgreich intialisiert");
 In ```void setup``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup``` Funktion wird jedes mal beim Aufrufen des Sketches ein einziges Mal gestartet. Mit ```Serial.begin(9600)``` wird die serielle Schnittstelle geöffnet und die Datenrate auf 9600 Bit/s eingestellt. Über diese Schnittstelle lassen sich Daten in der Arduino IDE auf dem seriellen Monitor anzeigen. Mit der Funktion ```setSyncProvider(RTC.get)``` wird die Uhrzeit-Abfrage der Real-Time-Clock intialisiert.
     
 Anschließend wird mit einer If-Abfrage geprüft, ob der BME280 angeschlossen ist. Sofern die Funktion ```bme.begin(0x76)``` einen falschen Wert zurück gibt, wird auf dem seriellen Monitor "Kein BME280 angeschlossen! Prüfe die Kabel" angezeigt, damit man die Anschlüsse überprüfen kann. Solange kein BME280 angeschlossen ist,  wird die Funktion nicht beendet, weil eine ```while(1)``` Schleife eingefügt ist.
-Wenn der Sensor angeschlossen ist, wird auf dem Seriellen Monitor "SD-Karte intialisieren" angezeigt. Es wird in der folgenden Funktion eine If-Abfrage gestartet, wo geprüft wird, ob die SD-Karte lesbar und beschreibbar ist. Wenn die Funktion ```SD.begin(SPI_CS```` einen ungültigen Wert zurückgibt, wird auf dem Seriellen Monitor "SD-Karte nicht lesbar! Überprüfe die SD-Karte!" angezeigt.</td></tr>
+Wenn der Sensor angeschlossen ist, wird auf dem Seriellen Monitor "SD-Karte intialisieren" angezeigt. Es wird in der folgenden Funktion eine If-Abfrage gestartet, wo geprüft wird, ob die SD-Karte lesbar und beschreibbar ist. Wenn die Funktion ```SD.begin(SPI_CS```` einen ungültigen Wert zurückgibt, wird auf dem Seriellen Monitor "SD-Karte nicht lesbar! Überprüfe die SD-Karte!" angezeigt.
+</td></tr>
 <td>
     
 ```
