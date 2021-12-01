@@ -86,7 +86,9 @@ int ledPin = 13;
 
 Adafruit_BME280(bme);
 ```
-  </td><td>Erklärung</td></tr>
+  </td><td>Anschließend werden die Variablen 
+    
+  ```temp```, ```feuchte```, ```druck```, ```hohe``` als ```sonne```
   <tr><td>
 
 ```
