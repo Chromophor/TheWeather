@@ -115,7 +115,7 @@ Serial.println("Erfolgreich intialisiert");
 ```
 </td><td>In
 
-```void setup``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup```</td></tr>
+```void setup``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup``` Funktion wird jedes mal beim Aufrufen des Sketches ein einziges Mal gestartet.</td></tr>
 <td>
     
 ```
