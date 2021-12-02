@@ -179,7 +179,7 @@ String Zeit = String(hour()) +
 </td><td>
 <b>Part 6</b>
     
-Nachdem der String mit den Messdaten unter ```Datensatz``` in Part 5 gespeichert wurde, wird hier ein neuer String unter der Bezeichnung ```Zeit``` angelegt. Die Zeitangaben können mit unterschiedlichen Funktionen abgerufen werden. So wird die Stundenangabe mit der Funktion ```hour()``` abgefragt. Da diese Funktion eine Zahl darstellt, muss sie erneut mit der ```String()``` zu einem String umgewandelt werden.
+Nachdem der String mit den Messdaten unter ```Datensatz``` in Part 5 gespeichert wurde, wird hier ein neuer String unter der Bezeichnung ```Zeit``` angelegt. Die Zeitangaben können mit unterschiedlichen Funktionen abgerufen werden. So wird die Stundenangabe mit der Funktion ```hour()``` abgefragt. Da diese Funktion eine Zahl darstellt, muss sie erneut mit der ```String()``` zu einem String umgewandelt werden. Dieses Vorgehen wird auch bei der Minutenangabe (``String(minute())``) und Sekundenangabe angewandt. Diese Zahlen werden durch ein ":" getrennt und zu der folgenden Jahreszahl wird ein Komma gesetzt. Zwischen Jahreszahl, dem Monat und dem Tag sind "-" zur Abtrennung eingefügt. Diese From der Trennung der einzellnen Bestandteile ist erneut in der CSV-Datei von Bedeutung.
 </td></tr>
 <tr><td>
 
