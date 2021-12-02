@@ -92,7 +92,7 @@ Adafruit_BME280(bme);
 <b>Part 2</b>
     
     
-Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit, ```druck``` für Luftdruck und ```hohe``` für Höhe über NN als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Kommazahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp int (Integer), bei dem nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält von Anfang an den Wert 0.
+Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit, ```druck``` für Luftdruck und ```hohe``` für Höhe über NN als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Kommazahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp int (Integer), bei dem nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält ebenfalls von Anfang an den Wert 0.
   <tr><td>
 
 ```
@@ -176,7 +176,11 @@ String Zeit = String(hour()) +
               "-" +
               String(day());
 ```
-</td><td>Erklärung</td></tr>
+</td><td>
+<b>Part 6</b>
+    
+Nachdem der String mit den Messdaten unter ```Datensatz``` in Part 5 gespeichert wurde, wird hier ein neuer String unter der Bezeichnung ```Zeit``` angelegt. Die Zeitangaben können mit unterschiedlichen Funktionen abgerufen werden. So wird die Stundenangabe mit der Funktion ```hour()``` abgefragt. Da diese Funktion eine Zahl darstellt, muss sie erneut mit der ```String()``` zu einem String umgewandelt werden.
+</td></tr>
 <tr><td>
 
 ```
