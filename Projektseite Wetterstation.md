@@ -157,6 +157,8 @@ String Datensatz =  String(temp) +
 </td>
 <td>
 <b>Part 5</b>
+  
+In diesem Abschnitt wird ein String erstellt. Ein String ist ein Datentyp und besteht aus einer Zeichenkette, wobei die Reihenfolge der Zeichen definiert ist. In unserem Beispiel erzeugen wir einen String mit dem Namen ```Datensatz```, der acht Elemente enthält. Die Zeichen werden in der Reihenfolge von oben nach unten gespeichert, wobei man einen Inhalt, sofern es keine Funktion ist mit "Inhalt" kennzeichnet. Der Inhalt wird dabei im String Datensatz gespeichert. Da wir in unserem Datensatz Zahlen (z.B. Werte für ```temp```) speichern möchten und für alle Variablen den Datentyp ```float``` (einer Gleitkommazahl) definiert hatten, müssen wir, um die Daten in den String aufnehmen zu können, den ```float``` mit der Funktion ```String(temp)``` zu einem String (einer Zeichenkette) machen, da ein String nur Zeichenkette aufnehmen kann. Mit der Funktion ```String()``` werden die Kommata der Zahlen entfert und durch Punkte ersetzt. Vorgehen haben wir bei ```temp```, ```feuchte```, ```druck``` und ```sonne```. Zwischen den 
     
 </td></tr>
 <td>
@@ -272,6 +274,7 @@ Insofern sind wir stolz auf unsere Wetterstation, deren Wetterdaten sogar auf je
 <li>https://de.wikipedia.org/wiki/Spannungsbezeichnung</li>
 <li>https://i2c.info/</li>
 <li>https://www.elektronikpraxis.vogel.de/so-funktioniert-das-serial-peripheral-interface-a-1006985/</li>
+<li>https://www.inf.hs-flensburg.de/lang/prog/string.html</li>
 
 <br><p><b><u>Bildquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
