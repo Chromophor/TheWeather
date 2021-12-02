@@ -197,14 +197,15 @@ if (Zieldatei) {
   Serial.println("Datensatz konnte nicht geschrieben werden");  
   }
 
-delay(6000);
+delay(600000);
 }
 ```
 </td><td>
 <b>Part 7</b>
   
-Nachdem sowohl der String ``Datensatz`` als auch der String ``Zeit`` erstellt wurde, werden beide in unterschiedlichen Zeilen auf dem Seriellen Monitor angezeigt. Mit dem Befehl
-``File Zieldatei = SD.open("temp_log.csv", FILE_WRITE)`` </td></tr>
+Nachdem sowohl der String ``Datensatz`` als auch der String ``Zeit`` erstellt wurde, werden beide in unterschiedlichen Zeilen auf dem Seriellen Monitor angezeigt. Mit dem Befehl ``File Zieldatei = SD.open("temp_log.csv", FILE_WRITE)`` wird die Variable Zieldatei angelegt, die den Wert der Funktion ``SD.open("temp_log.csv", FILE_WRITE)`` erhält. Diese Funktion öffnet die SD-Karte, erstellt eine Datei mit der Bezichnung "temp_log.csv" und erhält den Befehl ``FILE_WRITE``, was bedeutet, dass diese Datei zu schreiben bzw. in diese Datei zu schreiben ist.
+Es folgt eine If-Abfrage mit dem Ziel, festzustellen, ob die Datei ``Zieldatei`` existiert. Sofern die Datei vorhanden ist, wird mit ``Zieldatei.print(Datensatz)`` und ``Zieldatei.println(Zeit)`` beide vorher definierten Strings in die Datei ``temp_log.csv`` geschrieben, wonach die Zieldatei anschließend geschlossen wird, damit keine Daten verloren gehen oder beschädigt werden.
+Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "Datensatz konnte nicht geschrieben werden" angezeigt. Abschließend folgt eine Verzögerung von mit der ``Delay()`` Funktion</td></tr>
 </table>  
 
 <h3 id="Code">5.2. Der Code der Website</h3>
