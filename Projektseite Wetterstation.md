@@ -286,6 +286,7 @@ Insofern sind wir stolz auf unsere Wetterstation, deren Wetterdaten sogar auf je
 
 <br><p><b><u>Bildquellen</u></b></p>
 <li>https://www.arduino.cc/en/reference/board</li>
+<li>https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/</li>
   
   
 <h2 id="kapitel10">10. Eigenständigkeitserklärung</h2>
