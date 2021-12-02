@@ -15,7 +15,7 @@
 Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br></p>
 
 <h2 id="contributors">contributors:</h2>
-<b>@Obeliks003</b> alias Henrik Borman<br>
+<b>@Obeliks003</b> alias Henrik Bormann<br>
 <b>@xxxGernchenxxx</b> alias Gernot Zesch<br>
 <b>@TheMoonlandingV2</b> alias Thorben Heinz<br>
 
