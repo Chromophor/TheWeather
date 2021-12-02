@@ -203,7 +203,8 @@ delay(6000);
 </td><td>
 <b>Part 7</b>
   
-Nachdem sowohl der String ``Datensatz`` als auch der String ``Zeit`` erstellt wurde, werden beide in unterschiedlichen Zeilen auf dem Seriellen Monitor angezeigt. Mit dem Befehl ``File Zieldatei = SD.open("temp_log.csv", FILE_WRITE)`` </td></tr>
+Nachdem sowohl der String ``Datensatz`` als auch der String ``Zeit`` erstellt wurde, werden beide in unterschiedlichen Zeilen auf dem Seriellen Monitor angezeigt. Mit dem Befehl
+``File Zieldatei = SD.open("temp_log.csv", FILE_WRITE)`` </td></tr>
 </table>  
 
 <h3 id="Code">5.2. Der Code der Website</h3>
