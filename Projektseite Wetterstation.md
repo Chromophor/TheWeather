@@ -303,6 +303,8 @@ Ende alle Tage vorhanden.
   </td><td>
   <b>Part 3</b>
     
+    Als letztes werden noch die Diagramme erstellt. Hierfür werden für die Achsen die einzelnen Listen mit der Zeit für die x-Achse und den Messwerten für die y-Achse übergeben. In dem gezeigten Beispiel links sieht man das Diagramm für die Temperatur. Außerdem werden noch die Farbe der ausgefüllten Fläche und des Graphens festgelegt.
+    
   </td></tr>
   <tr><td></td><td>
   <b>Part 4</b>
