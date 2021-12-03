@@ -294,7 +294,6 @@ des Tages mitgegeben. Da die Erstellung eines Tages<br>
   </td><td>
   <b>Part 1</b>
     
-    
     Der Anfang dieser Website ist, wie bereits erwähnt, ähnlich
     zu dem der ersten Website. Die einzige Änderung ist nur, dass
     die Funktion für das Datum bereits hier definiert werden und
@@ -310,8 +309,16 @@ des Tages mitgegeben. Da die Erstellung eines Tages<br>
   </td><td>
   <b>Part 2</b>
     
-    
-    Nachdem die Struktur der Unterseite definiert wurde, werden jetzt alle Daten für das Datum importiert, das beim klicken auf den Link mitgegeben wurde. Als nächstes werden für die verschiedenen Messwerte Listen erstellt und diese Listen im nächsten Schritt mit den jeweiligen Messwerten gefüllt. Diese Listen werden am Ende zur richtigen Erstellung der Diagramme benötigt. Außerdem wird erneut das Datum des Tages mit dem zugehörigen Datum ausgegeben. Anschließend wird noch ein Link erstellt, der einen wieder zur Hauptwebsite leitet.
+    Nachdem die Struktur der Unterseite definiert wurde, werden
+    jetzt alle Daten für das Datum importiert, das beim klicken
+    auf den Link mitgegeben wurde. Als nächstes werden für die 
+    verschiedenen Messwerte Listen erstellt und diese Listen im
+    nächsten Schritt mit den jeweiligen Messwerten gefüllt. 
+    Diese Listen werden am Ende zur richtigen Erstellung der
+    Diagramme benötigt. Außerdem wird erneut das Datum des 
+    Tages mit dem zugehörigen Datum ausgegeben. Anschließend
+    wird noch ein Link erstellt, der einen wieder zur 
+    Hauptwebsite leitet.
     
   </td></tr>
   <tr><td>
@@ -321,7 +328,16 @@ des Tages mitgegeben. Da die Erstellung eines Tages<br>
   </td><td>
   <b>Part 3</b>
     
-    Als letztes werden noch die Diagramme erstellt. Hierfür werden für die Achsen die einzelnen Listen mit der Zeit für die x-Achse und den Messwerten für die y-Achse übergeben. In dem gezeigten Beispiel links sieht man das Diagramm für die Temperatur. Außerdem werden noch die Farbe der ausgefüllten Fläche und des Graphens festgelegt. Abschließend wird noch die Größe des Diagramms definiert und das fertige Diagramm ausgegeben. Um jeweils zwei Graphen am Ende nebeneinander anzeigen zu können, wurden wieder mehrere ``<section>`` genutzt.
+  Als letztes werden noch die Diagramme erstellt. Hierfür
+  werden für die Achsen die einzelnen Listen mit der Zeit
+  für die x-Achse und den Messwerten für die y-Achse 
+  übergeben. In dem gezeigten Beispiel links sieht man
+  das Diagramm für die Temperatur. Außerdem werden noch
+  die Farbe der ausgefüllten Fläche und des Graphens 
+  festgelegt. Abschließend wird noch die Größe des Diagramms
+  definiert und das fertige Diagramm ausgegeben. Um jeweils
+  zwei Graphen am Ende nebeneinander anzeigen zu können,
+  wurden wieder mehrere ``<section>`` genutzt.
     
   </td></tr>
 </table><br>  
