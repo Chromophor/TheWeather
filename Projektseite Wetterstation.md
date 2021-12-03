@@ -256,8 +256,9 @@ sie am Ende nebeneinander angezeigt werden können.<br>
     
 In diesem Teil des Codes werden als erstes alle Messdaten aus der<br>
 Datenbank importiert. Außerdem wurde eine Funktion eingebunden,<br>
-die aus dem Datum den richtigen Wochentag berechnet und in einer Variable<br>
-speichert. Dieser Wochentag wird dann zusammen mit dem jeweiligen Datum<br>
+die aus dem Datum den richtigen Wochentag berechnet und in einer<br>
+Variable speichert. Dieser Wochentag wird dann zusammen mit dem<br>
+jeweiligen Datum<br>
 ausgegeben. Damit nicht jedes Datum so oft erscheint, wie es in der<br>
 Datenbank vorhanden ist, wurden die Messdaten nach Datum gruppiert, so<br>
 dass jedes Datum ein einziges Mal erscheint. Außerdem wird unter jedem<br>
