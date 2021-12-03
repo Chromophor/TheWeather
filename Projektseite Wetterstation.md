@@ -331,6 +331,17 @@ des Tages mitgegeben. Da die Erstellung eines Tages<br>
     
   </td></tr>
 </table><br>  
+  
+<table>
+  <tr><th>Code</th><th>Erklärung</th></tr> 
+<td>
+  <b>Part 4</b>
+    
+    
+    In diesem Code wird ein Formular zum hochladen der Daten erstellt. Als Methode zum schicken an das verarbeitende Programm wird die ``$_POST`` Funktion von Php genutzt. Weather.php ist das Programm, an das die Datei geschickt wird. Als nächstes werden drei verschiedene Felder generiert. In das erste Feld wird die CSV-Datei verschoben, die man hochladen möchte. Das zweite Feld ist ein Button, mit dem man das Hochladen abschließt. Das dritte und letzte Feld ist für das Passwort da, dass man vor dem Bestätigen eingeben muss, da sonst die Messdaten nicht importiert werden.
+    
+  </td></tr>
+</table><br>  
 
 
 <table>
