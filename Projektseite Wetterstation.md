@@ -253,9 +253,9 @@ verlinkt sind, ähnlich.
     
 An dieser Stelle wird die Überschrift der Website und<br>
 der Link zum hochladen neuer Messdaten hinzugefügt.<br>
-Diese sind<br>
-in einer übergeordneten ``<section>`` angeordnet, damit<br>
-sie am Ende nebeneinander angezeigt werden können.<br>
+Diese sind in einer übergeordneten ``<section>`` <br>
+angeordnet, damit sie am Ende nebeneinander angezeigt<br>
+werden können.<br>
     
   </tr>
   <tr><td>
