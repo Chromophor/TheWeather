@@ -259,10 +259,10 @@ Datenbank importiert. Außerdem wurde eine Funktion eingebunden,<br>
 die aus dem Datum den richtigen Wochentag berechnet und in einer<br>
 Variable speichert. Dieser Wochentag wird dann zusammen mit dem<br>
 jeweiligen Datum ausgegeben. Damit nicht jedes Datum so oft<br>
-erscheint, wie es in der<br>
-Datenbank vorhanden ist, wurden die Messdaten nach Datum gruppiert, so<br>
-dass jedes Datum ein einziges Mal erscheint. Außerdem wird unter jedem<br>
-Wochentag ein Link erstellt, der zur Unterseite mit den Graphen weiter<br>
+erscheint, wie es in der Datenbank vorhanden ist, wurden die<br>
+Messdaten nach Datum gruppiert, so dass jedes Datum ein einziges<br>
+Mal erscheint. Außerdem wird unter jedem Wochentag ein Link<br>
+erstellt, der zur Unterseite mit den Graphen weiter<br>
 -leitet. Damit die Graphen aus den Messdaten des ausgewählten Tages<br>
 bestehen, wird beim Klick auf dem Link auch das Datum des Tages <br>
 mitgegeben. Da die Erstellung eines Tages über eine Schleife läuft<br>
