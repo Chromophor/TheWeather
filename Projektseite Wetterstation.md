@@ -245,7 +245,11 @@ verlinkt sind, ähnlich.
   An dieser Stelle wird die Überschrift der Website und der Link zum hochladen neuer Messdaten hinzugefügt. Diese sind in einer übergeordneten ``<section>`` angeordnet, damit sie am Ende nebeneinander angezeigt werden können.
     
   </tr>
-  <tr><td></td><td>
+  <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144597348-e88f1633-efbe-4785-be69-ddbeeb04c37b.png)
+
+    </td><td>
   <b>Part 3</b>
    
     
