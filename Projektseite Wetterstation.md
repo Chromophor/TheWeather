@@ -296,7 +296,11 @@ sind am Ende alle Tage vorhanden.
     Nachdem die Struktur der Unterseite definiert wurde, werden jetzt alle Daten für das Datum importiert, das beim klicken auf den Link mitgegeben wurde. Als nächstes werden für die verschiedenen Messwerte Listen erstellt und diese Listen im nächsten Schritt mit den jeweiligen Messwerten gefüllt. Diese Listen werden am Ende zur richtigen Erstellung der Diagramme benötigt. Außerdem wird erneut das Datum des Tages mit dem zugehörigen Datum ausgegeben. Anschließend wird noch ein Link erstellt, der einen wieder zur Hauptwebsite leitet.
     
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144601746-c7a0067a-b605-41ce-b50c-2221db0f6e24.png)
+
+  </td><td>
   <b>Part 3</b>
     
   </td></tr>
