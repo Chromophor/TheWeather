@@ -267,7 +267,11 @@ Schleife läuft sind am Ende alle Tage vorhanden.
    
     
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144599700-e94b41c9-0d02-4f83-af63-aa806a016235.png)
+
+  </td><td>
   <b>Part 4</b>
     
     
