@@ -71,7 +71,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <b>Part 1</b>
     
     
-Zu Beginn des Sketches werden einige Dinge festgelegt. So wird definiert, dass die Variable SPI_CS den Wert 10 erhält. Außerdem werden Bibliotheken importiert, wie z.B. die Bibliotheken für den Sensor BME280 (<Adafruit_BME280.h>) und die Real-Time-Clock (<DS1307RTC.h>). Benötigt werden aber auch die Bibliotheken für das Data-Logging-Shield (<SD.h>), um mit der SD-Karte kommunizieren zu können. Alle eingesetzten Bibliotheken sind mit ```#include <Bibliothek.h>``` gekennzeichnet.</td></tr>
+Zu Beginn des Sketches werden einige Dinge festgelegt. So wird definiert, dass die Variable SPI_CS den Wert 10 erhält. Außerdem werden Bibliotheken importiert, wie z.B. die Bibliotheken für den Sensor BME280 (``<Adafruit_BME280.h>``) und die Real-Time-Clock (``<DS1307RTC.h>``). Benötigt werden aber auch die Bibliotheken für das Data-Logging-Shield (``<SD.h>``), um mit der SD-Karte kommunizieren zu können. Alle eingesetzten Bibliotheken sind mit ```#include <Bibliothek.h>``` gekennzeichnet.</td></tr>
   <tr><td>
 
 ```
