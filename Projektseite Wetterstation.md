@@ -254,15 +254,15 @@ sie am Ende nebeneinander angezeigt werden können.<br>
   </td><td>
   <b>Part 3</b>
     
-In diesem Teil des Codes werden als erstes alle Messdaten aus der Datenbank importiert.
-Außerdem wurde eine Funktion eingebunden, die aus dem Datum den richtigen Wochentag 
-berechnet und in einer Variable speichert. Dieser Wochentag wird dann zusammen mit
-dem jeweiligen Datum ausgegeben. Damit nicht jedes Datum so oft erscheint, wie es
-in der Datenbank vorhanden ist, wurden die Messdaten nach Datum gruppiert, so das
-jedes Datum ein einziges Mal erscheint. Außerdem wird unter jedem Wochentag ein 
-Link erstellt, der zur Unterseite mit den Graphen weiterleitet. Damit die Graphen
-aus den Messdaten des ausgewählten Tages bestehen, wird beim Klick auf dem Link 
-auch das Datum des Tages mitgegeben. Da die Erstellung eines Tages über eine 
+In diesem Teil des Codes werden als erstes alle Messdaten aus der Datenbank importiert.<br>
+Außerdem wurde eine Funktion eingebunden, die aus dem Datum den richtigen Wochentag<br>
+berechnet und in einer Variable speichert. Dieser Wochentag wird dann zusammen mit<br>
+dem jeweiligen Datum ausgegeben. Damit nicht jedes Datum so oft erscheint, wie es<br>
+in der Datenbank vorhanden ist, wurden die Messdaten nach Datum gruppiert, so das<br>
+jedes Datum ein einziges Mal erscheint. Außerdem wird unter jedem Wochentag ein<br>
+Link erstellt, der zur Unterseite mit den Graphen weiterleitet. Damit die Graphen<br>
+aus den Messdaten des ausgewählten Tages bestehen, wird beim Klick auf dem Link<br>
+auch das Datum des Tages mitgegeben. Da die Erstellung eines Tages über eine<br>
 Schleife läuft sind am Ende alle Tage vorhanden.
    
     
