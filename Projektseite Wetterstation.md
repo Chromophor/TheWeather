@@ -333,6 +333,23 @@ des Tages mitgegeben. Da die Erstellung eines Tages<br>
 </table><br>  
 
 
+<table>
+  <tr><th>Code</th><th>Erklärung</th></tr>
+  <tr><td></td><td>
+  <b>Part 1</b>
+    
+  
+  <tr><td></td><td>
+  <b>Part 2</b>
+    
+  </td><tr>
+  <tr><td></td><td>
+  <b>Part 3</b>
+    
+  </td><tr>
+</table><br>  
+  
+  
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
 
