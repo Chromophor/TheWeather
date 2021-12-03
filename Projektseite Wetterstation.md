@@ -59,7 +59,6 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
     
 ```    
 #define SPI_CS 10
-#define NNLUFTDRUCK_HPA (1013.25)
 
 #include <Wire.h>
 #include <DS1307RTC.h>
@@ -72,14 +71,13 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <b>Part 1</b>
     
     
-Zu Beginn des Sketches werden einige Dinge festgelegt. So wird definiert, dass der Luftdruck über Normal-Null (NN - Meeresspiegel) 1013,25hPa beträgt. Außerdem werden Bibliotheken importiert, wie z.B. die Bibliotheken für den Sensor BME280 und die Real-Time-Clock (DS1307RTC). Benötigt werden aber auch die Bibliotheken für das Data-Logging-Shield (SD.h), um mit der SD-Karte komunizieren zu können. Alle eingesetzten Bibliotheken sind mit ```#include <Bibliothek.h>``` gekennzeichnet.</td></tr>
+Zu Beginn des Sketches werden einige Dinge festgelegt. So wird definiert, dass die Variable SPI_CS den Wert 10 erhält. Außerdem werden Bibliotheken importiert, wie z.B. die Bibliotheken für den Sensor BME280 (<Adafruit_BME280.h>) und die Real-Time-Clock (<DS1307RTC.h>). Benötigt werden aber auch die Bibliotheken für das Data-Logging-Shield (<SD.h>), um mit der SD-Karte kommunizieren zu können. Alle eingesetzten Bibliotheken sind mit ```#include <Bibliothek.h>``` gekennzeichnet.</td></tr>
   <tr><td>
 
 ```
 float temp;
 float feuchte;
 float druck;
-float hohe;
 float sonne = 0;
 
 int sensorPin = A0;
@@ -92,7 +90,7 @@ Adafruit_BME280(bme);
 <b>Part 2</b>
     
     
-Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit, ```druck``` für Luftdruck und ```hohe``` für Höhe über NN als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Kommazahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp ``int`` (Integer), bei dem nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält ebenfalls von Anfang an den Wert 0.
+Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit und ```druck``` für Luftdruck als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Kommazahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp ``int`` (Integer), bei dem nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält ebenfalls von Anfang an den Wert 0.
   <tr><td>
 
 ```
