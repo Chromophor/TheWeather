@@ -393,15 +393,15 @@ body {
 
 <p>CSS-Code für das Styling der Hauptseite</p>
   
-  ![Arduino auf Fensterbank-2](https://user-images.githubusercontent.com/88386279/144589169-252a6652-8c26-4a38-8de8-c0b4eb72e917.jpg)
-
-  ![Arduino auf Fensterbank Seite](https://user-images.githubusercontent.com/88386279/144589206-06d80d02-1b27-45ca-b4a5-a65688537613.jpg)
+  
 
 </details>
   
 <details><summary>Arduino zu Testzwecken auf der Fensterbank</summary>
   
-  
+  ![Arduino auf Fensterbank-2](https://user-images.githubusercontent.com/88386279/144589169-252a6652-8c26-4a38-8de8-c0b4eb72e917.jpg)
+
+  ![Arduino auf Fensterbank Seite](https://user-images.githubusercontent.com/88386279/144589206-06d80d02-1b27-45ca-b4a5-a65688537613.jpg)
   
 </details>
 
