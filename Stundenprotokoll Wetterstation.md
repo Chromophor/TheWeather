@@ -664,8 +664,13 @@ Heute haben wir uns mit denselben Dingen wie gestern weiterbeschäftigt. Leider 
  
 ![Passwort](https://user-images.githubusercontent.com/88386049/144190139-808b971b-a5b3-4f8e-b3e3-f80a9d1fea12.JPG)
 <p>Der Passwortschutz unserer Upload-Website</p>
+  
+![jejrghr 1738](https://user-images.githubusercontent.com/88386279/144591742-e9a82226-17dc-4e92-8941-e959426ec60f.PNG)
+<p>Bei Falscheingabe des Passworts erscheint eine Verlinkung zur Hauptseite</p>
 
 </details>
+  
+
   
 <p id="Stunde42"><b>Mittwoch 01.12.2021</b><br>
   An diesem Tag haben wir das Stundenprotokoll auf Rechtschreibfehler überpüft. Dazu haben wir den Text in Microsoft Word kopiert und mit der automatischen Rechtschreiberkennung den Text auf Fehler überprüft. Nun konnten wir einfach die Fehler direkt bei Word sehen und konnten auf dem zweiten Monitor im Bearbeitungsbereich bei GitHub die Kleinigkeiten beheben. Weiterhin haben wir an der Website ein Hintergrundbild auch auf der Seite der Diagramme "eingebaut" und die Projektseite weiter vervolltändigt. Auf der Detailsseite haben wir auch einen "Zurückbutton" hinzugefüg. Zum Ende der Stunde haben wir einen Testlauf auch auf der globalen Website gemacht, damit wir sicher gehen können, dass die Sachen, die auf der lokalen Website funktionieren auch auf der globalen Website einwandfrei funktionieren. Ebenfalls haben wir mit der Erklärung des Sketches in Form einer Tabelle begonnen.</p>
