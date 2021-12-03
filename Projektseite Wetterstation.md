@@ -311,7 +311,11 @@ Ende alle Tage vorhanden.
     Als letztes werden noch die Diagramme erstellt. Hierfür werden für die Achsen die einzelnen Listen mit der Zeit für die x-Achse und den Messwerten für die y-Achse übergeben. In dem gezeigten Beispiel links sieht man das Diagramm für die Temperatur. Außerdem werden noch die Farbe der ausgefüllten Fläche und des Graphens festgelegt. Abschließend wird noch die Größe des Diagramms definiert und das fertige Diagramm ausgegeben. Um jeweils zwei Graphen am Ende nebeneinander anzeigen zu können, wurden wieder mehrere ``<section>`` genutzt.
     
   </td></tr>
-  <tr><td></td><td>
+  <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144604250-642762af-6f4c-4ea5-ba7d-c7dc0f24de2d.png)
+
+  </td><td>
   <b>Part 4</b>
     
   </td></tr>
