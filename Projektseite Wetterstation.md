@@ -235,8 +235,8 @@ verlinkt sind, ähnlich.
   </td></tr>
   <tr><td>
     
-![image](https://user-images.githubusercontent.com/88386045/144595449-0568097d-ac1a-4631-8415-a25efffab7de.png)
-
+ ![image](https://user-images.githubusercontent.com/88386045/144595449-0568097d-ac1a-4631-8415-a25efffab7de.png)
+    
     </td><td>
   <b>Part 2</b>
   
