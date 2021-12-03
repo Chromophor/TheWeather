@@ -251,8 +251,9 @@ verlinkt sind, ähnlich.
   <b>Part 2</b>
     
     
-An dieser Stelle wird die Überschrift der Website und der<br>
-Link zum hochladen neuer Messdaten hinzugefügt. Diese sind<br>
+An dieser Stelle wird die Überschrift der Website und<br>
+der Link zum hochladen neuer Messdaten hinzugefügt.<br>
+Diese sind<br>
 in einer übergeordneten ``<section>`` angeordnet, damit<br>
 sie am Ende nebeneinander angezeigt werden können.<br>
     
