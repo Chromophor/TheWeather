@@ -270,11 +270,12 @@ aus der Datenbank importiert. Außerdem wurde eine<br>
 Funktion eingebunden, die aus dem Datum den richtigen<br>
 Wochentag berechnet und in einer Variable speichert.<br>
 Dieser Wochentag wird dann zusammen mit dem<br>
-jeweiligen Datum ausgegeben. Damit nicht jedes Datum so oft<br>
-erscheint, wie es in der Datenbank vorhanden ist, wurden die<br>
-Messdaten nach Datum gruppiert, so dass jedes Datum ein einziges<br>
-Mal erscheint. Außerdem wird unter jedem Wochentag ein Link<br>
-erstellt, der zur Unterseite mit den Graphen weiterleitet. Damit<br>
+jeweiligen Datum ausgegeben. Damit nicht jedes Datum<br>
+so oft erscheint, wie es in der Datenbank vorhanden<br>
+ist, wurden die Messdaten nach Datum gruppiert, so<br>
+dass jedes Datum ein einziges Mal erscheint.<br>
+Außerdem wird unter jedem Wochentag ein Link erstellt,<br>
+der zur Unterseite mit den Graphen weiterleitet. Damit<br>
 die Graphen aus den Messdaten des ausgewählten Tages bestehen,<br>
 wird beim Klick auf dem Link auch das Datum des Tages mitgegeben.<br>
 Da die Erstellung eines Tages über eine Schleife läuft sind am<br>
