@@ -47,9 +47,10 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 ![image](https://user-images.githubusercontent.com/88386279/143065426-348fc24d-6b4b-4d36-9cef-06faa7419625.jpeg)
   
-<p>Im Folgenden sind Bilder vom fertigen Projekt zu sehen. Im Schornstein ist der Lichtsensor untergebracht und im Inneren des Gehäuses alle anderen Sensoren und der Arduino.   
+<p>Im Folgenden sind Bilder vom fertigen Projekt zu sehen. Im Schornstein ist der Lichtsensor untergebracht und im Inneren des Gehäuses alle anderen Sensoren und der Arduino.</p>   
   
-
+![IMG_8038](https://user-images.githubusercontent.com/88386279/144604790-0b6ab7f5-7f52-423a-8f80-b7fb04ed5511.jpg)
+  
 ![Dach mit Schornstein](https://user-images.githubusercontent.com/88386279/144604075-855366d7-119e-4c51-8f44-8f82537c08f0.jpg)  
 
 ![Öffnung](https://user-images.githubusercontent.com/88386279/144604460-33797cac-b2a4-40fe-bbb6-6be188294cb4.jpg)
