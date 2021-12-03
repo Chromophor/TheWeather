@@ -335,7 +335,11 @@ des Tages mitgegeben. Da die Erstellung eines Tages<br>
 
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
-  <tr><td></td><td>
+  <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144607353-e283a63f-ea79-4b30-925a-6349ebeaea23.png)
+
+  </td><td>
   <b>Part 1</b>
     
   
