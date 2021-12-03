@@ -218,7 +218,17 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 
   </td><td>
   <b>Part 1</b>
-    Am Anfang des Codes für die Hauptseite wird ein Zugang zur Datenbank hergestellt, damit die Daten angezeigt werden können. Als nächstes wird der Zeichensatz definiert, mit dem der Code ausgelesen wird. Außerdem werden noch verschiedene strukturelle Dinge definiert, wie der Titel der Website, die Anzeige auf verschiedenen Geräten, die Verlinkung zum Stylesheet und das Hintergrundbild der Website. Dieser Code ist auf allen unterschiedlichen Websites, die auf der Hauptwebsite verlinkt sind, ähnlich.
+
+Am Anfang des Codes für die Hauptseite wird ein Zugang
+zur Datenbank hergestellt, damit die Daten angezeigt 
+werden können. Als nächstes wird der Zeichensatz 
+definiert, mit dem der Code ausgelesen wird. Außerdem
+werden noch verschiedene strukturelle Dinge definiert,
+wie der Titel der Website, die Anzeige auf verschiedenen
+Geräten, die Verlinkung zum Stylesheet und das 
+Hintergrundbild der Website. Dieser Code ist auf allen
+unterschiedlichen Websites, die auf der Hauptwebsite 
+verlinkt sind, ähnlich.
     
   </td></tr>
   <tr><td></td><td>
