@@ -675,6 +675,9 @@ Heute haben wir uns mit denselben Dingen wie gestern weiterbeschäftigt. Leider 
 <p id="Stunde42"><b>Mittwoch 01.12.2021</b><br>
   An diesem Tag haben wir das Stundenprotokoll auf Rechtschreibfehler überpüft. Dazu haben wir den Text in Microsoft Word kopiert und mit der automatischen Rechtschreiberkennung den Text auf Fehler überprüft. Nun konnten wir einfach die Fehler direkt bei Word sehen und konnten auf dem zweiten Monitor im Bearbeitungsbereich bei GitHub die Kleinigkeiten beheben. Weiterhin haben wir an der Website ein Hintergrundbild auch auf der Seite der Diagramme "eingebaut" und die Projektseite weiter vervolltändigt. Auf der Detailsseite haben wir auch einen "Zurückbutton" hinzugefüg. Zum Ende der Stunde haben wir einen Testlauf auch auf der globalen Website gemacht, damit wir sicher gehen können, dass die Sachen, die auf der lokalen Website funktionieren auch auf der globalen Website einwandfrei funktionieren. Ebenfalls haben wir mit der Erklärung des Sketches in Form einer Tabelle begonnen.</p>
   
+  <p id="Stunde43"><b>Freiag 03.12.2021</b><br>
+    Da wir am Donnerstag mit unserer Sprechprüfung in Englisch schon alle an der Reihe waren und Freitag auch frei hatten, konnten wir uns bei Gernot treffen und die letzten Schritte zum fertigen Projekt zusammen erledigen. So haben wir zum Beispiel einige Bilder im Stundenprotokoll eingefügt, die letzten Schreibfehler behoben und darauf geachtet, dass alles stringend und verständlich dargestellt ist. Ebenso haben wir auf der Projektseite die letzten Texte fertiggestellt und weitere Bilder eingefügt. Zu guter Letzt haben wir den Arduino mit Breadboard und Sensoren im vorgefertigten Häuschen eingebaut und noch letzte Fotos gemacht.</p>
+  
   
 <h2 id="kapitel3">3. Materialien</a></h2>
 
