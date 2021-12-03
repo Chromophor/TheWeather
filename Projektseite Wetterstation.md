@@ -209,6 +209,19 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 </table>  
 
 <h3 id="Code">5.2. Der Code der Website</h3>
+    
+<table>
+  <tr><th>Code</th><th>Erklärung</th></tr>
+  <tr><td></td><td>
+  <b>Part 1</b>
+    
+    
+  </td></tr>
+  <tr><td>Schwarze Jumper-Kabel</td><td>GND</td><td>GND</td></tr>
+  <tr><td>Grüne Jumper-Kabel</td><td>SCL</td><td>A5</td></tr>
+  <tr><td>Gelbe Jumper-Kabel</td><td>OUT</td><td>A0</td></tr>
+  <tr><td>Blaue Jumper-Kabel</td><td>SDA</td><td>A4</td></tr>
+</table><br>
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
