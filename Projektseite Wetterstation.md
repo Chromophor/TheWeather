@@ -265,10 +265,11 @@ werden können.<br>
   </td><td>
   <b>Part 3</b>
     
-In diesem Teil des Codes werden als erstes alle Messdaten aus der<br>
-Datenbank importiert. Außerdem wurde eine Funktion eingebunden,<br>
-die aus dem Datum den richtigen Wochentag berechnet und in einer<br>
-Variable speichert. Dieser Wochentag wird dann zusammen mit dem<br>
+In diesem Teil des Codes werden als erstes alle Messdaten<br>
+aus der Datenbank importiert. Außerdem wurde eine Funktion<br>
+eingebunden, die aus dem Datum den richtigen Wochentag<br>
+berechnet und in einer Variable speichert. Dieser Wochentag<br>
+wird dann zusammen mit dem<br>
 jeweiligen Datum ausgegeben. Damit nicht jedes Datum so oft<br>
 erscheint, wie es in der Datenbank vorhanden ist, wurden die<br>
 Messdaten nach Datum gruppiert, so dass jedes Datum ein einziges<br>
