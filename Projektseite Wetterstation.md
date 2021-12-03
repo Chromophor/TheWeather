@@ -256,14 +256,16 @@ sie am Ende nebeneinander angezeigt werden können.<br>
     
 In diesem Teil des Codes werden als erstes alle Messdaten aus der<br>
 Datenbank importiert. Außerdem wurde eine Funktion eingebunden, die<br>
-aus dem Datum den richtigen Wochentag berechnet und in einer Variable speichert. Dieser Wochentag wird dann zusammen mit<br>
-dem jeweiligen Datum ausgegeben. Damit nicht jedes Datum so oft erscheint, wie es<br>
-in der Datenbank vorhanden ist, wurden die Messdaten nach Datum gruppiert, so das<br>
-jedes Datum ein einziges Mal erscheint. Außerdem wird unter jedem Wochentag ein<br>
-Link erstellt, der zur Unterseite mit den Graphen weiterleitet. Damit die Graphen<br>
-aus den Messdaten des ausgewählten Tages bestehen, wird beim Klick auf dem Link<br>
-auch das Datum des Tages mitgegeben. Da die Erstellung eines Tages über eine<br>
-Schleife läuft sind am Ende alle Tage vorhanden.
+aus dem Datum den richtigen Wochentag berechnet und in einer Variable<br>
+speichert. Dieser Wochentag wird dann zusammen mit dem jeweiligen Datum<br>
+ausgegeben. Damit nicht jedes Datum so oft erscheint, wie es in der<br>
+Datenbank vorhanden ist, wurden die Messdaten nach Datum gruppiert, so<br>
+dass jedes Datum ein einziges Mal erscheint. Außerdem wird unter jedem<br>
+Wochentag ein Link erstellt, der zur Unterseite mit den Graphen weiter<br>
+-leitet. Damit die Graphen aus den Messdaten des ausgewählten Tages<br>
+bestehen, wird beim Klick auf dem Link auch das Datum des Tages <br>
+mitgegeben. Da die Erstellung eines Tages über eine Schleife läuft<br>
+sind am Ende alle Tage vorhanden.
    
     
   </td></tr>
