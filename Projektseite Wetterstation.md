@@ -209,6 +209,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 </table>  
 
 <h3 id="Code">5.2. Der Code der Website</h3>
+
+<p><b>Erklärung des Quellcodes für die Hauptwebsite</b></p>
     
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -220,9 +222,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   <b>Part 1</b>
 
 
-Am Anfang des Codes für die Hauptseite wird ein Zugang
-
-zur Datenbank hergestellt, damit die Daten angezeigt
+Am Anfang des Codes für die Hauptseite wird ein Zugang zur Datenbank hergestellt, damit die Daten angezeigt
 werden können. Als nächstes wird der Zeichensatz <br>
 definiert, mit dem der Code ausgelesen wird. Außerdem<br>
 werden noch verschiedene strukturelle Dinge definiert,<br>
