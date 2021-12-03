@@ -220,7 +220,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   <b>Part 1</b>
 
 Am Anfang des Codes für die Hauptseite wird ein Zugang<br>
-zur Datenbank hergestellt, damit die Daten angezeigt
+zur Datenbank hergestellt, damit die Daten angezeigt<br>
 werden können. Als nächstes wird der Zeichensatz <br>
 definiert, mit dem der Code ausgelesen wird. Außerdem<br>
 werden noch verschiedene strukturelle Dinge definiert,<br>
