@@ -217,10 +217,25 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     
     
   </td></tr>
-  <tr><td>Schwarze Jumper-Kabel</td><td>GND</td><td>GND</td></tr>
-  <tr><td>Grüne Jumper-Kabel</td><td>SCL</td><td>A5</td></tr>
-  <tr><td>Gelbe Jumper-Kabel</td><td>OUT</td><td>A0</td></tr>
-  <tr><td>Blaue Jumper-Kabel</td><td>SDA</td><td>A4</td></tr>
+  <tr><td></td><td>
+  <b>Part 2</b>
+  
+  </tr>
+  <tr><td></td><td>
+  <b>Part 3</b>
+   
+    
+  </td></tr>
+  <tr><td></td><td>
+  <b>Part 4</b>
+    
+    
+  </td></tr>
+  <tr><td></td><td>
+  <b>Part 5</b>
+   
+    
+  </td></tr>
 </table><br>
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
