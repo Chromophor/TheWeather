@@ -262,11 +262,11 @@ jeweiligen Datum ausgegeben. Damit nicht jedes Datum so oft<br>
 erscheint, wie es in der Datenbank vorhanden ist, wurden die<br>
 Messdaten nach Datum gruppiert, so dass jedes Datum ein einziges<br>
 Mal erscheint. Außerdem wird unter jedem Wochentag ein Link<br>
-erstellt, der zur Unterseite mit den Graphen weiter<br>
--leitet. Damit die Graphen aus den Messdaten des ausgewählten Tages<br>
-bestehen, wird beim Klick auf dem Link auch das Datum des Tages <br>
-mitgegeben. Da die Erstellung eines Tages über eine Schleife läuft<br>
-sind am Ende alle Tage vorhanden.
+erstellt, der zur Unterseite mit den Graphen weiterleitet. Damit<br>
+die Graphen aus den Messdaten des ausgewählten Tages bestehen,<br>
+wird beim Klick auf dem Link auch das Datum des Tages mitgegeben.<br>
+Da die Erstellung eines Tages über eine Schleife läuft sind am<br>
+Ende alle Tage vorhanden.
    
     
   </td></tr>
