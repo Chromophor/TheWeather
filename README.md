@@ -24,3 +24,5 @@ Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br></p
 >"Jetzt haben wir ein Problem!"
 
 >"Da ist was falsch, das Datum ist 20.17.2000."
+
+>"Achtung, ich gehe jetzt ins Stundenprotokoll!"   "Warte, da bin ich gerade drin"
