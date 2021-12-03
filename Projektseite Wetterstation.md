@@ -279,8 +279,7 @@ der zur Unterseite mit den Graphen weiterleitet. Damit<br>
 die Graphen aus den Messdaten des ausgewählten Tages<br>
 bestehen, wird beim Klick auf dem Link auch das Datum<br>
 des Tages mitgegeben. Da die Erstellung eines Tages<br>
-über eine Schleife läuft sind am Ende alle Tage<br>
-vorhanden.
+über eine Schleife läuft sind am Ende alle Tage vorhanden.
    
     
   </td></tr>
