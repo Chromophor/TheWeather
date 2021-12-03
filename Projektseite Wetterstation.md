@@ -246,9 +246,9 @@ verlinkt sind, ähnlich.
   </tr>
   <tr><td>
     
- ![image](https://user-images.githubusercontent.com/88386045/144597348-e88f1633-efbe-4785-be69-ddbeeb04c37b.png)
+ ![image](https://user-images.githubusercontent.com/88386045/144597680-f67f9b82-6f54-4584-9bf9-7f999dd51492.png)
 
-    </td><td>
+  </td><td>
   <b>Part 3</b>
    
     
