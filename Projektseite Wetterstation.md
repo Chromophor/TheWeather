@@ -319,23 +319,16 @@ des Tages mitgegeben. Da die Erstellung eines Tages<br>
     Als letztes werden noch die Diagramme erstellt. Hierfür werden für die Achsen die einzelnen Listen mit der Zeit für die x-Achse und den Messwerten für die y-Achse übergeben. In dem gezeigten Beispiel links sieht man das Diagramm für die Temperatur. Außerdem werden noch die Farbe der ausgefüllten Fläche und des Graphens festgelegt. Abschließend wird noch die Größe des Diagramms definiert und das fertige Diagramm ausgegeben. Um jeweils zwei Graphen am Ende nebeneinander anzeigen zu können, wurden wieder mehrere ``<section>`` genutzt.
     
   </td></tr>
-  <tr><td>
-    
- ![image](https://user-images.githubusercontent.com/88386045/144604250-642762af-6f4c-4ea5-ba7d-c7dc0f24de2d.png)
-
-  </td><td>
-  <b>Part 4</b>
-    
-    
-    In diesem Code wird ein Formular zum hochladen der Daten erstellt. Als Methode zum schicken an das verarbeitende Programm wird die ``$_POST`` Funktion von Php genutzt. Weather.php ist das Programm, an das die Datei geschickt wird. Als nächstes werden drei verschiedene Felder generiert. In das erste Feld wird die CSV-Datei verschoben, die man hochladen möchte. Das zweite Feld ist ein Button, mit dem man das Hochladen abschließt. Das dritte und letzte Feld ist für das Passwort da, dass man vor dem Bestätigen eingeben muss, da sonst die Messdaten nicht importiert werden.
-    
-  </td></tr>
 </table><br>  
   
 <table>
-  <tr><th>Code</th><th>Erklärung</th></tr> 
-<td>
-  <b>Part 4</b>
+ <tr><th>Code</th><th>Erklärung</th></tr> 
+ <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144604250-642762af-6f4c-4ea5-ba7d-c7dc0f24de2d.png)
+
+ </td><td>
+ <b>Part 1</b>
     
     
     In diesem Code wird ein Formular zum hochladen der Daten erstellt. Als Methode zum schicken an das verarbeitende Programm wird die ``$_POST`` Funktion von Php genutzt. Weather.php ist das Programm, an das die Datei geschickt wird. Als nächstes werden drei verschiedene Felder generiert. In das erste Feld wird die CSV-Datei verschoben, die man hochladen möchte. Das zweite Feld ist ein Button, mit dem man das Hochladen abschließt. Das dritte und letzte Feld ist für das Passwort da, dass man vor dem Bestätigen eingeben muss, da sonst die Messdaten nicht importiert werden.
