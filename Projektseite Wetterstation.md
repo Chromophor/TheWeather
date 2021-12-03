@@ -276,6 +276,9 @@ sind am Ende alle Tage vorhanden.
   <tr><td></td><td>
   <b>Part 1</b>
     
+    
+    Der Anfang dieser Website ist, wie bereits erwähnt, ähnlich zu dem der ersten Website. Die einzige Änderung ist nur, dass die Funktion für das Datum bereits hier definiert werden und zwei Dateien zur  richtigen Erstellung der Diagramme eingebunden werden. Außerdem wird das mit dem Link mitgegebene Datum in einer diesbezüglichen Variable.
+    
   </td></tr>
   <tr><td>
     
