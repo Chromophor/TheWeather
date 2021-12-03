@@ -274,7 +274,11 @@ sind am Ende alle Tage vorhanden.
   
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
-  <tr><td></td><td>
+  <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144601500-a5d2b008-3ea3-4213-85e9-f645d5105f17.png)
+
+  </td><td>
   <b>Part 1</b>
     
     
