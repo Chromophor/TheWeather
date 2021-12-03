@@ -90,8 +90,8 @@ Adafruit_BME280(bme);
 <b>Part 2</b>
     
     
-Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit und ```druck``` für Luftdruck als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Kommazahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp ``int`` (Integer), bei dem nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält ebenfalls von Anfang an den Wert 0.
-  <tr><td>
+Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit und ```druck``` für Luftdruck als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Dezimalzahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp ``int`` (Integer), der nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält ebenfalls von Anfang an den Wert 0.
+<tr><td>
 
 ```
 void setup() {
@@ -119,10 +119,10 @@ Serial.println("Erfolgreich intialisiert");
 <b>Part 3</b>
     
     
-In ```void setup()``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup()``` Funktion wird jedes mal beim Aufrufen des Sketches ein einziges Mal gestartet. Mit ```Serial.begin(9600)``` wird die serielle Schnittstelle geöffnet und die Datenrate auf 9600 Bit/s eingestellt. Über diese Schnittstelle lassen sich Daten in der Arduino IDE auf dem seriellen Monitor anzeigen. Mit der Funktion ```setSyncProvider(RTC.get)``` wird die Uhrzeit-Abfrage der Real-Time-Clock intialisiert.
+In ```void setup()``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup()``` Funktion wird jedes mal beim Aufrufen des Sketches ein einziges Mal gestartet. Mit ```Serial.begin(9600)``` wird die serielle Schnittstelle geöffnet und die Datenrate auf 9600 Bit/s eingestellt. Über diese Schnittstelle lassen sich Daten in der Arduino IDE auf dem seriellen Monitor anzeigen, womit wir am Anfang einer Messreihe überprüfen, ob die Kabel korrekt angeschlossen sind. Mit der Funktion ```setSyncProvider(RTC.get)``` wird die Uhrzeit-Abfrage der Real-Time-Clock intialisiert.
     
 Anschließend wird mit einer If-Abfrage geprüft, ob der BME280 angeschlossen ist. Sofern die Funktion ```bme.begin(0x76)``` einen falschen Wert zurück gibt, wird auf dem seriellen Monitor "Kein BME280 angeschlossen! Prüfe die Kabel" angezeigt, damit man die Anschlüsse überprüfen kann. Wenn kein BME280 angeschlossen ist,  wird die Funktion nicht beendet, weil eine ```while(1)``` Schleife eingefügt ist. Nachdem man die Anschlüsse überprüft hat, muss man den Sketch neu starten.
-Wenn der Sensor angeschlossen ist, wird auf dem Seriellen Monitor "SD-Karte intialisieren" angezeigt. Es wird in der folgenden Funktion eine If-Abfrage gestartet, wo geprüft wird, ob die SD-Karte lesbar und beschreibbar ist. Wenn die Funktion ```SD.begin(SPI_CS)``` einen ungültigen Wert zurückgibt, wird auf dem Seriellen Monitor "SD-Karte nicht lesbar! Überprüfe die SD-Karte!" angezeigt. Falls die SD-Karte richtig eingelegt ist, wird die If-Abfrage verlassen und duf dem Seriellen Monitor wird "Erfolgreich intialisiert" gezeigt.
+Wenn der Sensor angeschlossen ist, wird auf dem Seriellen Monitor "SD-Karte intialisieren" angezeigt. Es wird in der folgenden Funktion eine If-Abfrage gestartet, wo geprüft wird, ob die SD-Karte lesbar und beschreibbar ist. Wenn die Funktion ```SD.begin(SPI_CS)``` einen ungültigen Wert zurückgibt, wird auf dem Seriellen Monitor "SD-Karte nicht lesbar! Überprüfe die SD-Karte!" angezeigt. Falls die SD-Karte richtig eingelegt ist, wird die If-Abfrage verlassen und duf dem Seriellen Monitor wird "Erfolgreich intialisiert" angezeigt.
 </td></tr>
 <td>
     
