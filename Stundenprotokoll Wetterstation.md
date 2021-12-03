@@ -397,7 +397,7 @@ body {
 
 </details>
   
-<details><summary>Arduino zu Testzwecken auf der Fensterbank</summary>
+<details><summary>Arduino für eine Messreihe auf der Fensterbank</summary>
   
   ![Arduino auf Fensterbank-2](https://user-images.githubusercontent.com/88386279/144589169-252a6652-8c26-4a38-8de8-c0b4eb72e917.jpg)
 
