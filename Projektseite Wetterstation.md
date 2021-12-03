@@ -214,20 +214,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   <tr><th>Code</th><th>Erklärung</th></tr>
   <tr><td>
     
+![image](https://user-images.githubusercontent.com/88386045/144592265-af362c9c-a662-4bdc-b447-17b4404a238f.png)    
     
-``    <?php $pdo = new PDO('mysql:host=localhost;dbname=the_weather', 'root', '');?>
-
-<head>
-    <meta charset="utf-8">
-    <title>The Weather</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-
-    <link href="css/style.css" rel="stylesheet">
-
-    <body style="background-image:url(hintergrund.jpg)" class="hintergrund">
-
-</head>
-``
     </td><td>
   <b>Part 1</b>
     
