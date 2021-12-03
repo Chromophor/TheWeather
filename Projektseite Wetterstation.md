@@ -201,8 +201,10 @@ delay(600000);
 </td><td>
 <b>Part 7</b>
   
-Nachdem sowohl der String ``Datensatz`` als auch der String ``Zeit`` erstellt wurde, werden beide in unterschiedlichen Zeilen auf dem Seriellen Monitor angezeigt. Mit dem Befehl ``File Zieldatei = SD.open("temp_log.csv", FILE_WRITE)`` wird die Variable Zieldatei angelegt, die den Wert der Funktion ``SD.open("temp_log.csv", FILE_WRITE)`` erhält. Diese Funktion öffnet die SD-Karte, erstellt eine Datei mit der Bezichnung "temp_log.csv" und erhält den Befehl ``FILE_WRITE``, was bedeutet, dass diese Datei zu schreiben bzw. in diese Datei zu schreiben ist.
-Es folgt eine If-Abfrage mit dem Ziel, festzustellen, ob die Datei ``Zieldatei`` existiert. Sofern die Datei vorhanden ist, wird mit ``Zieldatei.print(Datensatz)`` und ``Zieldatei.println(Zeit)`` beide vorher definierten Strings in die Datei ``temp_log.csv`` geschrieben, wonach die Zieldatei anschließend geschlossen wird, damit keine Daten verloren gehen oder beschädigt werden.
+Nachdem sowohl der String ``Datensatz`` als auch der String ``Zeit`` erstellt wurde, werden beide in unterschiedlichen Zeilen auf dem Seriellen Monitor angezeigt. Mit dem Befehl ``File Zieldatei = SD.open("temp_log.csv", FILE_WRITE)`` wird die Variable Zieldatei angelegt, die den Wert der Funktion ``SD.open("temp_log.csv", FILE_WRITE)`` erhält. Diese Funktion öffnet die SD-Karte, erstellt eine Datei mit der Bezeichnung "temp_log.csv" und erhält den Befehl ``FILE_WRITE``, was bedeutet, dass diese Datei zu schreiben bzw. in diese Datei zu schreiben ist.
+
+Es folgt eine If-Abfrage mit dem Ziel, festzustellen, ob die Datei ``Zieldatei`` existiert. Sofern die Datei vorhanden ist, werden mit ``Zieldatei.print(Datensatz)`` und ``Zieldatei.println(Zeit)`` beide vorher definierten Strings in die Datei ``temp_log.csv`` geschrieben, wonach die Zieldatei anschließend geschlossen wird, damit keine Daten verloren gehen oder beschädigt werden.
+  
 Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "Datensatz konnte nicht geschrieben werden" angezeigt. Abschließend folgt eine Verzögerung von 10 Minuten (umgerechnet in Milisekunden = 600000, da die Delay-Funktion nur Milisekunden als Argument annimmt) mit der ``delay()`` Funktion, da alle 10 Minuten Werte von der Wetterstation auf der SD-Karte gespeichert werden sollen.</td></tr>
 </table>  
 
