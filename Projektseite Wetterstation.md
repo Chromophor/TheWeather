@@ -222,9 +222,9 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   <b>Part 1</b>
 
 
-Am Anfang des Codes für die Hauptseite wird ein Zugang zur<br>
-Datenbank hergestellt, damit die Daten angezeigt<br>
-werden können. Als nächstes wird der Zeichensatz <br>
+Am Anfang des Codes für die Hauptseite wird ein Zugang zur Datenbank<br>
+hergestellt, damit die Daten angezeigt werden können. Als nächstes<br>
+wird der Zeichensatz <br>
 definiert, mit dem der Code ausgelesen wird. Außerdem<br>
 werden noch verschiedene strukturelle Dinge definiert,<br>
 wie der Titel der Website, die Anzeige auf verschiedenen<br>
