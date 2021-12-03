@@ -282,6 +282,27 @@ Schleife läuft sind am Ende alle Tage vorhanden.
     
   </td></tr>
 </table><br>
+  
+<table>
+  <tr><th>Code</th><th>Erklärung</th></tr>
+  <tr><td></td><td>
+  <b>Part 1</b>
+    
+  </td></tr>
+  <tr><td></td><td>
+  <b>Part 2</b>
+    
+  </td></tr>
+  <tr><td></td><td>
+  <b>Part 3</b>
+    
+  </td></tr>
+  <tr><td></td><td>
+  <b>Part 4</b>
+    
+  </td></tr>
+</table><br>  
+
 
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
