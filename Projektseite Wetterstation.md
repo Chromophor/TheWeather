@@ -240,7 +240,10 @@ verlinkt sind, ähnlich.
     
     </td><td>
   <b>Part 2</b>
-  
+    
+    
+  An dieser Stelle wird die Überschrift der Website und der Link zum hochladen neuer Messdaten hinzugefügt. Diese sind in einer übergeordneten ``<section>`` angeordnet, damit sie am Ende nebeneinander angezeigt werden können.
+    
   </tr>
   <tr><td></td><td>
   <b>Part 3</b>
