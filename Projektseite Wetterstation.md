@@ -222,7 +222,6 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 Am Anfang des Codes für die Hauptseite wird ein Zugang
 
 zur Datenbank hergestellt, damit die Daten angezeigt
-
 werden können. Als nächstes wird der Zeichensatz <br>
 definiert, mit dem der Code ausgelesen wird. Außerdem<br>
 werden noch verschiedene strukturelle Dinge definiert,<br>
@@ -241,10 +240,10 @@ verlinkt sind, ähnlich.
   <b>Part 2</b>
     
     
-An dieser Stelle wird die Überschrift der Website und der
-Link zum hochladen neuer Messdaten hinzugefügt. Diese sind
-in einer übergeordneten ``<section>`` angeordnet, damit
-sie am Ende nebeneinander angezeigt werden können.
+An dieser Stelle wird die Überschrift der Website und der<br>
+Link zum hochladen neuer Messdaten hinzugefügt. Diese sind<br>
+in einer übergeordneten ``<section>`` angeordnet, damit<br>
+sie am Ende nebeneinander angezeigt werden können.<br>
     
   </tr>
   <tr><td>
