@@ -231,7 +231,6 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   </td><td>
   <b>Part 1</b>
 
-
 Am Anfang des Codes für die Hauptseite wird ein Zugang zur<br>
 Datenbank hergestellt, damit die Daten angezeigt werden<br>
 können. Als nächstes wird der Zeichensatz <br>
