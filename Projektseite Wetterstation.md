@@ -350,7 +350,11 @@ des Tages mitgegeben. Da die Erstellung eines Tages<br>
     Das Programm ist das, an das die hochgeladene CSV-Datei geschickt wird. Am Anfang wird das Passwort, das eingegeben wurde in einer hierfür erstellten Variable gespeichert. Anschließend wird eine if-Schleife erstellt, die nur gestartet wird, wenn das eingegebene Passwort gleich dem vergebenen Passwort ist. Wenn dies der Fall ist wird in der if-Schleife ein Zugang zur Datenbank hergestellt, in die die Messwerte aus der Tabelle am Ende importiert werden sollen.
     
   
-  <tr><td></td><td>
+  <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144608107-2800d088-349c-43d8-bfc4-b3c5b5ff7101.png)
+
+  </td><td>
   <b>Part 2</b>
     
   </td><tr>
