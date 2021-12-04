@@ -311,7 +311,7 @@ Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript einges
     Der Anfang dieser Website ist, wie bereits erwähnt, ähnlich
     zu dem der ersten Website. Die einzige Änderung ist nur, dass
     die Funktion für das Datum bereits hier definiert werden und
-    zwei JavaScript-Dateien zur  richtigen Erstellung der Diagramme 
+    zwei JavaScript-Dateien zur richtigen Erstellung der Diagramme 
     eingebunden werden. Da die Diagramme aus den Messwerten flexibel
     generiert werden, ist hier JavaScript notwendig, da HTML nur für
     statische Elemente funktioniert. Außerdem wird das mit dem Link
@@ -371,8 +371,8 @@ Das Uploadformular wurde mit Php programmiert.</p>
  <b>Part 1</b>
     
     
-    In diesem Code wird ein Formular zum hochladen der Daten
-    erstellt. Als Methode zum schicken an das verarbeitende 
+    In diesem Code wird ein Formular zum Hochladen der Daten
+    erstellt. Als Methode zum Schicken an das verarbeitende 
     Programm wird die $_POST Funktion von Php genutzt. 
     Weather.php ist das Programm, an das die Datei geschickt
     wird. Als nächstes werden drei verschiedene Felder generiert.
@@ -399,8 +399,8 @@ Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p
   <b>Part 1</b>
     
     
-    Das Programm ist das, an das die hochgeladene CSV-Datei geschickt
-    wird. Am Anfang wird das Passwort, das eingegeben wurde in einer
+    An dieses Programm wird die hochgeladene CSV-Datei geschickt. 
+    Am Anfang wird das Passwort, das eingegeben wurde in einer
     hierfür erstellten Variable gespeichert. Anschließend wird eine 
     if-Schleife erstellt, die nur gestartet wird, wenn das eingegebene
     Passwort gleich dem vergebenen Passwort ist. Wenn dies der Fall 
@@ -425,10 +425,10 @@ Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p
     den Klammern im >bindValue Element stehen für den Platz der 
     Werte in einer Zeile der CSV-Datei. Hierbei hat der erste 
     Platz allerdings die Nr. 0 und nicht die Nr. 1. Die Variable
-    für die Schleife der Messwerte fängt allerdings bei 1 bzw.
+    für die Schleife der Messwerte fängt erst bei 1 bzw.
     > 0 an, weil der erste gemessene Wert meistens noch sehr
     ungenau ist, da die Sensoren nach an die Gegebenheiten im Haus
-    angepasst sind. Außerdem werden in diesem teil auch etwaige
+    angepasst sind. Außerdem werden in diesem Teil auch etwaige
     Fehlermeldungen ausgegeben. Außerdem ist die maximale Länge
     einer Zeile auf 1000 Zeichen begrenzt, damit auf jeden Fall
     alle Messwerte importiert werden.
