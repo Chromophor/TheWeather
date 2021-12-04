@@ -255,7 +255,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     der Link zum hochladen neuer Messdaten hinzugefügt.
     Diese sind in einer übergeordneten <section> 
     angeordnet, damit sie am Ende nebeneinander angezeigt
-    werden können.<br>
+    werden können.
     
   </tr>
   <tr><td>
