@@ -231,16 +231,16 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   </td><td>
   <b>Part 1</b>
 
-Am Anfang des Codes für die Hauptseite wird ein Zugang<br>
-zur Datenbank hergestellt, damit die Daten angezeigt<br>
-werden können. Als nächstes wird der Zeichensatz <br>
-definiert, mit dem der Code ausgelesen wird. Außerdem<br>
-werden noch verschiedene strukturelle Dinge definiert,<br>
-wie der Titel der Website, die Anzeige auf verschiedenen<br>
-Geräten, die Verlinkung zum Stylesheet und das <br>
-Hintergrundbild der Website. Dieser Code ist auf allen<br>
-unterschiedlichen Websites, die auf der Hauptwebsite<br>
-verlinkt sind, ähnlich.
+    Am Anfang des Codes für die Hauptseite wird ein Zugang<br>
+    zur Datenbank hergestellt, damit die Daten angezeigt<br>
+    werden können. Als nächstes wird der Zeichensatz <br>
+    definiert, mit dem der Code ausgelesen wird. Außerdem<br>
+    werden noch verschiedene strukturelle Dinge definiert,<br>
+    wie der Titel der Website, die Anzeige auf verschiedenen<br>
+    Geräten, die Verlinkung zum Stylesheet und das <br>
+    Hintergrundbild der Website. Dieser Code ist auf allen<br>
+    unterschiedlichen Websites, die auf der Hauptwebsite<br>
+    verlinkt sind, ähnlich.
     
   </td></tr>
   <tr><td>
@@ -251,11 +251,11 @@ verlinkt sind, ähnlich.
   <b>Part 2</b>
     
     
-An dieser Stelle wird die Überschrift der Website und<br>
-der Link zum hochladen neuer Messdaten hinzugefügt.<br>
-Diese sind in einer übergeordneten ``<section>`` <br>
-angeordnet, damit sie am Ende nebeneinander angezeigt<br>
-werden können.<br>
+    An dieser Stelle wird die Überschrift der Website und<br>
+    der Link zum hochladen neuer Messdaten hinzugefügt.<br>
+    Diese sind in einer übergeordneten ``<section>`` <br>
+    angeordnet, damit sie am Ende nebeneinander angezeigt<br>
+    werden können.<br>
     
   </tr>
   <tr><td>
@@ -265,20 +265,20 @@ werden können.<br>
   </td><td>
   <b>Part 3</b>
     
-    In diesem Teil des Codes werden als erstes alle Messdaten<br>
-    aus der Datenbank importiert. Außerdem wurde eine<br>
-    Funktion eingebunden, die aus dem Datum den richtigen<br>
-    Wochentag berechnet und in einer Variable speichert.<br>
-    Dieser Wochentag wird dann zusammen mit dem<br>
-    jeweiligen Datum ausgegeben. Damit nicht jedes Datum<br>
-    so oft erscheint, wie es in der Datenbank vorhanden<br>
-    ist, wurden die Messdaten nach Datum gruppiert, so<br>
-    dass jedes Datum ein einziges Mal erscheint.<br>
-    Außerdem wird unter jedem Wochentag ein Link erstellt,<br>
-    der zur Unterseite mit den Graphen weiterleitet. Damit<br>
-    die Graphen aus den Messdaten des ausgewählten Tages<br>
-    bestehen, wird beim Klick auf dem Link auch das Datum<br>
-    des Tages mitgegeben. Da die Erstellung eines Tages<br>
+    In diesem Teil des Codes werden als erstes alle Messdaten
+    aus der Datenbank importiert. Außerdem wurde eine
+    Funktion eingebunden, die aus dem Datum den richtigen
+    Wochentag berechnet und in einer Variable speichert.
+    Dieser Wochentag wird dann zusammen mit dem
+    jeweiligen Datum ausgegeben. Damit nicht jedes Datum
+    so oft erscheint, wie es in der Datenbank vorhanden
+    ist, wurden die Messdaten nach Datum gruppiert, so
+    dass jedes Datum ein einziges Mal erscheint.
+    Außerdem wird unter jedem Wochentag ein Link erstellt,
+    der zur Unterseite mit den Graphen weiterleitet. Damit
+    die Graphen aus den Messdaten des ausgewählten Tages
+    bestehen, wird beim Klick auf dem Link auch das Datum
+    des Tages mitgegeben. Da die Erstellung eines Tages
     über eine Schleife läuft sind am Ende alle Tage vorhanden.
    
     
@@ -328,16 +328,16 @@ werden können.<br>
   </td><td>
   <b>Part 3</b>
     
-  Als letztes werden noch die Diagramme erstellt. Hierfür
-  werden für die Achsen die einzelnen Listen mit der Zeit
-  für die x-Achse und den Messwerten für die y-Achse 
-  übergeben. In dem gezeigten Beispiel links sieht man
-  das Diagramm für die Temperatur. Außerdem werden noch
-  die Farbe der ausgefüllten Fläche und des Graphens 
-  festgelegt. Abschließend wird noch die Größe des Diagramms
-  definiert und das fertige Diagramm ausgegeben. Um jeweils
-  zwei Graphen am Ende nebeneinander anzeigen zu können,
-  wurden wieder mehrere ``<section>`` genutzt.
+    Als letztes werden noch die Diagramme erstellt. Hierfür
+    werden für die Achsen die einzelnen Listen mit der Zeit
+    für die x-Achse und den Messwerten für die y-Achse 
+    übergeben. In dem gezeigten Beispiel links sieht man
+    das Diagramm für die Temperatur. Außerdem werden noch
+    die Farbe der ausgefüllten Fläche und des Graphens 
+    festgelegt. Abschließend wird noch die Größe des Diagramms
+    definiert und das fertige Diagramm ausgegeben. Um jeweils
+    zwei Graphen am Ende nebeneinander anzeigen zu können,
+    wurden wieder mehrere ``<section>`` genutzt.
     
   </td></tr>
 </table><br>  
