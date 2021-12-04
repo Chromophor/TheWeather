@@ -300,9 +300,9 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     Der Anfang dieser Website ist, wie bereits erwähnt, ähnlich
     zu dem der ersten Website. Die einzige Änderung ist nur, dass
     die Funktion für das Datum bereits hier definiert werden und
-    zwei Dateien zur  richtigen Erstellung der Diagramme eingebunden
-    werden. Außerdem wird das mit dem Link mitgegebene Datum in 
-    einer diesbezüglichen Variable.
+    zwei JavaScript-Dateien zur  richtigen Erstellung der Diagramme eingebunden
+    werden. Da die Diagramme aus den Messwerten flexibel generiert werden, ist hier JavaScript notwendig, da HTML nur für statische Elemente funktioniert. Außerdem wird das mit dem Link mitgegebene Datum in 
+    einer diesbezüglichen Variable gespeichert.
     
   </td></tr>
   <tr><td>
@@ -416,7 +416,11 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     alle Messwerte importiert werden.
     
   </td><tr>
-  <tr><td></td><td>
+  <tr><td>
+    
+ ![image](https://user-images.githubusercontent.com/88386045/144704788-467f388b-f546-4ba6-8234-46cea8cdd50e.png)
+
+  </td><td>
   <b>Part 3</b>
     
   </td><tr>
