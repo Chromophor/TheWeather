@@ -61,7 +61,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <details><summary>Aussehen der fertigen Website:</summary>
   
-<p id = "#Haupt">Aussehen der Hauptwebsite:</p>
+<p id = "Haupt">Aussehen der Hauptwebsite:</p>
   
 ![Web1](https://user-images.githubusercontent.com/88386049/144708769-3648ad7e-1e20-4e34-8012-ebe2b02039da.JPG)
 
@@ -253,7 +253,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 
     
 <p>Unsere Website wird aus unterschiedlichen Websites aufgebaut, die über Links gegenseitig erreichbar sind. Bei der Erklärung des Codes haben wir uns für Screenshots des Codes entschieden, weil als Code ansonsten einige HTML-Elemente ignoriert werden, wie z.B. der gesamte Header. Um sich den Code genauer anzusehen, kann man auf die Bilder klicken und sieht eine Vergrößerung des Bildes in einem neuen Tab.</p><br>
-<p><b>5.2.1. Erklärung des Quellcodes für die <a href="Haupt">Hauptwebsite</a>, über die man zu den jeweiligen Detailwebsite gelangt.</b><br>
+<p><b>5.2.1. Erklärung des Quellcodes für die <a href="#Haupt">Hauptwebsite</a>, über die man zu den jeweiligen Detailwebsite gelangt.</b><br>
 Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p><br>
     
 <table>
