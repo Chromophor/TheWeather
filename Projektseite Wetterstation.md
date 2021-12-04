@@ -232,7 +232,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     
 <p>Unsere Website wird aus unterschiedlichen Websites aufgebaut, die über Links gegenseitig erreichbar sind. Bei der Erklärung des Codes haben wir uns für Screenshots des Codes entschieden, weil als Code ansonsten einige HTML-Elemente ignoriert werden, wie z.B. der gesamte Header. Um sich den Code genauer anzusehen, kann man auf die Bilder klicken und sieht eine Vergrößerung des Bildes in einem neuen Tab.</p><br>
 <p><b>5.2.1. Erklärung des Quellcodes für die Hauptwebsite, über die man zu den jeweiligen Detailwebsite gelangt.</b><br>
-Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p>
+Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p><br>
     
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -299,7 +299,7 @@ Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p>
 
   
 <p><b>5.2.2. Erklärung der Detailwebsite, über welche die Details der Messdaten für den jeweiligen Tag in Form von Diagrammen angezeigt werden können.</b><br>
-Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript eingesetzt, um die Diagramme zu erstellen und zu animieren.</p>  
+Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript eingesetzt, um die Diagramme zu erstellen und zu animieren.</p><br>  
  
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -361,7 +361,7 @@ Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript einges
 </table><br>  
   
 <p><b>5.2.3. Erklärung des Quellcodes des Uploadformulars, über welches Daten in die Datenbank hochgeladen werden können.</b><br>
-Das Uploadformular wurde mit Php programmiert.</p>
+Das Uploadformular wurde mit Php programmiert.</p><br>
 
 <table>
  <tr><th>Code</th><th>Erklärung</th></tr> 
@@ -389,7 +389,7 @@ Das Uploadformular wurde mit Php programmiert.</p>
 
 
 <p><b>5.2.4. Erklärung des verarbeitenden Programms, welches für den Import der Messdaten verantwortlich ist.</b><br>
-Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p>   
+Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p><br>
   
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -458,7 +458,7 @@ Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p
 </table><br>  
   
 <p><b>5.2.5. Erklärung des Stylings des HTML-Grundaufbaus, welches auf allen Websites ähnlich ist.</b><br>
-Gearbeitet wurde hier mit CSS.</p>
+Gearbeitet wurde hier mit CSS.</p><br>
     
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -494,7 +494,7 @@ Gearbeitet wurde hier mit CSS.</p>
     Browser sehen kann.
     
   </td></tr>
-</table><br>
+</table><br><br>
   
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
