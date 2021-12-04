@@ -320,7 +320,7 @@ Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p><br>
 </table><br>
 
   
-<p><b>5.2.2. Erklärung der Detailwebsite, über welche die Details der Messdaten für den jeweiligen Tag in Form von Diagrammen angezeigt werden können.</b><br>
+  <p><b>5.2.2. Erklärung der <a href="#drop">Detailwebsite</a>, über welche die Details der Messdaten für den jeweiligen Tag in Form von Diagrammen angezeigt werden können.</b><br>
 Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript eingesetzt, um die Diagramme zu erstellen und zu animieren.</p><br>  
  
 <table>
@@ -382,7 +382,7 @@ Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript einges
   </td></tr>
 </table><br>  
   
-<p><b>5.2.3. Erklärung des Quellcodes des Uploadformulars, über welches Daten in die Datenbank hochgeladen werden können.</b><br>
+<p><b>5.2.3. Erklärung des Quellcodes des <a href="#drop">Uploadformulars</a>, über welches Daten in die Datenbank hochgeladen werden können.</b><br>
 Das Uploadformular wurde mit Php programmiert.</p><br>
 
 <table>
@@ -410,7 +410,7 @@ Das Uploadformular wurde mit Php programmiert.</p><br>
 </table><br>  
 
 
-<p><b>5.2.4. Erklärung des verarbeitenden Programms, welches für den Import der Messdaten verantwortlich ist.</b><br>
+<p><b>5.2.4. Erklärung des <a href="#drop">verarbeitenden Programms</a>, welches für den Import der Messdaten verantwortlich ist.</b><br>
 Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p><br>
   
 <table>
