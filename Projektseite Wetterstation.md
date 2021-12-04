@@ -57,12 +57,15 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 ![Innenaufnahme](https://user-images.githubusercontent.com/88386279/144604540-68ffaf7a-aea4-48fd-8eca-30c999fdc8a5.jpg)
 
-<p>Beispielhafte Speicherung der Messwerte in einer CSV-Datei:<br>
+</details>  
+  
+  
+<details><summary>Beispielhafte Speicherung der Messwerte in einer CSV-Datei:</summary>
 (Reihenfolge: Temperatur, Luftfeuchtigkeit, Luftdruck, Licht, Uhrzeit, Datum)</p>
   
 ![image](https://user-images.githubusercontent.com/88386045/144705445-95c631c2-bec6-4142-8610-5f33e09cf753.png)
   
-</details>  
+</details>
 
 <h2 id="kapitel5">5. Der Code</h2>
 <p>Unser Projekt basiert auf zwei Ebenen auf Code, die nicht unterschiedlicher sein könnten. Zum einen wurde der Messvorgang der Wetterstation mit einem Arduino entwickelt, wobei die arduinotypische Sprache C++ verwendet wurde. Erläuterungen zu diesem Code sind unter dem Punkt <a href="'Sketch">"Der Sketch"</a> zu finden. Um unsere Messdaten zu visualisieren, haben wir eine <a href="https://henrik.stormarnschueler.de/">Website</a> entwickelt, auf der unsere Daten angezeigt werden. Die Website Die Website ist mit unterschiedlichen Programmiersprachen entwickelt worden. So wurde HTML für den Aufbau der Website verwendet, um den Aufbau zu verschönern wurde CSS eingesetzt und die Datenverarbeitung wurde mit Php erreicht. Näheres zu den eingesetzten Programmiersprachen sind unter den Überschriften zu finden.</p>
