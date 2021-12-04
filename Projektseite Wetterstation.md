@@ -229,7 +229,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 
 <h3 id="Code">5.2. Der Code der Website</h3>
 
-<p><b>Erklärung des Quellcodes für die Hauptwebsite, über die man zu den jeweiligen Detailwebsite gelangt.</b></p>
+<p><b>5.2.1. Erklärung des Quellcodes für die Hauptwebsite, über die man zu den jeweiligen Detailwebsite gelangt.</b><br>
+Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p>
     
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -295,7 +296,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 </table><br>
 
   
-<p><b>Erklärung der Detailwebsite, über welche die Details der Messdaten für den jeweiligen Tag in Form von Diagrammen angezeigt werden können.</b></p>  
+<p><b>5.2.2. Erklärung der Detailwebsite, über welche die Details der Messdaten für den jeweiligen Tag in Form von Diagrammen angezeigt werden können.</b><br>
+Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript eingesetzt, um die Diagramme zu erstellen und zu animieren.</p>  
  
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -356,7 +358,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   </td></tr>
 </table><br>  
   
-<p><b>Erklärung des Quellcodes des Uploadformulars, über welches Daten in die Datenbank hochgeladen werden können.</b></p>
+<p><b>5.2.3. Erklärung des Quellcodes des Uploadformulars, über welches Daten in die Datenbank hochgeladen werden können.</b><br>
+Das Uploadformular wurde mit Php programmiert</p>
 
 <table>
  <tr><th>Code</th><th>Erklärung</th></tr> 
@@ -383,7 +386,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 </table><br>  
 
 
-<p><b>Erklärung des verarbeitenden Programms, welches für den Import der Messdaten verantwortlich ist.</b></p>   
+<p><b>5.2.4. Erklärung des verarbeitenden Programms, welches für den Import der Messdaten verantwortlich ist.</b><br>
+Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p>   
   
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -451,6 +455,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   </td><tr>
 </table><br>  
   
+<p><b>5.2.5. Erklärung des Stylings des HTML-Grundaufbaus, welches auf allen Webeiten ähnlich ist.</b><br>
+Gearbeitet wurde hier mit CSS</p>
     
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
