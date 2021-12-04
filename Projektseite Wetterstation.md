@@ -220,7 +220,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 
 <h3 id="Code">5.2. Der Code der Website</h3>
 
-<p><b>Erklärung des Quellcodes für die Hauptwebsite</b></p>
+<p><b>Erklärung des Quellcodes für die Hauptwebsite, über die man zu den jeweiligen Detailwebsite gelangt.</b></p>
     
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
@@ -284,7 +284,10 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     
   </td></tr>
 </table><br>
+
   
+<p><b>Erklärung der Detailwebsite, über welche die Details der Messdaten für den jeweiligen Tag in Form von Diagrammen angezeigt werden können.</b></p>  
+ 
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
   <tr><td>
@@ -342,6 +345,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   </td></tr>
 </table><br>  
   
+<p><b>Erklärung des Quellcodes der Upload-Website, über welche Daten in die Datenbank hochgeladen werden können.</b></p>
+
 <table>
  <tr><th>Code</th><th>Erklärung</th></tr> 
  <tr><td>
@@ -367,6 +372,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 </table><br>  
 
 
+<p><b>Erklärung des verarbeitenden Programms, welches für den Import der Messdaten verantwortlich ist.</b></p>   
+  
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
   <tr><td>
