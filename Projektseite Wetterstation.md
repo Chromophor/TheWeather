@@ -225,7 +225,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
   <tr><td>
-        <br>
+        
 ![image](https://user-images.githubusercontent.com/88386045/144592915-75c908fc-3876-45ae-9415-c21f30f8d06e.png)
 
   </td><td>
