@@ -69,7 +69,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
-<p>Der Sketch läuft auf dem Arduino permanent, sofern eine Stromversorgung hergestellt ist. Dies bedeutet, dass man den Sketch am Computer hochladen kann und anschließend 
+<p>Der Sketch läuft auf dem Arduino permanent, sofern eine Stromversorgung hergestellt ist. Dies bedeutet, dass man den Sketch am Computer hochladen kann und anschließend den Arduino mit einer Powerbank versorgen kann, wie wir es am Ende auch getan haben.</p>
   
   
 <table>
@@ -370,7 +370,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     
     In diesem Code wird ein Formular zum hochladen der Daten
     erstellt. Als Methode zum schicken an das verarbeitende 
-    Programm wird die ``$_POST`` Funktion von Php genutzt. 
+    Programm wird die $_POST Funktion von Php genutzt. 
     Weather.php ist das Programm, an das die Datei geschickt
     wird. Als nächstes werden drei verschiedene Felder generiert.
     In das erste Feld wird die CSV-Datei verschoben, die man 
