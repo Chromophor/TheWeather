@@ -305,7 +305,7 @@ Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript einges
   <tr><th>Code</th><th>Erklärung</th></tr>
   <tr><td>
     
- ![image](https://user-images.githubusercontent.com/88386045/144601500-a5d2b008-3ea3-4213-85e9-f645d5105f17.png)
+ ![image](https://user-images.githubusercontent.com/88386045/144707864-4abf7942-2d52-4729-8a6e-a01a30ec466d.png)
 
   </td><td>
   <b>Part 1</b>
