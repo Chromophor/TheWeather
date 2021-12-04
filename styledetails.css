@@ -1,0 +1,64 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.main-headline {
+    max-width: 1100px;
+    margin: 0 auto;
+    text-decoration: underline;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.infokasten {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.headline {
+    text-decoration: underline;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.back a {
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    background-color: #d3d3d3;
+    font-size: 20px;
+    border: 0.5px solid #d3d3d3;
+    border-radius: 20px;
+}
+
+.back a:hover {
+    color: black;
+    background-color: whitesmoke;
+    border: 0.5px solid steelblue;
+}
+
+.back {
+    padding-right: 10px;
+}
+
+.chartbox {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chart {
+    width: calc(100% /2);
+    padding: 10px;
+}
