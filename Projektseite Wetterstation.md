@@ -69,7 +69,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
-<p>Der Sketch läuft auf dem Arduino permanent, sofern eine Stromversorgung hergestellt ist. Dies bedeutet, dass man den Sketch am Computer hochladen kann und anschließend den Arduino mit einer Powerbank versorgen kann, wie wir es am Ende auch getan haben.</p>
+<p>Der Sketch läuft auf dem Arduino permanent, sofern eine Stromversorgung hergestellt ist. Dies bedeutet, dass man den Sketch am Computer hochladen kann und anschließend den Arduino mit einer Powerbank versorgen kann, wie wir es am Ende auch getan haben.</p><br>
   
   
 <table>
@@ -230,7 +230,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 <h3 id="Code">5.2. Der Code der Website</h3>
 
     
-<p>Unsere Website wird aus unterschiedlichen Websites aufgebaut, die über Links gegenseitig erreichbar sind.
+<p>Unsere Website wird aus unterschiedlichen Websites aufgebaut, die über Links gegenseitig erreichbar sind. Bei der Erklärung des Codes haben wir uns für Screenshots des Codes entschieden, weil als Code ansonsten einige HTML-Elemente ignoriert werden, wie z.B. der gesamte Header. Um sich den Code genauer anzusehen, kann man auf die Bilder klicken und sieht eine Vergrößerung des Bildes in einem neuen Tab.</p><br>
 <p><b>5.2.1. Erklärung des Quellcodes für die Hauptwebsite, über die man zu den jeweiligen Detailwebsite gelangt.</b><br>
 Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p>
     
