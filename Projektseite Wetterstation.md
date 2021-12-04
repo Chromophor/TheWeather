@@ -322,7 +322,7 @@ Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript einges
   </td></tr>
   <tr><td>
     
-  ![image](https://user-images.githubusercontent.com/88386045/144707738-6cc77a11-c7b0-48c6-abb9-dc535a632512.png)
+  ![image](https://user-images.githubusercontent.com/88386045/144599700-e94b41c9-0d02-4f83-af63-aa806a016235.png)
     
   </td><td>
   <b>Part 2</b>
