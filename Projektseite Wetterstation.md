@@ -453,9 +453,9 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   <tr><th>Code</th><th>Erklärung</th></tr>
   <tr><td>
     
-    ![grafik](https://user-images.githubusercontent.com/88386045/144705729-c24645cb-7cc3-49d5-b8d0-661f84572205.png)
+ ![grafik](https://user-images.githubusercontent.com/88386045/144705729-c24645cb-7cc3-49d5-b8d0-661f84572205.png)
 
-    </td><td>
+  </td><td>
   <b>Part 1</b>
     
   </td></tr>
