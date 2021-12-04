@@ -426,11 +426,27 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   <b>Part 3</b>
     
     
-    Der erste Teil dieses Codes befindet sich noch in der if-Schleife für den Import der Messwerte. Es handelt sich hierbei um ein JavaScript Element, dass erneut zur Hauptwebsite leitet, nachdem die CSV-Datei erfolgreich hochgeladen wurde. Außedem wird das Script mit exit beendet. Sollte das Passwort das eingegeben wurde nicht mit dem vergebenen übereinstimmen, springt das Script nicht in den Teil der if-Schleife zum hochladen, sondern in die else-Bedingung. Hier wird die Meldung „Passwort falsch!“ ausgegeben und ein Link zur Hauptwebsite erstellt.
+    Der erste Teil dieses Codes befindet sich noch in der 
+    if-Schleife für den Import der Messwerte. Es handelt sich
+    hierbei um ein JavaScript Element, dass erneut zur Hauptwebsite
+    leitet, nachdem die CSV-Datei erfolgreich hochgeladen wurde. 
+    Außedem wird das Script mit exit beendet. Sollte das Passwort 
+    das eingegeben wurde nicht mit dem vergebenen übereinstimmen,
+    springt das Script nicht in den Teil der if-Schleife zum hochladen,
+    sondern in die else-Bedingung. Hier wird die Meldung „Passwort
+    falsch!“ ausgegeben und ein Link zur Hauptwebsite erstellt.
     
   </td><tr>
 </table><br>  
   
+    
+<table>
+  <tr><th>Code</th><th>Erklärung</th></tr>
+  <tr><td></td><td>
+  <b>Part 1</b>
+    
+  </td></tr>
+</table><br>
   
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
