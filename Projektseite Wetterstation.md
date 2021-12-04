@@ -61,15 +61,15 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <details><summary>Aussehen der fertigen Website:</summary>
   
-<p id = "Haupt">Aussehen der Hauptwebsite:</p>
+<p id="Haupt">Aussehen der Hauptwebsite:</p>
   
 ![Web1](https://user-images.githubusercontent.com/88386049/144708769-3648ad7e-1e20-4e34-8012-ebe2b02039da.JPG)
 
-<p id="#Upload">Aussehen des Uploadformulars:</p>  
+<p id="Upload">Aussehen des Uploadformulars:</p>  
   
 ![Web2](https://user-images.githubusercontent.com/88386049/144708772-fe5e7b41-94d2-4208-a17c-87535d5f6fff.JPG)
   
-<p id="#Details">Aussehen der Detailswebsite mit beispielhaften Diagrammen vom 03.12.2021:</p>
+<p id="Details">Aussehen der Detailswebsite mit beispielhaften Diagrammen vom 03.12.2021:</p>
   
 ![Web3](https://user-images.githubusercontent.com/88386049/144708774-c2182510-7423-4143-9048-b1a2bb0a56e7.JPG)
   
