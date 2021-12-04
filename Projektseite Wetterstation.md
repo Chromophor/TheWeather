@@ -345,7 +345,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   </td></tr>
 </table><br>  
   
-<p><b>Erklärung des Quellcodes der Upload-Website, über welche Daten in die Datenbank hochgeladen werden können.</b></p>
+<p><b>Erklärung des Quellcodes des Uploadformulars, über welches Daten in die Datenbank hochgeladen werden können.</b></p>
 
 <table>
  <tr><th>Code</th><th>Erklärung</th></tr> 
