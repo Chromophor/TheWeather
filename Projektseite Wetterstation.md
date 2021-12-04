@@ -352,7 +352,16 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
  <b>Part 1</b>
     
     
-    In diesem Code wird ein Formular zum hochladen der Daten erstellt. Als Methode zum schicken an das verarbeitende Programm wird die ``$_POST`` Funktion von Php genutzt. Weather.php ist das Programm, an das die Datei geschickt wird. Als nächstes werden drei verschiedene Felder generiert. In das erste Feld wird die CSV-Datei verschoben, die man hochladen möchte. Das zweite Feld ist ein Button, mit dem man das Hochladen abschließt. Das dritte und letzte Feld ist für das Passwort da, dass man vor dem Bestätigen eingeben muss, da sonst die Messdaten nicht importiert werden.
+   In diesem Code wird ein Formular zum hochladen der Daten
+   erstellt. Als Methode zum schicken an das verarbeitende 
+   Programm wird die ``$_POST`` Funktion von Php genutzt. 
+   Weather.php ist das Programm, an das die Datei geschickt
+   wird. Als nächstes werden drei verschiedene Felder generiert.
+   In das erste Feld wird die CSV-Datei verschoben, die man 
+   hochladen möchte. Das zweite Feld ist ein Button, mit dem
+   man das Hochladen abschließt. Das dritte und letzte Feld
+   ist für das Passwort da, dass man vor dem Bestätigen 
+   eingeben muss, da sonst die Messdaten nicht importiert werden.
     
   </td></tr>
 </table><br>  
@@ -368,7 +377,13 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   <b>Part 1</b>
     
     
-    Das Programm ist das, an das die hochgeladene CSV-Datei geschickt wird. Am Anfang wird das Passwort, das eingegeben wurde in einer hierfür erstellten Variable gespeichert. Anschließend wird eine if-Schleife erstellt, die nur gestartet wird, wenn das eingegebene Passwort gleich dem vergebenen Passwort ist. Wenn dies der Fall ist wird in der if-Schleife ein Zugang zur Datenbank hergestellt, in die die Messwerte aus der Tabelle am Ende importiert werden sollen.
+   Das Programm ist das, an das die hochgeladene CSV-Datei geschickt
+   wird. Am Anfang wird das Passwort, das eingegeben wurde in einer
+   hierfür erstellten Variable gespeichert. Anschließend wird eine 
+   if-Schleife erstellt, die nur gestartet wird, wenn das eingegebene
+   Passwort gleich dem vergebenen Passwort ist. Wenn dies der Fall 
+   ist wird in der if-Schleife ein Zugang zur Datenbank hergestellt,
+   in die die Messwerte aus der Tabelle am Ende importiert werden sollen.
     
   
   <tr><td>
