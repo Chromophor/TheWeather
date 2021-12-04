@@ -59,6 +59,25 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 </details>  
   
+<details><summary>Aussehen der fertige Website</summary>
+  
+<p>Aussehen der Hauptwebsite:</p>
+  
+![Web1](https://user-images.githubusercontent.com/88386049/144708769-3648ad7e-1e20-4e34-8012-ebe2b02039da.JPG)
+
+<p>Aussehen des Uploadformulars:</p>  
+  
+![Web2](https://user-images.githubusercontent.com/88386049/144708772-fe5e7b41-94d2-4208-a17c-87535d5f6fff.JPG)
+  
+<p>Aussehen der Detailswebsite mit beispielhaften Diagrammen vom 03.12.2021:</p>
+  
+![Web3](https://user-images.githubusercontent.com/88386049/144708774-c2182510-7423-4143-9048-b1a2bb0a56e7.JPG)
+  
+![Web4](https://user-images.githubusercontent.com/88386049/144708779-1ae52dbb-bdcf-4663-aa5e-77975d8935ba.JPG)
+
+</details>
+
+  
   
 <details><summary>Beispielhafte Speicherung der Messwerte in einer CSV-Datei:</summary>
 (Reihenfolge: Temperatur, Luftfeuchtigkeit, Luftdruck, Licht, Uhrzeit, Datum)</p>
