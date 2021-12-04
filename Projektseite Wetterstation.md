@@ -359,7 +359,7 @@ Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript einges
 </table><br>  
   
 <p><b>5.2.3. Erklärung des Quellcodes des Uploadformulars, über welches Daten in die Datenbank hochgeladen werden können.</b><br>
-Das Uploadformular wurde mit Php programmiert</p>
+Das Uploadformular wurde mit Php programmiert.</p>
 
 <table>
  <tr><th>Code</th><th>Erklärung</th></tr> 
@@ -455,7 +455,7 @@ Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p
   </td><tr>
 </table><br>  
   
-<p><b>5.2.5. Erklärung des Stylings des HTML-Grundaufbaus, welches auf allen Webeiten ähnlich ist.</b><br>
+<p><b>5.2.5. Erklärung des Stylings des HTML-Grundaufbaus, welches auf allen Websites ähnlich ist.</b><br>
 Gearbeitet wurde hier mit CSS</p>
     
 <table>
@@ -468,7 +468,28 @@ Gearbeitet wurde hier mit CSS</p>
   <b>Part 1</b>
     
     
-    Für das Styling der Website haben wir CSS benutzt. Hierfür gibt es zwei Dateien: eine für die Hauptwebsite und eine für die Detailwebsite. In der Tabelle haben wir uns jedoch dafür entschieden, beispielhaft nur einen Teil des Codes zu erklären, da es sonst sehr viel wäre und die Art des Codes in CSS immer ähnlich ist. Um das Styling einfacher zu gestalten, wurden Klassen übergeben, wodurch sich die einzelnen Abschnitte genau ansprechen lassen. Der erste Abschnitt ist für die Ansicht der Tage. Hierbei wurde Flexbox genutzt, um die Tage nebeneinander anzuzeigen. Da die Tage in der Datenbank von alt nach neu sortiert sind, wir aber die neuesten Tage aber oben links erscheinen sollen, werden einmal die Zeilen und einmal die Spalten gedreht. Als nächste wird ein Kästchen auf ein Drittel der Gesamtbreite gesetzt, damit immer drei Tage in einer Reihe angezeigt werden. Im Folgenden werden noch weitere Details geändert, wie die Hintergrund Farbe, die Randfarbe, die Ränder bzw Abstände zu anderen Kästchen, die Textmerkmale wie z.B. unterstrichen oder ähnliches und außerdem die Ecken der Kästchen abgerundet. Alle Weiteren Style-Elemente bestehen aus genau diesen oder ähnlichen Elementen und sorgen insgesamt dann dafür, dass unsere Website so aussieht, wie man sie im Browser sehen kann.
+    Für das Styling der Website haben wir CSS benutzt. Hierfür
+    gibt es zwei Dateien: eine für die Hauptwebsite und eine für
+    die Detailwebsite. In der Tabelle haben wir uns jedoch dafür
+    entschieden, beispielhaft nur einen Teil des Codes zu erklären,
+    da es sonst sehr viel wäre und die Art des Codes in CSS immer
+    ähnlich ist. Um das Styling einfacher zu gestalten, wurden
+    Klassen übergeben, wodurch sich die einzelnen Abschnitte genau
+    ansprechen lassen. Der erste Abschnitt ist für die Ansicht der
+    Tage. Hierbei wurde Flexbox genutzt, um die Tage nebeneinander
+    anzuzeigen. Da die Tage in der Datenbank von alt nach neu
+    sortiert sind, wir aber die neuesten Tage aber oben links
+    erscheinen sollen, werden einmal die Zeilen und einmal die
+    Spalten gedreht. Als nächste wird ein Kästchen auf ein Drittel
+    der Gesamtbreite gesetzt, damit immer drei Tage in einer Reihe
+    angezeigt werden. Im Folgenden werden noch weitere Details 
+    geändert, wie die Hintergrund Farbe, die Randfarbe, die Ränder
+    bzw Abstände zu anderen Kästchen, die Textmerkmale wie z.B. 
+    unterstrichen oder ähnliches und außerdem die Ecken der 
+    Kästchen abgerundet. Alle Weiteren Style-Elemente bestehen 
+    aus genau diesen oder ähnlichen Elementen und sorgen insgesamt
+    dann dafür, dass unsere Website so aussieht, wie man sie im 
+    Browser sehen kann.
     
   </td></tr>
 </table><br>
