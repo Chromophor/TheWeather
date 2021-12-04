@@ -65,7 +65,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 </details>  
 
 <h2 id="kapitel5">5. Der Code</h2>
-<p>Unser Projekt basiert auf zwei Ebenen auf Code, die nicht unterschiedlicher sein könnten. Zum einen wurde der Messvorgang der Wetterstation mit einem Arduino entwickelt, wobei die arduinotypische Sprache C++ verwendet wurde. Erläuterungen zu diesem Code sind unter dem Punkt <a href="'Sketch">"Der Sketch"</a> zu finden. Um unsere Messdaten zu visualisieren, haben wir eine <a href="https://henrik.stormarnschueler.de/">Website</a> entwickelt, auf der unsere Daten angezeigt werden. Die Website </p>
+<p>Unser Projekt basiert auf zwei Ebenen auf Code, die nicht unterschiedlicher sein könnten. Zum einen wurde der Messvorgang der Wetterstation mit einem Arduino entwickelt, wobei die arduinotypische Sprache C++ verwendet wurde. Erläuterungen zu diesem Code sind unter dem Punkt <a href="'Sketch">"Der Sketch"</a> zu finden. Um unsere Messdaten zu visualisieren, haben wir eine <a href="https://henrik.stormarnschueler.de/">Website</a> entwickelt, auf der unsere Daten angezeigt werden. Die Website Die Website ist mit unterschiedlichen Programmiersprachen entwickelt worden. So wurde HTML für den Aufbau der Website verwendet, um den Aufbau zu verschönern wurde CSS eingesetzt und die Datenverarbeitung wurde mit Php erreicht. Näheres zu den eingesetzten Programmiersprachen sind unter den Überschriften zu finden.</p>
   
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
@@ -414,9 +414,12 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     nach dem momentanen Zeitstempel benannt, der in Sekunden seit
     1970 angegeben ist. Anschließend werden die Kommata entfernt
     und die Messwerte in die zugehörige Variable übergeben. Diese
-    werden anschließend in die Datenbank eingefügt. Die Zahlen in den Klammern im >bindValue Element stehen für den Platz der Werte in einer Zeile der CSV-Datei. Hierbei hat der erste Platz allerdings die Nr. 0 und nicht die Nr.1. Die Variable
-    für die Schleife der Messwerte fängt allerdings bei 
-    1 bzw. > 0 an, weil der erste gemessene Wert meistens noch sehr
+    werden anschließend in die Datenbank eingefügt. Die Zahlen in
+    den Klammern im >bindValue Element stehen für den Platz der 
+    Werte in einer Zeile der CSV-Datei. Hierbei hat der erste 
+    Platz allerdings die Nr. 0 und nicht die Nr.1. Die Variable
+    für die Schleife der Messwerte fängt allerdings bei 1 bzw.
+    > 0 an, weil der erste gemessene Wert meistens noch sehr
     ungenau ist, da die Sensoren nach an die Gegebenheiten im Haus
     angepasst sind. Außerdem werden in diesem teil auch etwaige
     Fehlermeldungen ausgegeben. Außerdem ist die maximale Länge
