@@ -44,8 +44,8 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 <p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik. Diese besteht aus dem Arduino, der mit einer Stromquelle verbunden ist, dem Data-Logging-Shield, wo die Mikro-SD-Karte die Daten speichert und dem Breadboard mit den angeschlossenen Sensoren BME280 und BN2134129. Die Stromquelle ist eine Powerbank für Smartphones, die für den Arduino und seine Anwendungen für ungefähr 24 Stunden den Strom liefert. Danach kann über das abnehmbare Dach und den Zwischenboden die Powerbank und die SD-Karte ausgetauscht werden. Nun messen die Sensoren auf Befehl des Arduinos alle 10 Minuten Daten und werden wieder auf der SD-Karte gespeicher bis 24 Stunden danach wieder der Akku leer ist und wieder ausgetauscht werden muss. In der Zwischenzeit kann die SD-Karte an einen Computer angeschlossen werden und die Daten in eine Datenbank übertragen werden, sodass diese dann auf der <a href="https://henrik.stormarnschueler.de/">Webseite</a> automatisch in den dazugehörigen Diagrammen angezeigt werden. Diese Diagramme erreicht man über den weiteren Button "Details", der auf dem spezifischen Tag immer zu sehen ist. Hier werden dann die Tagesverläufe von Temperatur, Luftdruck, Luftfeuchtigkeit und Licht angezeigt. </p>
   
 <p>Bauplan des Arduinogehäuses:</p>
-  
-![image](https://user-images.githubusercontent.com/88386279/143065426-348fc24d-6b4b-4d36-9cef-06faa7419625.jpeg)
+
+![image](https://user-images.githubusercontent.com/88386279/144708469-b259492f-dfb5-47bd-98c8-be0976834e12.jpeg)
   
 <details><summary>Im Folgenden sind Bilder vom fertigen Projekt zu sehen. Im Schornstein ist der Lichtsensor untergebracht und im Inneren des Gehäuses alle anderen Sensoren und der Arduino.</summary>  
   
