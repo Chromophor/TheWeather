@@ -69,6 +69,9 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
+<p>Der Sketch läuft auf dem Arduino permanent, sofern eine Stromversorgung hergestellt ist. Dies bedeutet, dass man den Sketch am Computer hochladen kann und anschließend 
+  
+  
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
   <tr><td>
