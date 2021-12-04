@@ -420,7 +420,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     werden anschließend in die Datenbank eingefügt. Die Zahlen in
     den Klammern im >bindValue Element stehen für den Platz der 
     Werte in einer Zeile der CSV-Datei. Hierbei hat der erste 
-    Platz allerdings die Nr. 0 und nicht die Nr.1. Die Variable
+    Platz allerdings die Nr. 0 und nicht die Nr. 1. Die Variable
     für die Schleife der Messwerte fängt allerdings bei 1 bzw.
     > 0 an, weil der erste gemessene Wert meistens noch sehr
     ungenau ist, da die Sensoren nach an die Gegebenheiten im Haus
