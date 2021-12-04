@@ -41,7 +41,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 
 <h2 id="kapitel4">4. Vorstellung des Projekts</h2>
-<p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik. Diese besteht aus dem Arduino, der mit einer Stromquelle verbunden ist, dem Data-Logging-Shield, wo die Mikro-SD-Karte die Daten speichert, dem Breadboard mit den Sensoren und einem Liquid-Crytal-Display (Näheres dazu in den technischen Abschnitten). Die Stromquelle ist eine Powerbank für Smartphones, die für den Arduino und seine Anwendungen für ungefähr 24 Stunden den Strom liefert. Danach kann über das abnehmbare Dach und den Zwischenboden die Powerbank und die SD-Karte ausgetauscht werden. Nun messen die Sensoren auf Befehl des Arduinos alle 10 Minuten Daten und werden wieder auf der SD-Karte gespeicher bis 24 Stunden danach wieder der Akku leer ist und wieder ausgetauscht werden muss. In der Zwischenzeit kann die SD-Karte an einen Computer angeschlossen werden und die Daten in eine Datenbank übertragen werden, sodass diese dann auf der <a href="https://henrik.stormarnschueler.de/">Webseite</a> automatisch in den dazugehörigen Diagrammen angezeigt werden. Diese Diagramme erreicht man über den weiteren Button "Details", der auf dem spezifischen Tag immer zu sehen ist. HIer werden dann die Tagesverläufe von Temperatur, Luftdruck, Luftfeuchtigkeit und Licht angezeigt. </p>
+<p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik. Diese besteht aus dem Arduino, der mit einer Stromquelle verbunden ist, dem Data-Logging-Shield, wo die Mikro-SD-Karte die Daten speichert und dem Breadboard mit den angeschlossenen Sensoren BME280 und BN2134129. Die Stromquelle ist eine Powerbank für Smartphones, die für den Arduino und seine Anwendungen für ungefähr 24 Stunden den Strom liefert. Danach kann über das abnehmbare Dach und den Zwischenboden die Powerbank und die SD-Karte ausgetauscht werden. Nun messen die Sensoren auf Befehl des Arduinos alle 10 Minuten Daten und werden wieder auf der SD-Karte gespeicher bis 24 Stunden danach wieder der Akku leer ist und wieder ausgetauscht werden muss. In der Zwischenzeit kann die SD-Karte an einen Computer angeschlossen werden und die Daten in eine Datenbank übertragen werden, sodass diese dann auf der <a href="https://henrik.stormarnschueler.de/">Webseite</a> automatisch in den dazugehörigen Diagrammen angezeigt werden. Diese Diagramme erreicht man über den weiteren Button "Details", der auf dem spezifischen Tag immer zu sehen ist. HIer werden dann die Tagesverläufe von Temperatur, Luftdruck, Luftfeuchtigkeit und Licht angezeigt. </p>
   
 <p>Bauplan des Arduinogehäuses:</p>
   
@@ -401,7 +401,19 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   <b>Part 2</b>
     
     
-    In diesem Teil der if-Schleife wird die hochgeladene Datei umbenannt. Damit ein einmaliger Name entsteht, wird die Datei nach dem momentanen Zeitstempel benannt, der in Sekunden seit 1970 angegeben ist. Anschließend werden die Kommata entfernt und die Messwerte in die zugehörige Variable übergeben. Diese werden anschließend in die Datenbank eingefügt. Die Variable für die Schleife der Messwerte fängt allerdings bei 1 bzw. > 0 an, weil der erste gemessene Wert meistens noch sehr ungenau ist, da die Sensoren nach an die Gegebenheiten im Haus angepasst sind. Außerdem werden in diesem teil auch etwaige Fehlermeldungen ausgegeben. Außerdem ist die maximale Länge einer Zeile auf 1000 Zeichen begrenzt, damit auf jeden Fall alle Messwerte importiert werden.
+    In diesem Teil der if-Schleife wird die hochgeladene Datei
+    umbenannt. Damit ein einmaliger Name entsteht, wird die Datei
+    nach dem momentanen Zeitstempel benannt, der in Sekunden seit
+    1970 angegeben ist. Anschließend werden die Kommata entfernt
+    und die Messwerte in die zugehörige Variable übergeben. Diese
+    werden anschließend in die Datenbank eingefügt. Die Variable
+    für die Schleife der Messwerte fängt allerdings bei 
+    1 bzw. > 0 an, weil der erste gemessene Wert meistens noch sehr
+    ungenau ist, da die Sensoren nach an die Gegebenheiten im Haus
+    angepasst sind. Außerdem werden in diesem teil auch etwaige
+    Fehlermeldungen ausgegeben. Außerdem ist die maximale Länge
+    einer Zeile auf 1000 Zeichen begrenzt, damit auf jeden Fall
+    alle Messwerte importiert werden.
     
   </td><tr>
   <tr><td></td><td>
