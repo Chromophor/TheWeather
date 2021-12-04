@@ -400,6 +400,9 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
   </td><td>
   <b>Part 2</b>
     
+    
+    In diesem Teil der if-Schleife wird die hochgeladene Datei umbenannt. Damit ein einmaliger Name entsteht, wird die Datei nach dem momentanen Zeitstempel benannt, der in Sekunden seit 1970 angegeben ist. Anschließend werden die Kommata entfernt und die Messwerte in die zugehörige Variable übergeben. Diese werden anschließend in die Datenbank eingefügt. Die Variable für die Schleife der Messwerte fängt allerdings bei 1 bzw. > 0 an, weil der erste gemessene Wert meistens noch sehr ungenau ist, da die Sensoren nach an die Gegebenheiten im Haus angepasst sind. Außerdem werden in diesem teil auch etwaige Fehlermeldungen ausgegeben. Außerdem ist die maximale Länge einer Zeile auf 1000 Zeichen begrenzt, damit auf jeden Fall alle Messwerte importiert werden.
+    
   </td><tr>
   <tr><td></td><td>
   <b>Part 3</b>
