@@ -456,7 +456,7 @@ Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p
 </table><br>  
   
 <p><b>5.2.5. Erklärung des Stylings des HTML-Grundaufbaus, welches auf allen Websites ähnlich ist.</b><br>
-Gearbeitet wurde hier mit CSS</p>
+Gearbeitet wurde hier mit CSS.</p>
     
 <table>
   <tr><th>Code</th><th>Erklärung</th></tr>
