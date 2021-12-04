@@ -47,7 +47,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 ![image](https://user-images.githubusercontent.com/88386279/143065426-348fc24d-6b4b-4d36-9cef-06faa7419625.jpeg)
   
-<detials><summary>Im Folgenden sind Bilder vom fertigen Projekt zu sehen. Im Schornstein ist der Lichtsensor untergebracht und im Inneren des Gehäuses alle anderen Sensoren und der Arduino.</summary>  
+<details><summary>Im Folgenden sind Bilder vom fertigen Projekt zu sehen. Im Schornstein ist der Lichtsensor untergebracht und im Inneren des Gehäuses alle anderen Sensoren und der Arduino.</summary>  
   
 ![IMG_8038](https://user-images.githubusercontent.com/88386279/144604790-0b6ab7f5-7f52-423a-8f80-b7fb04ed5511.jpg)
   
@@ -57,6 +57,10 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 ![Innenaufnahme](https://user-images.githubusercontent.com/88386279/144604540-68ffaf7a-aea4-48fd-8eca-30c999fdc8a5.jpg)
 
+<p>Beispielhafte Speicherung der Messwerte in einer CSV-Datei:</p>
+  
+![image](https://user-images.githubusercontent.com/88386045/144705445-95c631c2-bec6-4142-8610-5f33e09cf753.png)
+  
 </details>  
 
 <h2 id="kapitel5">5. Der Code</h2>
