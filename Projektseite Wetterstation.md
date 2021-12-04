@@ -229,6 +229,8 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 
 <h3 id="Code">5.2. Der Code der Website</h3>
 
+    
+<p>Unsere Website wird aus unterschiedlichen Websites aufgebaut, die über Links gegenseitig erreichbar sind.
 <p><b>5.2.1. Erklärung des Quellcodes für die Hauptwebsite, über die man zu den jeweiligen Detailwebsite gelangt.</b><br>
 Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p>
     
