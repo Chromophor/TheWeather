@@ -59,9 +59,9 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 </details>  
   
-<details><summary>Aussehen der fertige Website</summary>
+<details><summary>Aussehen der fertigen Website:</summary>
   
-<p>Aussehen der Hauptwebsite:</p>
+<p id = "wsehen der Hauptwebsite:</p>
   
 ![Web1](https://user-images.githubusercontent.com/88386049/144708769-3648ad7e-1e20-4e34-8012-ebe2b02039da.JPG)
 
