@@ -253,7 +253,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     
     An dieser Stelle wird die Überschrift der Website und
     der Link zum hochladen neuer Messdaten hinzugefügt.
-  Diese sind in einer übergeordneten ``<section>`` 
+    Diese sind in einer übergeordneten <section> 
     angeordnet, damit sie am Ende nebeneinander angezeigt
     werden können.<br>
     
@@ -337,7 +337,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
     festgelegt. Abschließend wird noch die Größe des Diagramms
     definiert und das fertige Diagramm ausgegeben. Um jeweils
     zwei Graphen am Ende nebeneinander anzeigen zu können,
-    wurden wieder mehrere ``<section>`` genutzt.
+    wurden wieder mehrere <section> genutzt.
     
   </td></tr>
 </table><br>  
