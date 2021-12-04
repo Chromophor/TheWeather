@@ -57,8 +57,8 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 ![Innenaufnahme](https://user-images.githubusercontent.com/88386279/144604540-68ffaf7a-aea4-48fd-8eca-30c999fdc8a5.jpg)
 
-<p>Beispielhafte Speicherung der Messwerte in einer CSV-Datei:</p><br>
-<p>(Reihenfolge: Temperatur, Luftfeuchtigkeit, Luftdruck, Licht, Uhrzeit, Datum)</p>
+<p>Beispielhafte Speicherung der Messwerte in einer CSV-Datei:<br>
+(Reihenfolge: Temperatur, Luftfeuchtigkeit, Luftdruck, Licht, Uhrzeit, Datum)</p>
   
 ![image](https://user-images.githubusercontent.com/88386045/144705445-95c631c2-bec6-4142-8610-5f33e09cf753.png)
   
