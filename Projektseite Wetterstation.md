@@ -59,17 +59,17 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 </details>  
   
-<details><summary>Aussehen der fertigen Website:</summary>
+<details id="drop"><summary>Aussehen der fertigen Website:</summary>
   
-<p id="Haupt">Aussehen der Hauptwebsite:</p>
+<p>Aussehen der Hauptwebsite:</p>
   
 ![Web1](https://user-images.githubusercontent.com/88386049/144708769-3648ad7e-1e20-4e34-8012-ebe2b02039da.JPG)
 
-<p id="Upload">Aussehen des Uploadformulars:</p>  
+<p>Aussehen des Uploadformulars:</p>  
   
 ![Web2](https://user-images.githubusercontent.com/88386049/144708772-fe5e7b41-94d2-4208-a17c-87535d5f6fff.JPG)
   
-<p id="Details">Aussehen der Detailswebsite mit beispielhaften Diagrammen vom 03.12.2021:</p>
+<p>Aussehen der Detailswebsite mit beispielhaften Diagrammen vom 03.12.2021:</p>
   
 ![Web3](https://user-images.githubusercontent.com/88386049/144708774-c2182510-7423-4143-9048-b1a2bb0a56e7.JPG)
   
@@ -253,7 +253,7 @@ Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "
 
     
 <p>Unsere Website wird aus unterschiedlichen Websites aufgebaut, die über Links gegenseitig erreichbar sind. Bei der Erklärung des Codes haben wir uns für Screenshots des Codes entschieden, weil als Code ansonsten einige HTML-Elemente ignoriert werden, wie z.B. der gesamte Header. Um sich den Code genauer anzusehen, kann man auf die Bilder klicken und sieht eine Vergrößerung des Bildes in einem neuen Tab.</p><br>
-<p><b>5.2.1. Erklärung des Quellcodes für die <a href="#Haupt">Hauptwebsite</a>, über die man zu den jeweiligen Detailwebsite gelangt.</b><br>
+<p><b>5.2.1. Erklärung des Quellcodes für die <a href="#drop">Hauptwebsite</a>, über die man zu den jeweiligen Detailwebsite gelangt.</b><br>
 Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p><br>
     
 <table>
