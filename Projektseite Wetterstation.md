@@ -47,7 +47,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 ![image](https://user-images.githubusercontent.com/88386279/143065426-348fc24d-6b4b-4d36-9cef-06faa7419625.jpeg)
   
-<p>Im Folgenden sind Bilder vom fertigen Projekt zu sehen. Im Schornstein ist der Lichtsensor untergebracht und im Inneren des Gehäuses alle anderen Sensoren und der Arduino.</p>   
+<detials><summary>Im Folgenden sind Bilder vom fertigen Projekt zu sehen. Im Schornstein ist der Lichtsensor untergebracht und im Inneren des Gehäuses alle anderen Sensoren und der Arduino.</summary>  
   
 ![IMG_8038](https://user-images.githubusercontent.com/88386279/144604790-0b6ab7f5-7f52-423a-8f80-b7fb04ed5511.jpg)
   
@@ -57,7 +57,8 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 ![Innenaufnahme](https://user-images.githubusercontent.com/88386279/144604540-68ffaf7a-aea4-48fd-8eca-30c999fdc8a5.jpg)
 
-  
+</details>  
+
 <h2 id="kapitel5">5. Der Code</h2>
 <p>Unser Projekt basiert auf zwei Ebenen auf Code, die nicht unterschiedlicher sein könnten. Zum einen wurde der Messvorgang der Wetterstation mit einem Arduino entwickelt, wobei die arduinotypische Sprache C++ verwendet wurde. Erläuterungen zu diesem Code sind unter dem Punkt <a href="'Sketch">"Der Sketch"</a> zu finden. Um unsere Messdaten zu visualisieren, haben wir eine <a href="https://henrik.stormarnschueler.de/">Website</a> entwickelt, auf der unsere Daten angezeigt werden. Die Website </p>
   
