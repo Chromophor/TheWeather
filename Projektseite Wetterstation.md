@@ -59,7 +59,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
   
 <h2 id="kapitel5">5. Der Code</h2>
-<p>Unsere Wetterstation</p>
+<p>Unser Projekt basiert auf zwei Ebenen auf Code, die nicht unterschiedlicher sein könnten. Zum einen wurde der Messvorgang der Wetterstation mit einem Arduino entwickelt, wobei die arduinotypische Sprache C++ verwendet wurde. Erläuterungen zu diesem Code sind unter dem Punkt <a href="'Sketch">"Der Sketch"</a> zu finden. Um unsere Messdaten zu visualisieren, haben wir eine <a href="https://henrik.stormarnschueler.de/">Website</a> entwickelt, auf der unsere Daten angezeigt werden. Die Website </p>
   
 <h3 id="Sketch">5.1. Der Sketch</h3>
 
