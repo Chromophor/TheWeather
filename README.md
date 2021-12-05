@@ -10,9 +10,11 @@
 <li><a href="#quotes">4. quotes</a></h2></li><br>
 
 <p><b>Stundenprotokoll</b><br>
-  In unserem Stundenprotokoll haben wir jede Stunde protokolliert. Anhand des Protokolls kann man die Entwicklung unserer Wetterstation von der Idee bis zum fertigen Projekt ablesen.<br>
+  In unserem Stundenprotokoll haben wir jede Stunde protokolliert. Anhand des Protokolls kann man die Entwicklung unserer Wetterstation von der Idee bis zum fertigen Projekt ablesen.<br><br>
 <b>Proketseite</b><br>
-Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br></p>
+  Auf unserer Projektseite wird unsere Wetterstation erklärt und bewertet.<br><br>
+<b>Website</b><br>
+  Auf unserer eigenen <a href="https://henrik.stormarnschueler.de/">Website</a> werden die von der Wetterstation gemessenen Daten gespeichert und können eingesehen werden.</p><br><br>
 
 <h2 id="contributors">contributors:</h2>
 <b>@Obeliks003</b> alias Henrik Bormann<br>
