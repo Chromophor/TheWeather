@@ -8,7 +8,7 @@
 <li><a href="Projektseite Wetterstation.md">2. Projektseite</a></h2></li>
 <li><a href="#contributors">3. contributors</a></h2></li>
 <li><a href="#languages">4. Languages</a></h2></li>
-<li><a href="#quotes">4. quotes</a></h2></li><br>
+<li><a href="#quotes">5. quotes</a></h2></li><br>
 
 <p><b>Stundenprotokoll</b><br>
   In unserem Stundenprotokoll haben wir jede Stunde protokolliert. Anhand des Protokolls kann man die Entwicklung unserer Wetterstation von der Idee bis zum fertigen Projekt ablesen.<br><br>
