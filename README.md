@@ -22,7 +22,7 @@
 <b>@xxxGernchenxxx</b> alias Gernot Zesch<br>
 <b>@TheMoonlandingV2</b> alias Thorben Heinz<br>
 
-<h2 id="languages">Languages</h2>
+<h2 id="languages">languages</h2>
 
 <li>
   
