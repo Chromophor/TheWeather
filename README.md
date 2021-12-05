@@ -27,8 +27,12 @@
 <li>
   
 ``PHP`` mit einem Anteil von 67,1%</li>
-<li>CSS mit einem Anteil von 17,8%</li>
-<li>C++ mit einem Anteil von 13,1%</li>
+<li>
+  
+``CSS`` mit einem Anteil von 17,8%</li>
+<li>
+  
+``C++`` mit einem Anteil von 13,1%</li>
 
 <h2 id="quotes">quotes:</h2>
 
