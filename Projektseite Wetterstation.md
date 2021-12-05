@@ -17,7 +17,7 @@
 <li><a href="#kapitel10">10. Eigenständigkeitserklärung</a></li>
 <br>
 <h2 id="kapitell">1. Einleitung</h2>
-<p>Für viele Menschen gehört es zu der Morgenroutine, nach dem Aufstehen aus dem Fenster zu gucken und die Temperatur zu schätzen, damit man sich passend anziehen kann. Oftmals verschätzt man sich und es kommt zu ungewolltem und unnötigen Stress am frühen Morgen, da es überraschend doch wärmer oder kälter ist.<br>
+<p>Für viele Menschen gehört es zu der Morgenroutine, nach dem Aufstehen aus dem Fenster zu gucken und die Temperatur zu schätzen, damit man sich passend anziehen kann. Oftmals verschätzt man sich und es kommt zu ungewolltem und unnötigem Stress am frühen Morgen, da es überraschend doch wärmer oder kälter ist.<br>
 Für genau dieses Problem lässt sich einfache Abhilfe schaffen. Eine Wetterstation, die die Temperatur übermittelt, wäre hierfür ideal. Ein kurzer Blick auf eine Webseite im Internet genügt, um Gewissheit über die Temperatur zu haben. Dieser Blick kann auch einfach über das sowieso am Bett liegende Smartphone geschehen. Zudem ist jeder Wetterinteressierte dazu eingeladen sich seine eigene Wetterprognose für den Tag zu machen, da die Wetterstation neben der Temperatur auch Daten zur Luftfeuchtigkeit, dem Luftdruck und der Lichtintensität liefert. 
 Mit einem schönen Design stört die Wetterstation auch nicht beim Blick aus dem Fenster.
 Unsere Wetterstation ist eine hervorragende Art das Aufstehen zu erleichtern und überflüssigen Stress zu vermeiden - so steht man gerne auf!<br><br>
@@ -35,7 +35,7 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
 
 
 <h2 id="kapitel3">3. Projektentwicklung</h2>
-<p>Aller Anfang ist schwer - auch hier ist das Sprichwort uneingeschränkt anwendbar. In den ersten Stunden galt es ein passendes Projekt mit passendem Umfang zu finden. Es durfte nicht zu groß werden, da auch nur einen bestimmter Zeitraum für die Erarbeitung vorgesehen war, aber musste auch die persönlichen Kenntnissstände in der Gruppe berücksichtigen. Über Ideen von einem Roboter, selbstfahrende Autos bis hin zu einer Wetterstation kamen verschiedene Vorschläge auf. Viele dieser Ideen entpuppten sich dann allerdings doch als zu schwierig, da nicht alle Gruppenmitglieder mit dem Arduino vertraut waren und mit den Grundlagen begonnen werden musste. Deshalb fiel schnell die Entscheidung zu einer Wetterstation mit verschiedenen Sensoren, da dieses Projekt verschiedene Arbeitsmethoden und Kenntnisse zulässt. So musste zum Beispiel eine Website und der Sketch progammiert und ein Gehäuse für den Arduino gebastelt werden.<br></p>
+<p>Aller Anfang ist schwer - auch hier ist das Sprichwort uneingeschränkt anwendbar. In den ersten Stunden galt es ein passendes Projekt mit passendem Umfang zu finden. Es durfte nicht zu groß werden, da auch nur ein bestimmter Zeitraum für die Erarbeitung vorgesehen war, musste aber auch die persönlichen Kenntnisstände in der Gruppe berücksichtigen. Über Ideen von einem Roboter, selbstfahrende Autos bis hin zu einer Wetterstation kamen verschiedene Vorschläge auf. Viele dieser Ideen entpuppten sich dann allerdings doch als zu schwierig, da nicht alle Gruppenmitglieder mit dem Arduino vertraut waren und mit den Grundlagen begonnen werden musste. Deshalb fiel schnell die Entscheidung zu einer Wetterstation mit verschiedenen Sensoren, da dieses Projekt verschiedene Arbeitsmethoden und Kenntnisse zulässt. So musste zum Beispiel eine Website und der Sketch programmiert und ein Gehäuse für den Arduino gebastelt werden.<br></p>
 <p>Grobe Skizze des Arduinogehäuses:</p>
 
 ![image](https://user-images.githubusercontent.com/88386279/142203090-0f47e3cf-efc7-468d-abcc-3b197753cab8.jpeg)  
@@ -43,9 +43,9 @@ In dem Projekt wurde ein Arduino UNO verwendet, der mit 7 bis 12 Volt arbeitet u
   
 
 <h2 id="kapitel4">4. Vorstellung des Projekts</h2>
-<p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik. Diese besteht aus dem Arduino, der mit einer Stromquelle verbunden ist, dem Data-Logging-Shield, wo die Mikro-SD-Karte die Daten speichert und dem Breadboard mit den angeschlossenen Sensoren BME280 und BN2134129. Die Stromquelle ist eine Powerbank für Smartphones, die für den Arduino und seine Anwendungen für ungefähr 24 Stunden den Strom liefert. Danach kann über das abnehmbare Dach und den Zwischenboden die Powerbank und die SD-Karte ausgetauscht werden. Nun messen die Sensoren auf Befehl des Arduinos alle 10 Minuten Daten und werden wieder auf der SD-Karte gespeicher bis 24 Stunden danach wieder der Akku leer ist und wieder ausgetauscht werden muss. In der Zwischenzeit kann die SD-Karte an einen Computer angeschlossen werden und die Daten in eine Datenbank übertragen werden, sodass diese dann auf der <a href="https://henrik.stormarnschueler.de/">Webseite</a> automatisch in den dazugehörigen Diagrammen angezeigt werden. Diese Diagramme erreicht man über den weiteren Button "Details", der auf dem spezifischen Tag immer zu sehen ist. Hier werden dann die Tagesverläufe von Temperatur, Luftdruck, Luftfeuchtigkeit und Licht angezeigt. </p>
+<p>Im fertigen Zustand ist kaum noch etwas vom Arduino zu sehen. Das Gehäuse verdeckt alle Elektronik und lässt auf den ersten Blick die Vermutung zu, dass es sich um ein normales Vogelhäuschen handelt. Nimmt man das Dach und den Zwischenboden ab, sieht man die Technik. Diese besteht aus dem Arduino, der mit einer Stromquelle verbunden ist, dem Data-Logging-Shield, wo die Mikro-SD-Karte die Daten speichert und dem Breadboard mit den angeschlossenen Sensoren BME280 und BN2134129. Die Stromquelle ist eine Powerbank für Smartphones, die für den Arduino und seine Anwendungen für ungefähr 24 Stunden den Strom liefert. Danach kann über das abnehmbare Dach und den Zwischenboden die Powerbank und die SD-Karte ausgetauscht werden. Nun messen die Sensoren auf Befehl des Arduinos alle 10 Minuten Daten und diese werden wieder auf der SD-Karte gespeichert, bis 24 Stunden danach erneut der Akku leer ist und wieder ausgetauscht werden muss. In der Zwischenzeit kann die SD-Karte an einen Computer angeschlossen werden und die Daten in eine Datenbank übertragen werden, sodass diese dann auf der <a href="https://henrik.stormarnschueler.de/">Webseite</a> automatisch in den dazugehörigen Diagrammen angezeigt werden. Diese Diagramme erreicht man über den weiteren Button "Details", der auf dem spezifischen Tag immer zu sehen ist. Hier werden dann die Tagesverläufe von Temperatur, Luftdruck, Luftfeuchtigkeit und Licht angezeigt. </p>
   
-<p>Bauplan des Arduinogehäuses:</p>
+<p>Abschließender Bauplan des Arduinogehäuses:</p>
 
 ![image](https://user-images.githubusercontent.com/88386279/144708469-b259492f-dfb5-47bd-98c8-be0976834e12.jpeg)
   
@@ -133,7 +133,7 @@ Adafruit_BME280(bme);
 <b>Part 2</b>
     
     
-Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit und ```druck``` für Luftdruck als float hintelegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Dezimalzahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp ``int`` (Integer), der nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt Null. Die Variable ```sonne``` wird auch als float gespeichert und erhält ebenfalls von Anfang an den Wert 0.
+Anschließend werden die Variablen ```temp``` für Temperatur, ```feuchte``` für Luftfeuchtigkeit und ```druck``` für Luftdruck als float hinterlegt. Ein float (englisch für Gleitkommazahl), ist ein Datentyp zum Speichern von Dezimalzahlen. Wir speichern die Variablen als float (Gleitkommazahl), da wir genauere Wetter Daten speichern möchten. Die Alternative zum float ist der Datentyp ``int`` (Integer), der nur ganzzahlige Werte speichert. Ganzzahlige Werte werden in der Genauigkeit von floats übertroffen, da diese mit zwei Nachkommastellen die Realität genauer abbilden. Den definierten Variablen wird hier noch kein Wert zugewiesen, bzw. der Wert der Variablen beträgt null. Die Variable ```sonne``` wird auch als float gespeichert und erhält ebenfalls von Anfang an den Wert 0.
 <tr><td>
 
 ```
@@ -148,24 +148,24 @@ if (!bme.begin(0x76)) {
   while (1);
   }
 
-Serial.println("SD-Karte intialisieren");
+Serial.println("SD-Karte initialisieren");
 
 if (!SD.begin(SPI_CS)) {
   Serial.println("SD-Karte nicht lesbar! Überprüfe die SD-Karte!");
   while (1);
   }
 
-Serial.println("Erfolgreich intialisiert");
+Serial.println("Erfolgreich initialisiert");
 }
 ```
 </td><td>
 <b>Part 3</b>
     
     
-In ```void setup()``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup()``` Funktion wird jedes mal beim Aufrufen des Sketches ein einziges Mal gestartet. Mit ```Serial.begin(9600)``` wird die serielle Schnittstelle geöffnet und die Datenrate auf 9600 Bit/s eingestellt. Über diese Schnittstelle lassen sich Daten in der Arduino IDE auf dem seriellen Monitor anzeigen, womit wir am Anfang einer Messreihe überprüfen, ob die Kabel korrekt angeschlossen sind. Mit der Funktion ```setSyncProvider(RTC.get)``` wird die Uhrzeit-Abfrage der Real-Time-Clock intialisiert.
+In ```void setup()``` werden immer wiederkehrende Elemente hinterlegt. Die ```void setup()``` Funktion wird jedes Mal beim Aufrufen des Sketches ein einziges Mal gestartet. Mit ```Serial.begin(9600)``` wird die serielle Schnittstelle geöffnet und die Datenrate auf 9600 Bit/s eingestellt. Über diese Schnittstelle lassen sich Daten in der Arduino IDE auf dem seriellen Monitor anzeigen, womit wir am Anfang einer Messreihe überprüfen, ob die Kabel korrekt angeschlossen sind. Mit der Funktion ```setSyncProvider(RTC.get)``` wird die Uhrzeit-Abfrage der Real-Time-Clock initialisiert.
     
 Anschließend wird mit einer If-Abfrage geprüft, ob der BME280 angeschlossen ist. Sofern die Funktion ```bme.begin(0x76)``` einen falschen Wert zurück gibt, wird auf dem seriellen Monitor "Kein BME280 angeschlossen! Prüfe die Kabel" angezeigt, damit man die Anschlüsse überprüfen kann. Wenn kein BME280 angeschlossen ist,  wird die Funktion nicht beendet, weil eine ```while(1)``` Schleife eingefügt ist. Nachdem man die Anschlüsse überprüft hat, muss man den Sketch neu starten.
-Wenn der Sensor angeschlossen ist, wird auf dem Seriellen Monitor "SD-Karte intialisieren" angezeigt. Es wird in der folgenden Funktion eine If-Abfrage gestartet, wo geprüft wird, ob die SD-Karte lesbar und beschreibbar ist. Wenn die Funktion ```SD.begin(SPI_CS)``` einen ungültigen Wert zurückgibt, wird auf dem Seriellen Monitor "SD-Karte nicht lesbar! Überprüfe die SD-Karte!" angezeigt. Falls die SD-Karte richtig eingelegt ist, wird die If-Abfrage verlassen und duf dem Seriellen Monitor wird "Erfolgreich intialisiert" angezeigt.
+Wenn der Sensor angeschlossen ist, wird auf dem Seriellen Monitor "SD-Karte initialisieren" angezeigt. Es wird in der folgenden Funktion eine If-Abfrage gestartet, wo geprüft wird, ob die SD-Karte lesbar und beschreibbar ist. Wenn die Funktion ```SD.begin(SPI_CS)``` einen ungültigen Wert zurückgibt, wird auf dem Seriellen Monitor "SD-Karte nicht lesbar! Überprüfe die SD-Karte!" angezeigt. Falls die SD-Karte richtig eingelegt ist, wird die If-Abfrage verlassen und auf dem Seriellen Monitor wird "Erfolgreich initialisiert" angezeigt.
 </td></tr>
 <td>
     
@@ -220,7 +220,7 @@ String Zeit = String(hour()) +
 </td><td>
 <b>Part 6</b>
     
-Nachdem der String mit den Messdaten unter ```Datensatz``` in Part 5 gespeichert wurde, wird hier ein neuer String unter der Bezeichnung ```Zeit``` angelegt. Die Zeitangaben können mit unterschiedlichen Funktionen abgerufen werden. So wird die Stundenangabe mit der Funktion ```hour()``` abgefragt. Da diese Funktion eine Zahl darstellt, muss sie erneut mit der ```String()``` Funktion zu einem String umgewandelt werden. Dieses Vorgehen wird auch bei der Minutenangabe und Sekundenangabe angewandt. Diese Zahlen werden durch ein ":" getrennt und zu der folgenden Jahreszahl wird ein Komma gesetzt. Zwischen Jahreszahl, dem Monat und dem Tag sind "-" zur Abtrennung eingefügt. Diese From der Trennung der einzellnen Bestandteile ist erneut in der CSV-Datei von Bedeutung.
+Nachdem der String mit den Messdaten unter ```Datensatz``` in Part 5 gespeichert wurde, wird hier ein neuer String unter der Bezeichnung ```Zeit``` angelegt. Die Zeitangaben können mit unterschiedlichen Funktionen abgerufen werden. So wird die Stundenangabe mit der Funktion ```hour()``` abgefragt. Da diese Funktion eine Zahl darstellt, muss sie erneut mit der ```String()``` Funktion zu einem String umgewandelt werden. Dieses Vorgehen wird auch bei der Minutenangabe und Sekundenangabe angewandt. Diese Zahlen werden durch ein ":" getrennt und zu der folgenden Jahreszahl wird ein Komma gesetzt. Zwischen Jahreszahl, dem Monat und dem Tag sind "-" zur Abtrennung eingefügt. Diese Form der Trennung der einzelnen Bestandteile ist erneut in der CSV-Datei von Bedeutung.
 </td></tr>
 <tr><td>
 
@@ -248,7 +248,7 @@ Nachdem sowohl der String ``Datensatz`` als auch der String ``Zeit`` erstellt wu
 
 Es folgt eine If-Abfrage mit dem Ziel, festzustellen, ob die Datei ``Zieldatei`` existiert. Sofern die Datei vorhanden ist, werden mit ``Zieldatei.print(Datensatz)`` und ``Zieldatei.println(Zeit)`` beide vorher definierten Strings in die Datei ``temp_log.csv`` geschrieben, wonach die Zieldatei anschließend geschlossen wird, damit keine Daten verloren gehen oder beschädigt werden.
   
-Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "Datensatz konnte nicht geschrieben werden" angezeigt. Abschließend folgt eine Verzögerung von 10 Minuten (umgerechnet in Milisekunden = 600000, da die Delay-Funktion nur Milisekunden als Argument annimmt) mit der ``delay()`` Funktion, da alle 10 Minuten Werte von der Wetterstation auf der SD-Karte gespeichert werden sollen.</td></tr>
+Falls die Datei Zieldatei noch nicht existiert, wird auf dem Seriellen-Monitor "Datensatz konnte nicht geschrieben werden" angezeigt. Abschließend folgt eine Verzögerung von 10 Minuten (umgerechnet in Millisekunden = 600000, da die Delay-Funktion nur Millisekunden als Argument annimmt) mit der ``delay()`` Funktion, da alle 10 Minuten Werte von der Wetterstation auf der SD-Karte gespeichert werden sollen.</td></tr>
 </table>  
 
 <h3 id="Code">5.2. Der Code der Website</h3>
