@@ -288,7 +288,7 @@ Hier wurden die Programmiersprachen HTML und Php gemischt eingesetzt.</p><br>
     
     
     An dieser Stelle wird die Überschrift der Website und
-    der Link zum hochladen neuer Messdaten hinzugefügt.
+    der Link zum Hochladen neuer Messdaten hinzugefügt.
     Diese sind in einer übergeordneten <section> 
     angeordnet, damit sie am Ende nebeneinander angezeigt
     werden können.
@@ -352,7 +352,7 @@ Hier wurden erneut HTML und Php eingesetzt, aber es wurde auch JavaScript einges
   <b>Part 2</b>
     
     Nachdem die Struktur der Unterseite definiert wurde, werden
-    jetzt alle Daten für das Datum importiert, das beim klicken
+    jetzt alle Daten für das Datum importiert, das beim Klicken
     auf den Link mitgegeben wurde. Als nächstes werden für die 
     verschiedenen Messwerte Listen erstellt und diese Listen im
     nächsten Schritt mit den jeweiligen Messwerten gefüllt. 
@@ -472,9 +472,9 @@ Um das verarbeitende Programm umzusetzen, wurde Php und JavaScript verwendet.</p
     if-Schleife für den Import der Messwerte. Es handelt sich
     hierbei um ein JavaScript Element, dass erneut zur Hauptwebsite
     leitet, nachdem die CSV-Datei erfolgreich hochgeladen wurde. 
-    Außedem wird das Script mit exit beendet. Sollte das Passwort 
+    Außerdem wird das Script mit exit beendet. Sollte das Passwort, 
     das eingegeben wurde nicht mit dem vergebenen übereinstimmen,
-    springt das Script nicht in den Teil der if-Schleife zum hochladen,
+    springt das Script nicht in den Teil der if-Schleife zum Hochladen,
     sondern in die else-Bedingung. Hier wird die Meldung „Passwort
     falsch!“ ausgegeben und ein Link zur Hauptwebsite erstellt.
     
@@ -510,7 +510,7 @@ Gearbeitet wurde hier mit CSS.</p><br>
     der Gesamtbreite gesetzt, damit immer drei Tage in einer Reihe
     angezeigt werden. Im Folgenden werden noch weitere Details 
     geändert, wie die Hintergrund Farbe, die Randfarbe, die Ränder
-    bzw Abstände zu anderen Kästchen, die Textmerkmale wie z.B. 
+    bzw. Abstände zu anderen Kästchen, die Textmerkmale wie z.B. 
     unterstrichen oder ähnliches und außerdem die Ecken der 
     Kästchen abgerundet. Alle Weiteren Style-Elemente bestehen 
     aus genau diesen oder ähnlichen Elementen und sorgen insgesamt
@@ -523,7 +523,7 @@ Gearbeitet wurde hier mit CSS.</p><br>
 <h2 id="kapitel6">6. Die Sensoren</h2>
 <h3><b>Schaltplan</b><br></h3>
 
-Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer Wetterstation zwei Sensoren zum Einsatz. Der Sensor ``BME280``, der Luftfeuchtigkeit, Luftdruck und Temperatur misst und der Sensor ``BN2134129``, der die Lichtintensität misst. In der unten stehenden Abbildung kann man den Aufbau unserer Wetterstation sehen. Auf dem digitalen Schaltplan kann man die Kabelverbindungen sehen, die durch Striche dargestellt sind.<br>
+Die Sensoren sind das Herzstück unserer Wetterstation. Final kommen in unserer Wetterstation zwei Sensoren zum Einsatz. Der Sensor ``BME280``, der Luftfeuchtigkeit, Luftdruck und Temperatur misst und der Sensor ``BN2134129``, der die Lichtintensität misst. In der untenstehenden Abbildung kann man den Aufbau unserer Wetterstation sehen. Auf dem digitalen Schaltplan kann man die Kabelverbindungen sehen, die durch Striche dargestellt sind.<br>
   
 Mit ``VCC`` werden in unserem Schaltplan positive Leitungen für die Versorgungsspannung bezeichnet, ``GND`` ist die Abkürzung für Erdung (engl. ground), ``SCL`` (englisch für "serial clock") ist eine I2C Datenschnittstelle und bedeutet so viel wie "Inter-Integrated Circuit", im Deutschen gesprochen als I-Quadrat-C. Die Bezeichnung ``OUT`` steht für einen analogen PIN und die Abkürzung ``SDA`` (englisch für "serial data") steht erneut für eine I2C Datenschnittstelle.
 
@@ -540,7 +540,7 @@ Mit ``VCC`` werden in unserem Schaltplan positive Leitungen für die Versorgungs
   
 <img width="970" alt="Schaltplan(1)" src="https://user-images.githubusercontent.com/88386049/143048234-15350976-d0bd-4aa9-958d-9c9b0821ca42.png">
  
-<h3><b>PIN Beschreibung Lichtsensor BN2134129</b></h3>
+<h3><b>PIN-Beschreibung Lichtsensor BN2134129</b></h3>
 
 <table>
   <tr><th>PIN Sensor</th><th>PIN Arduino</th></tr>
@@ -552,7 +552,7 @@ Mit ``VCC`` werden in unserem Schaltplan positive Leitungen für die Versorgungs
 <p><b>Funktionsweise</b><br>
 Ein Lichtsensor oder auch Lichtwiderstand genannt, besteht aus einer mit einem fotosensitiven Halbleiter beschichteten Keramik. Der fotosensitive Halbleiter besteht meistens aus Cadmiumsulfid- (CdS) oder Cadmiumselenid-Schicht (CdSe), die eine ähnliche Lichtempfindlichkeit wie ein Photofilm zeigen. Je mehr Licht auf den Lichtwiderstand fällt, desto kleiner wird der elektrische Widerstand. Je kleiner der Widerstand ist, desto mehr Strom fließt durch den Sensor und desto höher ist der ausgegebene Messwert in LUX. Der Lichtwiderstand wird an den analogen Ausgang A0 angeschlossen. Der Sensor wird durch das Licht angeregt und gibt die Lichtstärke in der Einheit LUX aus. Selbst bei geringer Lichteinstrahlung wie etwa während der Dämmerung, können geringe Messungen von wenigen LUX erfasst werden. Erst bei absoluter Dunkelheit wird der Sensor nicht mehr angeregt und der Arduino speichert 0 LUX.</p>
 
-<h3><b>PIN Beschreibung Sensor BME280</b></h3>
+<h3><b>PIN-Beschreibung Sensor BME280</b></h3>
 
 <table>
   <tr><th>PIN Sensor</th><th>PIN Arduino</th></tr>
@@ -570,7 +570,7 @@ Der Sensor BME280 vereint Temperatur-, Luftfeuchtigkeits- und Luftdruckmessungen
 
 
 <h2 id="kapitel7">7. Kritik</h2>
-<p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketches für zwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden. Zusammenfassend können wir mit unserer Arbeitsweise sehr zufrieden sein. Durch die Gruppengröße von 3 Mitgliedern konnten schnell Fortschritte erzielt werden. Wir lagen dementsprechend immer in unserem selbstgesteckten Zeitplan und hatten am Anfang auch Zeit einige neue Sketche und Sensoren auszuprobieren, die am Ende dann doch keine Anwendung gefunden haben. Trotzdem haben sie uns beim Gesamtziel vorangebracht, da wie so viel lernen konnten. Falls ein weiteres Mal eine Gruppengröße von drei zur Debatte steht, würden wir nicht sagen können "es hat nicht funktioniert".   </p>  
+<p>Als alles fertig war, war die Erleichterung in der Gruppe groß. Nicht immer sah es so aus, dass wir am Ende am Ziel ankommen. Besonders war die Passage der Zusammenführung der beiden Sketche für zwei Sensoren herausfordernd. Als es dann am Ende langsam auf die Zielgerade ging, mussten nur noch die letzten Dinge an der Webseite programmiert und die Projektseite erstellt werden. Zusammenfassend können wir mit unserer Arbeitsweise sehr zufrieden sein. Durch die Gruppengröße von 3 Mitgliedern konnten schnell Fortschritte erzielt werden. Wir lagen dementsprechend immer in unserem selbstgesteckten Zeitplan und hatten am Anfang auch Zeit einige neue Sketche und Sensoren auszuprobieren, die am Ende dann doch keine Anwendung gefunden haben. Trotzdem haben sie uns beim Gesamtziel vorangebracht, da wie so viel lernen konnten. Falls ein weiteres Mal eine Gruppengröße von drei zur Debatte steht, würden wir nicht sagen können "es hat nicht funktioniert".   </p>  
   
 <h2 id="kapitel8">8. Fazit</h2>
 <p>Die Wetterstation auf der Basis eines Arduinos ist ein schönes Projekt gewesen. Es war anspruchsvoll und hat allen Beteiligten in der Gruppe ein Höchstmaß an Konzentration abverlangt und war zudem für alle sehr lehrreich. Trotz der am Anfang leichten Findungsschwierigkeiten hinsichtlich eines Projektes haben wir mit unserem Resultat eine interessante und für den Alltag zweckmäßige Umsetzung gefunden. Über das Projekt hinaus haben wir große Programmierkenntnisse gewonnen, die nicht immer im fertigen Projekt angewandt wurden, aber dennoch einen Lernprozess bescheinigen.
