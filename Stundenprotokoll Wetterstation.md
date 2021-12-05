@@ -19,7 +19,8 @@ Unsere Wetterstation ist eine hervorragende Art das Aufstehen zu erleichtern und
 @TheMoonlandingV2<br></b>
 
 <br><p>Unsere <a href="Projektseite Wetterstation.md">Projektseite</a> enthält Erläuterungen zu unserer Wetterstation und zusätzlich eine abschließende Bewertung unseres Projektes.<br>
-<br>Hier gelangt man zu unserem <a href="README.md">README.md</a> zu einer besseren Übersicht.<br>
+<br>Hier gelangt man zu unserem <a href="README.md">README.md</a> zu einer besseren Übersicht.<br><br>
+
 Auf unserer eigenen <a href="https://henrik.stormarnschueler.de/">Website</a> werden die von der Wetterstation gemessenen Daten gespeichert und können eingesehen werden.<br></p>
 
 <h2 id="kapitel2">2. Stundenprotokoll</a></h2></li>
