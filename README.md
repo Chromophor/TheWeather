@@ -7,6 +7,7 @@
 <li><a href="Stundenprotokoll Wetterstation.md">1. Stundenprotokoll</a></h2></li>
 <li><a href="Projektseite Wetterstation.md">2. Projektseite</a></h2></li>
 <li><a href="#contributors">3. contributors</a></h2></li>
+<li><a href="#languages">4. Languages</a></h2></li>
 <li><a href="#quotes">4. quotes</a></h2></li><br>
 
 <p><b>Stundenprotokoll</b><br>
@@ -20,6 +21,12 @@
 <b>@Obeliks003</b> alias Henrik Bormann<br>
 <b>@xxxGernchenxxx</b> alias Gernot Zesch<br>
 <b>@TheMoonlandingV2</b> alias Thorben Heinz<br>
+
+<h2 id="languages">Languages</h2>
+
+<li>PHP mit einem Anteil von 67,1%</li>
+<li>CSS mit einem Anteil von 17,8%</li>
+<li>C++ mit einem Anteil von 13,1%</li>
 
 <h2 id="quotes">quotes:</h2>
 
