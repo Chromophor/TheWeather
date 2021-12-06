@@ -692,8 +692,7 @@ Heute haben wir uns mit denselben Dingen wie gestern weiterbeschäftigt. Leider 
 <h2 id="kapitel3">3. Materialien</a></h2>
 
 
-<p>Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen. Alle eingesetzten Materialien sind mit einem Haken gekennzeichnet:
-<b>Produktbeschreibung jeweils hinzufügen!!!</b></p>
+<p>Hier ist eine Liste mit allen Materialien, die wir für unsere Wetterstation brauchen. Alle eingesetzten Materialien sind mit einem Haken gekennzeichnet:</p>
 
 <p><b>Experimentelle Bausteine:</b></p>
 
