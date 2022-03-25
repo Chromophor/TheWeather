@@ -23,7 +23,7 @@ Mit einem schönen Design stört die Wetterstation auch nicht beim Blick aus dem
 Unsere Wetterstation ist eine hervorragende Art das Aufstehen zu erleichtern und überflüssigen Stress zu vermeiden - so steht man gerne auf!<br><br>
 
 Das Projekt haben wir in unserem <a href="Stundenprotokoll Wetterstation.md">Stundenprotokoll</a> dokumentiert. Hier ist jede Unterrichtsstunde mit einem Beitrag und einer dazugehörigen Erläuterung aufgeführt.<br><br>Zur besseren Übersicht gelangt man hier zum <a href="README.md">README.md</a>, wo alle Projektbeiträge zentral verknüpft sind.<br><br>
-Auf unserer eigenen <a href="https://henrik.stormarnschueler.de/">Website</a> werden die von der Wetterstation gemessenen Daten gespeichert und können eingesehen werden.</p><br>
+Auf unserer eigenen <a href="//https://henrik.stormarnschueler.de/">Website</a> werden die von der Wetterstation gemessenen Daten gespeichert und können eingesehen werden.</p><br>
 
 <h2 id="kapitel2">2. Arduino und Sketch</h2>
 
