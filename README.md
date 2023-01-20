@@ -18,9 +18,9 @@
   Auf unserer eigenen Website werden die von der Wetterstation gemessenen Daten gespeichert und können eingesehen werden.</p><br>
 
 <h2 id="contributors">contributors:</h2>
-<b>@Obeliks003</b> alias Henrik Bormann<br>
-<b>@xxxGernchenxxx</b> alias Gernot Zesch<br>
-<b>@TheMoonlandingV2</b> alias Thorben Heinz<br>
+<b>@Obeliks003</b><br>
+<b>@xxxGernchenxxx</b><br>
+<b>@TheMoonlandingV2</b><br>
 
 <h2 id="languages">languages</h2>
 
