@@ -20,7 +20,7 @@
 <h2 id="contributors">contributors:</h2>
 <b>@Obeliks003</b><br>
 <b>@xxxGernchenxxx</b><br>
-<b>@TheMoonlandingV2</b><br>
+<b>@Chromophor</b><br>
 
 <h2 id="languages">languages</h2>
 
